@@ -1,0 +1,39 @@
+{
+    "name": "Lap Kneel, Affection |+ Julie London",
+    "modpack": "Ceo",
+    "length": 10,
+    "destination": "vanilla_KFy6!TKy3_Ho_KfDaddy",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_KnLap+01SiKe"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [
+        {
+            "type": "hugging",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

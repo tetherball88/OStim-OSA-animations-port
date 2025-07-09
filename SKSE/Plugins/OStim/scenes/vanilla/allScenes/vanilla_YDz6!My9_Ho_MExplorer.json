@@ -1,0 +1,47 @@
+{
+    "name": "Explorer | Imminence",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_MExplorer"
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_YDz6!My9_Ho_MExplorer+01Crt",
+            "description": "Open {1}'s thighs and place your thumb on clit.",
+            "icon": "OStim/sexual/fingering_up_m"
+        },
+        {
+            "destination": "vanilla_YDz6!My9_Ho_MExplorer+00YhOnZ",
+            "description": "Climb over {1}.",
+            "icon": "OStim/sexual/missionary_mf"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "lyingfront"
+            ],
+            "feetOnGround": false,
+            "lookDown": 80
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingback"
+            ],
+            "feetOnGround": true,
+            "lookDown": 60,
+            "lookRight": 20
+        }
+    ],
+    "actions": [],
+    "tags": [
+        "osa"
+    ]
+}

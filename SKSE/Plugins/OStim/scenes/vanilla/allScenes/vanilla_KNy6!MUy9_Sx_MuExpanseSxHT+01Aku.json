@@ -1,0 +1,41 @@
+{
+    "name": "Expanse, Top Grip |+ Ankles up",
+    "modpack": "Ceo",
+    "length": 4,
+    "destination": "vanilla_KNy6!MVy9_Sx_MvAkuSxHT",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_MuExpanseSxHT+01Aku"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 2,
+            "scale": 1.03,
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingback",
+                "spreadlegs"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

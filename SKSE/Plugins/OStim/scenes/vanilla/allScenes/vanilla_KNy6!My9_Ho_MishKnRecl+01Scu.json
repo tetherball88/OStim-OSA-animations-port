@@ -1,0 +1,35 @@
+{
+    "name": "Spread Recline |+ Scoot",
+    "modpack": "Ceo",
+    "length": 4,
+    "destination": "vanilla_KNy6!MUy9_Ho_MuExpanse",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_MishKnRecl+01Scu"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingback",
+                "spreadlegs"
+            ],
+            "feetOnGround": true
+        }
+    ],
+    "actions": [],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

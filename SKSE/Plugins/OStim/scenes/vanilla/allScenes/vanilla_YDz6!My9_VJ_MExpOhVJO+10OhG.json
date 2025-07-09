@@ -1,0 +1,45 @@
+{
+    "name": "Explorer, Head |+ Hand off head",
+    "modpack": "Ceo",
+    "length": 2,
+    "destination": "vanilla_YDz6!My9_VJ_MExpOhVJG",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_MExpOhVJO+10OhG"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "lyingfront"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingback"
+            ],
+            "feetOnGround": true
+        }
+    ],
+    "actions": [
+        {
+            "type": "cunnilingus",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "pattinghead",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

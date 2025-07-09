@@ -1,0 +1,41 @@
+{
+    "name": "Standing Reverse Cuddles |+ like this and then that...",
+    "modpack": "Ceo",
+    "length": 6,
+    "destination": "vanilla_Sy6!Sy6_Ho_St6Pop",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_St6RevCud+01Ba35"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "standing",
+                "facingaway"
+            ],
+            "feetOnGround": true
+        }
+    ],
+    "actions": [
+        {
+            "type": "hugging",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

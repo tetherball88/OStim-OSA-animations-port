@@ -1,0 +1,38 @@
+{
+    "name": "Spoon, Affection |+ Rear Penetration",
+    "modpack": "Ceo",
+    "length": 6,
+    "destination": "vanilla_Iy2!Iy2_Sx_SpoonSxPM",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_SpoonPo+01SxPm"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1.03,
+            "tags": [
+                "lyingside"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingside"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [
+        {
+            "type": "malemasturbation",
+            "actor": 0
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

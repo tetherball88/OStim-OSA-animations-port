@@ -1,0 +1,61 @@
+{
+    "name": "Expanse, Pulled out jerk |+ Stop",
+    "modpack": "Ceo",
+    "length": 11.8,
+    "destination": "vanilla_KNy6!MUy9_Po_MuExpansePo",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_MuExpansePo+OrgasmM"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "kneeling",
+                "climaxing"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingback",
+                "spreadlegs"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [
+        {
+            "type": "holdingthigh",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "malemasturbation",
+            "actor": 0
+        },
+        {
+            "type": "cumonchest",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "cumonvulva",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "facial",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

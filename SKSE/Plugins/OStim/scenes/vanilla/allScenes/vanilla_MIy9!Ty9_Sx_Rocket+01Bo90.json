@@ -1,0 +1,48 @@
+{
+    "name": "Rocket, Sex |+ Bend Forward",
+    "modpack": "Ceo",
+    "length": 6,
+    "destination": "vanilla_MIy9!Ty9_Sx_Bumper8B",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_Rocket+01Bo90"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "lyingback",
+                "onbottom"
+            ],
+            "feetOnGround": true
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "allfours",
+                "ontop"
+            ],
+            "feetOnGround": true
+        }
+    ],
+    "actions": [
+        {
+            "type": "holdingbody",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa",
+        "reversecowgirl",
+        "transition"
+    ]
+}

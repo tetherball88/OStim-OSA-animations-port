@@ -1,0 +1,69 @@
+{
+    "name": "Plumber | Blowjob (Thrust)",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_PlumberBJT_S0",
+            "playbackSpeed": 1,
+            "displaySpeed": 0.5
+        },
+        {
+            "animation": "osex_vanilla_PlumberBJT_S1",
+            "playbackSpeed": 1,
+            "displaySpeed": 1
+        },
+        {
+            "animation": "osex_vanilla_PlumberBJT_S2",
+            "playbackSpeed": 1,
+            "displaySpeed": 1.5
+        },
+        {
+            "animation": "osex_vanilla_PlumberBJT_S3",
+            "playbackSpeed": 1,
+            "displaySpeed": 2
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_KFy6!MIy9_Ho_CraneLounge",
+            "description": "Lower yourself between {1}'s legs.",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": -1,
+            "scale": 1.03,
+            "tags": [
+                "allfours"
+            ],
+            "feetOnGround": false,
+            "lookDown": 100
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingback"
+            ],
+            "feetOnGround": true,
+            "lookDown": 100
+        }
+    ],
+    "actions": [
+        {
+            "type": "blowjob",
+            "actor": 1,
+            "target": 0
+        },
+        {
+            "type": "gropingbutt",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

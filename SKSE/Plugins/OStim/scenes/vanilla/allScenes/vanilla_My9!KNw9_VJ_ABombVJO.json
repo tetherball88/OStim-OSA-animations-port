@@ -1,0 +1,58 @@
+{
+    "name": "ABomb | Face Sit",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_ABombVJO_S1",
+            "playbackSpeed": 1,
+            "displaySpeed": 1
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_My9!KNw9_Ho_ABomb",
+            "description": "Pull off {0}'s face.",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": -1,
+            "scale": 1.03,
+            "tags": [
+                "lyingback",
+                "onbottom"
+            ],
+            "feetOnGround": false,
+            "lookDown": 80
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "kneeling",
+                "ontop"
+            ],
+            "feetOnGround": false,
+            "lookDown": 60,
+            "lookRight": 20
+        }
+    ],
+    "actions": [
+        {
+            "type": "cunnilingus",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "blowjob",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "osa",
+        "sixtynine"
+    ]
+}

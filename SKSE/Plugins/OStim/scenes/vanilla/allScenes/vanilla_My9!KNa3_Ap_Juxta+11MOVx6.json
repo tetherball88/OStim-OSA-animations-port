@@ -1,0 +1,34 @@
+{
+    "name": "Juxta |+ Slide Down",
+    "modpack": "Ceo",
+    "length": 4,
+    "destination": "vanilla_My9!KNx6_Ap_PompAp",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_Juxta+11MOVx6"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "lyingback"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

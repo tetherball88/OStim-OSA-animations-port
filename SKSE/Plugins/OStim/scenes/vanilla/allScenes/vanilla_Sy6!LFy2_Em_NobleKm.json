@@ -1,0 +1,63 @@
+{
+    "name": "NobleKm | Affection",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_LiftedLotus"
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_Sy6!LFy2_Em_NobleKm+10Kx",
+            "description": "Stop kissing {0}.",
+            "icon": "OStim/sensual/kissing_end"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true,
+            "lookDown": 60
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "suspended"
+            ],
+            "feetOnGround": false,
+            "lookDown": 70,
+            "lookRight": 20
+        }
+    ],
+    "actions": [
+        {
+            "type": "hugging",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "holdingbody",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "hugging",
+            "actor": 1,
+            "target": 0
+        },
+        {
+            "type": "kissing",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

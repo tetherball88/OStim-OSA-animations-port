@@ -1,0 +1,84 @@
+{
+    "name": "Lifted Lotus | Hand Job",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_LiftedLotusHJO_S1",
+            "playbackSpeed": 1,
+            "displaySpeed": 1
+        },
+        {
+            "animation": "osex_vanilla_LiftedLotusHJO_S2",
+            "playbackSpeed": 1,
+            "displaySpeed": 1.5
+        },
+        {
+            "animation": "osex_vanilla_LiftedLotusHJO_S3",
+            "playbackSpeed": 1,
+            "displaySpeed": 2
+        },
+        {
+            "animation": "osex_vanilla_LiftedLotusHJO_S4",
+            "playbackSpeed": 1,
+            "displaySpeed": 2.5
+        },
+        {
+            "animation": "osex_vanilla_LiftedLotusHJO_S5",
+            "playbackSpeed": 1,
+            "displaySpeed": 3
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_Sy6!LLy9_HJ_LiftedLotusHJO+10SxBU",
+            "description": "Take {0} inside of you.",
+            "icon": "OStim/sexual/penis_insert_vert"
+        },
+        {
+            "destination": "vanilla_Sy6!LLy9_HJ_LiftedLotusHJO+10CX",
+            "description": "Stop stroking {0}.",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true,
+            "lookDown": 60
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "suspended"
+            ],
+            "feetOnGround": false,
+            "lookDown": 30
+        }
+    ],
+    "actions": [
+        {
+            "type": "holdingbody",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "hugging",
+            "actor": 1,
+            "target": 0
+        },
+        {
+            "type": "handjob",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

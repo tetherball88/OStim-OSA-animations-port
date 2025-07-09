@@ -1,0 +1,44 @@
+{
+    "name": "Cowgirl, Grind/Glide |+ Pull out and off",
+    "modpack": "Ceo",
+    "length": 8,
+    "destination": "vanilla_MIy9!KNy6_HJ_KnCowGHJO",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_KnCowGSxGL+10PoHJO"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1.03,
+            "tags": [
+                "lyingback",
+                "onbottom"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "sitting",
+                "ontop"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1,
+            "performer": 1
+        }
+    ],
+    "tags": [
+        "osa",
+        "cowgirl",
+        "transition"
+    ]
+}

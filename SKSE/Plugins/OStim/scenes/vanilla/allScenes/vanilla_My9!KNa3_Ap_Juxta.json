@@ -1,0 +1,48 @@
+{
+    "name": "Juxta",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_Juxta"
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_My9!KNa3_Ap_Juxta+10SadRFM",
+            "description": "Reverse-straddle {0}'s face.",
+            "icon": "OStim/sexual/facesitting_mf"
+        },
+        {
+            "destination": "vanilla_My9!KNa3_Ap_Juxta+11MOVx6",
+            "description": "Scoot next to {0}'s lower body.",
+            "icon": "OStim/positional/leanback_f"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "lyingback"
+            ],
+            "feetOnGround": false,
+            "lookUp": 10,
+            "lookRight": 22
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false,
+            "lookDown": 100,
+            "lookRight": 35
+        }
+    ],
+    "actions": [],
+    "tags": [
+        "osa"
+    ]
+}

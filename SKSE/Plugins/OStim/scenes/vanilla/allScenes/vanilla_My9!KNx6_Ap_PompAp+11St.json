@@ -1,0 +1,34 @@
+{
+    "name": "Pomp |+ Lay on tummy",
+    "modpack": "Ceo",
+    "length": 4,
+    "destination": "vanilla_My9!Sx6_Ap_Invitation",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_PompAp+11St"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "lyingback"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "name": "Spoon, Sex Pumps |+ Flip onto Tummy",
+    "modpack": "Ceo",
+    "length": 4,
+    "destination": "vanilla_YHy6!Uy6_Sx_SideGrindSxHT",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_SpoonSxPM+01Tu6"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "lyingside"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingside"
+            ],
+            "feetOnGround": true
+        }
+    ],
+    "actions": [
+        {
+            "type": "holdinghip",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

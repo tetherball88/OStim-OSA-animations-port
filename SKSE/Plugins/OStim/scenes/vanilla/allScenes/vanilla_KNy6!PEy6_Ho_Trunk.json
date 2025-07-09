@@ -1,0 +1,54 @@
+{
+    "name": "Trunk Inspection | Fondle",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_Trunk"
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_KNy6!PEy6_Ho_Trunk+01So45",
+            "description": "Lift {1}'s chest off the ground.",
+            "icon": "OStim/symbols/return"
+        },
+        {
+            "destination": "vanilla_KNy6!PEy6_Cr_TrunkCrf",
+            "description": "Massage {1}'s clit.",
+            "icon": "OStim/sexual/fingering_m"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false,
+            "lookDown": 100,
+            "lookRight": 100
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "allfours"
+            ],
+            "feetOnGround": false,
+            "lookDown": 100,
+            "lookRight": 100
+        }
+    ],
+    "actions": [
+        {
+            "type": "gropingbutt",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

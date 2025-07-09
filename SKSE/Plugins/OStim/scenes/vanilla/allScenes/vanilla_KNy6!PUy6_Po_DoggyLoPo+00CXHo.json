@@ -1,0 +1,44 @@
+{
+    "name": "Doggystyle, Legs out, Pulled out jerk |+ Hold hips",
+    "modpack": "Ceo",
+    "length": 2,
+    "destination": "vanilla_KNy6!PUy6_Ho_DoggyLo",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_DoggyLoPo+00CXHo"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 2,
+            "scale": 1.03,
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "allfours"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [
+        {
+            "type": "malemasturbation",
+            "actor": 0
+        },
+        {
+            "type": "holdinghip",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

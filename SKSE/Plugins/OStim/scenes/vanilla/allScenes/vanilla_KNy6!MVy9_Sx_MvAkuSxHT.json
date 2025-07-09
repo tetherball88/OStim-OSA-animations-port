@@ -1,0 +1,70 @@
+{
+    "name": "Scrunchie, Ankles Up | Sex, Heavy Thrusts",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_MvAkuSxHT_S1",
+            "playbackSpeed": 1,
+            "displaySpeed": 1
+        },
+        {
+            "animation": "osex_vanilla_MvAkuSxHT_S2",
+            "playbackSpeed": 1,
+            "displaySpeed": 1.5
+        },
+        {
+            "animation": "osex_vanilla_MvAkuSxHT_S3",
+            "playbackSpeed": 1,
+            "displaySpeed": 2
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_KNy6!MVy9_Sx_MvAkbSxHT",
+            "description": "Pull {1}'s legs outwards.",
+            "icon": "OStim/positional/stretchleg_f"
+        },
+        {
+            "destination": "vanilla_KNy6!MVy9_Sx_MvAkuSxHT+01Akd",
+            "description": "Lower {1}'s legs and grip thighs.",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1.03,
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false,
+            "lookDown": 80
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingback",
+                "spreadlegs"
+            ],
+            "feetOnGround": false,
+            "lookUp": 100
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "holdingleg",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

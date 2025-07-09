@@ -1,0 +1,40 @@
+{
+    "name": "Rear Up, Exposed |+ Unstraddle",
+    "modpack": "Ceo",
+    "length": 4,
+    "destination": "vanilla_KNy2!Uy6_Ap_KnTumDally",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_KfRearUpLi+00OffX"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": true
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingfront"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [
+        {
+            "type": "holdinghip",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

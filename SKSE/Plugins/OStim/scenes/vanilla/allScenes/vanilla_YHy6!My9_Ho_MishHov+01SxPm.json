@@ -1,0 +1,39 @@
+{
+    "name": "Missionary |+ Penetrate to pumps",
+    "modpack": "Ceo",
+    "length": 4,
+    "destination": "vanilla_YHy6!My9_Sx_MishHovSxPm",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_MishHov+01SxPm"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 2,
+            "scale": 1.03,
+            "tags": [
+                "allfours"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingback"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [
+        {
+            "type": "leglocking",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Squat |+ Stand",
+    "modpack": "Ceo",
+    "length": 4,
+    "destination": "vanilla_Sy6!Sy9_Ho_St9Adore",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_Squat+11St"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "squatting"
+            ],
+            "feetOnGround": true
+        }
+    ],
+    "actions": [
+        {
+            "type": "holdinghip",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

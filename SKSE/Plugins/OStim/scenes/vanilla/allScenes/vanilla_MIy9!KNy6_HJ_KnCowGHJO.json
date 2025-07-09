@@ -1,0 +1,81 @@
+{
+    "name": "Cowgirl, Kneel | Handjob",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_KnCowGHJO_S1",
+            "playbackSpeed": 1,
+            "displaySpeed": 1
+        },
+        {
+            "animation": "osex_vanilla_KnCowGHJO_S2",
+            "playbackSpeed": 1,
+            "displaySpeed": 1.5
+        },
+        {
+            "animation": "osex_vanilla_KnCowGHJO_S3",
+            "playbackSpeed": 1,
+            "displaySpeed": 2
+        },
+        {
+            "animation": "osex_vanilla_KnCowGHJO_S4",
+            "playbackSpeed": 1,
+            "displaySpeed": 2.5
+        },
+        {
+            "animation": "osex_vanilla_KnCowGHJO_S5",
+            "playbackSpeed": 1,
+            "displaySpeed": 3
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_MIy9!KNy6_HJ_KnCowGHJO+10SxGL",
+            "description": "Take {0} inside of you.",
+            "icon": "OStim/sexual/penis_insert_vert"
+        },
+        {
+            "destination": "vanilla_MIy9!KFy6_HJ_KfCowGHJO",
+            "description": "{1} kneels on one foot.",
+            "icon": "OStim/positional/squatting_f"
+        },
+        {
+            "destination": "vanilla_MIy9!KNy6_HJ_KnCowGHJO+10CX",
+            "description": "Stop stroking {0}.",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "lyingback",
+                "onbottom"
+            ],
+            "feetOnGround": false,
+            "lookDown": 80
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "sitting",
+                "ontop"
+            ],
+            "feetOnGround": false,
+            "lookDown": 100
+        }
+    ],
+    "actions": [
+        {
+            "type": "handjob",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

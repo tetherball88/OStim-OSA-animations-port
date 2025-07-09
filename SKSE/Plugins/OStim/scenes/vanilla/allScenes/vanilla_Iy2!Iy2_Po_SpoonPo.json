@@ -1,0 +1,75 @@
+{
+    "name": "Spoon |+ Pulled out",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_SpoonPo_S1",
+            "playbackSpeed": 1,
+            "displaySpeed": 1
+        },
+        {
+            "animation": "osex_vanilla_SpoonPo_S2",
+            "playbackSpeed": 1,
+            "displaySpeed": 1.5
+        },
+        {
+            "animation": "osex_vanilla_SpoonPo_S3",
+            "playbackSpeed": 1,
+            "displaySpeed": 2
+        },
+        {
+            "animation": "osex_vanilla_SpoonPo_S4",
+            "playbackSpeed": 1,
+            "displaySpeed": 2.5
+        },
+        {
+            "animation": "osex_vanilla_SpoonPo_S5",
+            "playbackSpeed": 1,
+            "displaySpeed": 3
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_Iy2!Iy2_Po_SpoonPo+01SxPm",
+            "description": "Penetrate {1} from the rear.",
+            "icon": "OStim/sexual/penis_insert_hz"
+        },
+        {
+            "destination": "vanilla_Iy2!Iy2_Po_SpoonPo+01CXHo",
+            "description": "Stop stroking yourself.",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1.03,
+            "tags": [
+                "lyingside"
+            ],
+            "feetOnGround": false,
+            "lookDown": 100,
+            "lookLeft": 50
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingside"
+            ],
+            "feetOnGround": false,
+            "lookDown": 10,
+            "lookRight": 100
+        }
+    ],
+    "actions": [
+        {
+            "type": "malemasturbation",
+            "actor": 0
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

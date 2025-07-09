@@ -1,0 +1,74 @@
+{
+    "name": "Grail | Sex, Pumps",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_MGrailSxPm_S1",
+            "playbackSpeed": 1,
+            "displaySpeed": 1
+        },
+        {
+            "animation": "osex_vanilla_MGrailSxPm_S2",
+            "playbackSpeed": 1,
+            "displaySpeed": 1.5
+        },
+        {
+            "animation": "osex_vanilla_MGrailSxPm_S3",
+            "playbackSpeed": 1,
+            "displaySpeed": 2
+        },
+        {
+            "animation": "osex_vanilla_MGrailSxPm_S4",
+            "playbackSpeed": 1,
+            "displaySpeed": 2.5
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_YHy6!My9_Sx_MGrailSxPm+10Emb",
+            "description": "Hold {0} tight.",
+            "icon": "OStim/sexual/matingpress_mf"
+        },
+        {
+            "destination": "vanilla_YHy6!My9_Sx_MChaliceSxPm",
+            "description": "Loosen your legs.",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 2,
+            "scale": 1.03,
+            "tags": [
+                "allfours"
+            ],
+            "feetOnGround": false,
+            "lookDown": 80
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingback"
+            ],
+            "feetOnGround": false,
+            "lookUp": 100
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "leglocking",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

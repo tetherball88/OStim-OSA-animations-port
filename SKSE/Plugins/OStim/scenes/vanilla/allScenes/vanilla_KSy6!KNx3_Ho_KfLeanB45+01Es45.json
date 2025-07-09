@@ -1,0 +1,41 @@
+{
+    "name": "Mischeivous, Fondle |+ Straighten out",
+    "modpack": "Ceo",
+    "length": 4,
+    "destination": "vanilla_KSy6!KNx3_Ho_KfLean",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_KfLeanB45+01Es45"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": true
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "kneeling",
+                "bendover"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [
+        {
+            "type": "gropingbutt",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "name": "Suspicious Fondle |+ Playful Spank!",
+    "modpack": "Ceo",
+    "length": 1.8,
+    "destination": "vanilla_Sy6!Sy6_Ho_St6Pop",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_St6Pop+01SexSpankR"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "standing",
+                "facingaway"
+            ],
+            "feetOnGround": true
+        }
+    ],
+    "actions": [
+        {
+            "type": "holdinghip",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

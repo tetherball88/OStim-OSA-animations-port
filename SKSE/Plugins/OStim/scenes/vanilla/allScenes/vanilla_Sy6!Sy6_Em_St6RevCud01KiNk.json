@@ -1,0 +1,50 @@
+{
+    "name": "Standing Rev. Cuddles, Kiss Neck |+ Unkiss",
+    "modpack": "Ceo",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_St6RevCud01KiNkV0"
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_Sy6!Sy6_Em_St6RevCud01KiNk+01Kx",
+            "description": "Stop kissing {1}.",
+            "icon": "OStim/sensual/kissing_end"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "standing",
+                "facingaway"
+            ],
+            "feetOnGround": true
+        }
+    ],
+    "actions": [
+        {
+            "type": "hugging",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "kissingneck",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

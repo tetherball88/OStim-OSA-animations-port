@@ -1,0 +1,40 @@
+{
+    "name": "Doggystyle, Legs In |+ Signal down",
+    "modpack": "Ceo",
+    "length": 6,
+    "destination": "vanilla_KFy6!Uy6_Ho_KfRearUpLi",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_DoggyLi+01SgYd"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "squatting"
+            ],
+            "feetOnGround": true
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "allfours"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [
+        {
+            "type": "holdinghip",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Pomp |+ Slide Up",
+    "modpack": "Ceo",
+    "length": 2,
+    "destination": "vanilla_My9!KNa3_Ap_Juxta",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_PompAp+11MOVa3"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [],
+            "feetOnGround": true
+        },
+        {
+            "intendedSex": "female",
+            "tags": [],
+            "feetOnGround": true
+        }
+    ]
+}

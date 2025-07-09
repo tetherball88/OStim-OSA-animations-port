@@ -1,0 +1,40 @@
+{
+    "name": "Doggystyle, Legs Out, Imminence | + Take hold",
+    "modpack": "Ceo",
+    "length": 4,
+    "destination": "vanilla_KNy6!PEy6_Ho_Trunk",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_DoggyLo+01Bo45"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "allfours"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [
+        {
+            "type": "holdinghip",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

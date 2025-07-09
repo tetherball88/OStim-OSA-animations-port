@@ -1,0 +1,65 @@
+{
+    "name": "Explorer | Head",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_MExpVJO_S0",
+            "playbackSpeed": 1,
+            "displaySpeed": 0.5
+        },
+        {
+            "animation": "osex_vanilla_MExpVJO_S1",
+            "playbackSpeed": 1,
+            "displaySpeed": 1
+        },
+        {
+            "animation": "osex_vanilla_MExpVJO_S2",
+            "playbackSpeed": 1,
+            "displaySpeed": 1.5
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_YDz6!My9_VJ_MExpVJO+10Oh",
+            "description": "{0} puts hand on {0}'s head.",
+            "icon": "OStim/detail/holdinghead_fm"
+        },
+        {
+            "destination": "vanilla_YDz6!My9_VJ_MExpVJO+01MX",
+            "description": "Take your mouth off {1}.",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "lyingfront"
+            ],
+            "feetOnGround": false,
+            "lookDown": 80
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingback"
+            ],
+            "feetOnGround": true,
+            "lookDown": 60,
+            "lookRight": 20
+        }
+    ],
+    "actions": [
+        {
+            "type": "lickingvagina",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

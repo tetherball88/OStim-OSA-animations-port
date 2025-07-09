@@ -1,0 +1,69 @@
+{
+    "name": "Doggystyle, Legs In | Imminence",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_DoggyLi"
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_Cy6!DOy6_Ho_DoggyLi+01F180",
+            "description": "Flip {1} over.",
+            "icon": "OStim/positional/lyingback_f"
+        },
+        {
+            "destination": "vanilla_Cy6!DOy6_Ho_DoggyLi+01KnLo",
+            "description": "Kneel between {1}'s legs.",
+            "icon": "OStim/positional/kneeling_m"
+        },
+        {
+            "destination": "vanilla_Cy6!DOy6_Ho_DoggyLi+01SexSpankR",
+            "description": "Give {1} a spank.",
+            "icon": "OStim/sexual/spank_right_mf"
+        },
+        {
+            "destination": "vanilla_Cy6!DOy6_Ho_DoggyLi+00Po",
+            "description": "Take hold and stroke yourself.",
+            "icon": "OStim/sexual/handjob_mm"
+        },
+        {
+            "destination": "vanilla_Cy6!DOy6_Ho_DoggyLi+01SgYd",
+            "description": "Signal {1} to lay down.",
+            "icon": "OStim/positional/lyingfront_f"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "squatting"
+            ],
+            "feetOnGround": true,
+            "lookDown": 100,
+            "lookRight": 20
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "allfours"
+            ],
+            "feetOnGround": false,
+            "lookDown": 10,
+            "lookRight": 100
+        }
+    ],
+    "actions": [
+        {
+            "type": "holdinghip",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

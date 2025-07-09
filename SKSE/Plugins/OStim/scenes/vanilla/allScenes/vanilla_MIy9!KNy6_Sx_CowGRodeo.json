@@ -1,0 +1,78 @@
+{
+    "name": "Rodeo | Bounce",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_CowGRodeo_S1",
+            "playbackSpeed": 1,
+            "displaySpeed": 1
+        },
+        {
+            "animation": "osex_vanilla_CowGRodeo_S2",
+            "playbackSpeed": 1,
+            "displaySpeed": 1.5
+        },
+        {
+            "animation": "osex_vanilla_CowGRodeo_S3",
+            "playbackSpeed": 1,
+            "displaySpeed": 2
+        },
+        {
+            "animation": "osex_vanilla_CowGRodeo_S4",
+            "playbackSpeed": 1,
+            "displaySpeed": 2.5
+        },
+        {
+            "animation": "osex_vanilla_CowGRodeo_S5",
+            "playbackSpeed": 1,
+            "displaySpeed": 3
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_MIy9!KNy6_Sx_CowGRodeo+01Hax",
+            "description": "Let go of {1}.",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 2,
+            "scale": 1.03,
+            "tags": [
+                "lyingback",
+                "onbottom"
+            ],
+            "feetOnGround": false,
+            "lookDown": 80
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "sitting",
+                "ontop"
+            ],
+            "feetOnGround": false,
+            "lookDown": 100
+        }
+    ],
+    "actions": [
+        {
+            "type": "gropingbutt",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1,
+            "performer": 1
+        }
+    ],
+    "tags": [
+        "osa",
+        "cowgirl"
+    ]
+}

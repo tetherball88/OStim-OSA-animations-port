@@ -1,0 +1,49 @@
+{
+    "name": "Prone Booty Rub",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_ProneBootyRub"
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_KFy6!Uy6_Ho_ProneBootyRub+Prone",
+            "description": "Let go of {1}.",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false,
+            "lookDown": 100,
+            "lookRight": 10
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingfront"
+            ],
+            "feetOnGround": false,
+            "lookDown": 100,
+            "lookRight": 100
+        }
+    ],
+    "actions": [
+        {
+            "type": "gropingbutt",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

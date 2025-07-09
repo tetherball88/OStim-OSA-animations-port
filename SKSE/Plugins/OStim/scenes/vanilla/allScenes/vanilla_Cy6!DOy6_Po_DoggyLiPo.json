@@ -1,0 +1,79 @@
+{
+    "name": "Doggystyle, Legs In | Pulled Out Jerk",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_DoggyLiPo_S1",
+            "playbackSpeed": 1,
+            "displaySpeed": 1
+        },
+        {
+            "animation": "osex_vanilla_DoggyLiPo_S2",
+            "playbackSpeed": 1,
+            "displaySpeed": 1.5
+        },
+        {
+            "animation": "osex_vanilla_DoggyLiPo_S3",
+            "playbackSpeed": 1,
+            "displaySpeed": 2
+        },
+        {
+            "animation": "osex_vanilla_DoggyLiPo_S4",
+            "playbackSpeed": 1,
+            "displaySpeed": 2.5
+        },
+        {
+            "animation": "osex_vanilla_DoggyLiPo_S5",
+            "playbackSpeed": 1,
+            "displaySpeed": 3
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_Cy6!DOy6_Po_DoggyLiPo+01SxHT",
+            "description": "Penetrate {1} from the rear.",
+            "icon": "OStim/sexual/penis_insert_hz"
+        },
+        {
+            "destination": "vanilla_Cy6!DOy6_Po_DoggyLiPo+01CXHo",
+            "description": "Stop stroking yourself.",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1.03,
+            "tags": [
+                "squatting"
+            ],
+            "feetOnGround": true,
+            "lookDown": 80
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "allfours"
+            ],
+            "feetOnGround": false,
+            "lookUp": 30,
+            "lookRight": 100
+        }
+    ],
+    "actions": [
+        {
+            "type": "malemasturbation",
+            "actor": 0
+        },
+        {
+            "type": "holdinghip",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Chalice |+ Unwrap Legs",
+    "modpack": "Ceo",
+    "length": 2,
+    "destination": "vanilla_YHy6!My9_Sx_MishHovSxPm",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_MChaliceSxPm+10Ll"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "allfours"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingback"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "leglocking",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

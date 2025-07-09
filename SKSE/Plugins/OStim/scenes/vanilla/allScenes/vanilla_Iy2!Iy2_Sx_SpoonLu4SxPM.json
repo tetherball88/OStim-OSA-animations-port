@@ -1,0 +1,82 @@
+{
+    "name": "Spoon, Leg Up (4) | Sex (Pumps)",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_SpoonLu4SxPM_S1",
+            "playbackSpeed": 1,
+            "displaySpeed": 1
+        },
+        {
+            "animation": "osex_vanilla_SpoonLu4SxPM_S2",
+            "playbackSpeed": 1,
+            "displaySpeed": 1.5
+        },
+        {
+            "animation": "osex_vanilla_SpoonLu4SxPM_S3",
+            "playbackSpeed": 1,
+            "displaySpeed": 2
+        },
+        {
+            "animation": "osex_vanilla_SpoonLu4SxPM_S4",
+            "playbackSpeed": 1,
+            "displaySpeed": 2.5
+        },
+        {
+            "animation": "osex_vanilla_SpoonLu4SxPM_S5",
+            "playbackSpeed": 1,
+            "displaySpeed": 3
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_Iy2!Iy2_Sx_SpoonLu4SxPM+01Lu",
+            "description": "Raise {1} leg.",
+            "icon": "OStim/positional/stretchleg_f"
+        },
+        {
+            "destination": "vanilla_Iy2!Iy2_Sx_SpoonLu4SxPM+01Ld",
+            "description": "Lower {1} leg.",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "lyingside"
+            ],
+            "feetOnGround": false,
+            "lookDown": 100,
+            "lookLeft": 50
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingside",
+                "spreadlegs"
+            ],
+            "feetOnGround": false,
+            "lookDown": 10,
+            "lookRight": 100
+        }
+    ],
+    "actions": [
+        {
+            "type": "holdingleg",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

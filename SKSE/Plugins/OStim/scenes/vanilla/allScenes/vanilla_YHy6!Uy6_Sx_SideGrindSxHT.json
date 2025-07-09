@@ -1,0 +1,94 @@
+{
+    "name": "SideGrinder| Heavy Thrusts",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_SideGrindSxHT_S0",
+            "playbackSpeed": 1,
+            "displaySpeed": 0.5
+        },
+        {
+            "animation": "osex_vanilla_SideGrindSxHT_S1",
+            "playbackSpeed": 1,
+            "displaySpeed": 1
+        },
+        {
+            "animation": "osex_vanilla_SideGrindSxHT_S2",
+            "playbackSpeed": 1,
+            "displaySpeed": 1.5
+        },
+        {
+            "animation": "osex_vanilla_SideGrindSxHT_S3",
+            "playbackSpeed": 1,
+            "displaySpeed": 2
+        },
+        {
+            "animation": "osex_vanilla_SideGrindSxHT_S4",
+            "playbackSpeed": 1,
+            "displaySpeed": 2.5
+        },
+        {
+            "animation": "osex_vanilla_SideGrindSxHT_S5",
+            "playbackSpeed": 1,
+            "displaySpeed": 3
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_YHy6!Uy6_Sx_SideGrindSxHT+01TI2",
+            "description": "Turn {1} on side.",
+            "icon": "OStim/positional/lyingside_f"
+        },
+        {
+            "destination": "vanilla_Iy2!Iy2_Sx_SpoonSxPM_OrgasmM",
+            "description": "{0}'s orgasm",
+            "icon": "OStim/symbols/climax"
+        },
+        {
+            "destination": "vanilla_Iy2!Iy2_Sx_SpoonSxPM_OrgasmF",
+            "description": "{1}'s orgasm",
+            "icon": "OStim/symbols/climax"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": -1,
+            "scale": 1.03,
+            "tags": [
+                "lyingfront",
+                "ontop"
+            ],
+            "feetOnGround": false,
+            "autoTransitions": {
+                "climax": "vanilla_Iy2!Iy2_Sx_SpoonSxPM_OrgasmM"
+            },
+            "lookDown": 100,
+            "lookLeft": 50
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingfront",
+                "onbottom"
+            ],
+            "feetOnGround": true,
+            "autoTransitions": {
+                "climax": "vanilla_KFy6!Uy6_Sx_ProneSex_OrgasmF"
+            },
+            "lookDown": 10,
+            "lookRight": 100
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Explorer |+ Thumb on clit",
+    "modpack": "Ceo",
+    "length": 4,
+    "destination": "vanilla_YDz6!My9_Cr_MExplorerCrt",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_MExplorer+01Crt"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "lyingfront"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingback"
+            ],
+            "feetOnGround": true
+        }
+    ],
+    "actions": [],
+    "tags": [
+        "osa"
+    ]
+}

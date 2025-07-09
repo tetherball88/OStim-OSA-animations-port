@@ -1,0 +1,54 @@
+{
+    "name": "Spoon | Embrace",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_SpoonEmb"
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_Iy2!Iy2_Em_SpoonEmb+01Km",
+            "description": "Kiss {1}'s lips.",
+            "icon": "OStim/sensual/kissing"
+        },
+        {
+            "destination": "vanilla_Iy2!Iy2_Ho_Spoon",
+            "description": "Release your embrace.",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "lyingside"
+            ],
+            "feetOnGround": true,
+            "lookDown": 100,
+            "lookRight": 20
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingside"
+            ],
+            "feetOnGround": false,
+            "lookDown": 10,
+            "lookRight": 100
+        }
+    ],
+    "actions": [
+        {
+            "type": "hugging",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

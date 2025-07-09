@@ -1,0 +1,46 @@
+{
+    "name": "Spoon, Leg Up (2), Sex |+ Raise Leg Leg",
+    "modpack": "Ceo",
+    "length": 2,
+    "destination": "vanilla_Iy2!Iy2_Sx_SpoonLu4SxPM",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_SpoonLu2SxPm+01Lu"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "lyingside"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingside",
+                "spreadlegs"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [
+        {
+            "type": "holdingleg",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

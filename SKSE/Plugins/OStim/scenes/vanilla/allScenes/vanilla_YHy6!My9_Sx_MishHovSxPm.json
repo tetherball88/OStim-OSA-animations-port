@@ -1,0 +1,65 @@
+{
+    "name": "Missionary | Sex, Pumps",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_MishHovSxPm_S1",
+            "playbackSpeed": 1,
+            "displaySpeed": 1
+        },
+        {
+            "animation": "osex_vanilla_MishHovSxPm_S2",
+            "playbackSpeed": 1,
+            "displaySpeed": 1.5
+        },
+        {
+            "animation": "osex_vanilla_MishHovSxPm_S3",
+            "playbackSpeed": 1,
+            "displaySpeed": 2
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_YHy6!My9_Sx_MishHovSxPm+10Lw",
+            "description": "{1} wraps legs around {0}.",
+            "icon": "OStim/sexual/matingpress_mf"
+        },
+        {
+            "destination": "vanilla_YHy6!My9_Ho_MishHov",
+            "description": "Pull yourself out.",
+            "icon": "OStim/sexual/penis_vacate_hz"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 2,
+            "scale": 1.03,
+            "tags": [
+                "allfours"
+            ],
+            "feetOnGround": false,
+            "lookDown": 80
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingback",
+                "spreadlegs"
+            ],
+            "feetOnGround": false,
+            "lookUp": 100
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

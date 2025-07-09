@@ -1,0 +1,53 @@
+{
+    "name": "Cowgirl | Squire",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_KfCowG"
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_MIy9!KFy6_Ho_KfCowG+11Kn",
+            "description": "{1} gets on both knees.",
+            "icon": "OStim/positional/kneeling_f"
+        },
+        {
+            "destination": "vanilla_MIy9!KFy6_Ho_KfCowG+10HJO",
+            "description": "Wrap your hand around {0} and stroke.",
+            "icon": "OStim/sexual/handjob_mf"
+        },
+        {
+            "destination": "vanilla_MIy9!KFy6_Ho_KfCowG+10OffX",
+            "description": "Unstraddle {0}.",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "lyingback"
+            ],
+            "feetOnGround": false,
+            "lookDown": 100,
+            "lookRight": 10
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": true,
+            "lookDown": 100,
+            "lookLeft": 20
+        }
+    ],
+    "actions": [],
+    "tags": [
+        "osa"
+    ]
+}

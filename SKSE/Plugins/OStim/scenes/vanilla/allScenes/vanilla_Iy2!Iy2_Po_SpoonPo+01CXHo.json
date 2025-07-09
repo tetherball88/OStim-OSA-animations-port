@@ -1,0 +1,39 @@
+{
+    "name": "Spoon, Affection |+ Let Go",
+    "modpack": "Ceo",
+    "length": 4,
+    "destination": "vanilla_Iy2!Iy2_Ho_Spoon",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_SpoonPo+01CXHo"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "lyingside"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingside"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [
+        {
+            "type": "hugging",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "name": "Jupiter| Lollipop Blowjob (Stroke)",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_JupiterHJO_S1",
+            "playbackSpeed": 1,
+            "displaySpeed": 1
+        },
+        {
+            "animation": "osex_vanilla_JupiterHJO_S2",
+            "playbackSpeed": 1,
+            "displaySpeed": 1.5
+        },
+        {
+            "animation": "osex_vanilla_JupiterHJO_S3",
+            "playbackSpeed": 1,
+            "displaySpeed": 2
+        },
+        {
+            "animation": "osex_vanilla_JupiterHJO_S4",
+            "playbackSpeed": 1,
+            "displaySpeed": 2.5
+        },
+        {
+            "animation": "osex_vanilla_JupiterHJO_S5",
+            "playbackSpeed": 1,
+            "displaySpeed": 3
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_My9!KNx3_BJ_JupiterPJB",
+            "description": "Put your mouth around {0}.",
+            "icon": "OStim/sexual/blowjob_lying_mf"
+        },
+        {
+            "destination": "vanilla_My9!KNx3_Ho_Jupiter",
+            "description": "Stop stroking {0}.",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "lyingback"
+            ],
+            "feetOnGround": false,
+            "lookDown": 50,
+            "lookRight": 20
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "kneeling",
+                "bendover"
+            ],
+            "feetOnGround": false,
+            "lookDown": 30,
+            "lookRight": 45
+        }
+    ],
+    "actions": [
+        {
+            "type": "handjob",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

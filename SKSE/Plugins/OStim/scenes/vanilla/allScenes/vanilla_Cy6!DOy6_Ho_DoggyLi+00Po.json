@@ -1,0 +1,40 @@
+{
+    "name": "Doggystyle, Legs In |+ Take Hold",
+    "modpack": "Ceo",
+    "length": 1.8,
+    "destination": "vanilla_Cy6!DOy6_Po_DoggyLiPo",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_DoggyLi+00Po"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "squatting"
+            ],
+            "feetOnGround": true
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "allfours"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [
+        {
+            "type": "holdinghip",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

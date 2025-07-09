@@ -1,0 +1,39 @@
+{
+    "name": "Kneel to the side, Affection |+ Lean against knee",
+    "modpack": "Ceo",
+    "length": 4,
+    "destination": "vanilla_KSy6!KNx3_Ho_KfLean",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_KnSide+01EaKe"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": true
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [
+        {
+            "type": "hugging",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Kneel Straight, Apart |+ Hold",
+    "modpack": "Ceo",
+    "length": 1.8,
+    "destination": "vanilla_Sy6!KNy9_Ho_KnStra",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_KnStraAp+10Ho"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

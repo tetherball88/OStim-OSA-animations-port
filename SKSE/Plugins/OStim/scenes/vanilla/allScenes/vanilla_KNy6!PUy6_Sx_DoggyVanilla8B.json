@@ -1,0 +1,81 @@
+{
+    "name": "Doggy Vanilla | Look Back",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_DoggyVanilla8B_S1",
+            "playbackSpeed": 1,
+            "displaySpeed": 1
+        },
+        {
+            "animation": "osex_vanilla_DoggyVanilla8B_S2",
+            "playbackSpeed": 1,
+            "displaySpeed": 1.5
+        },
+        {
+            "animation": "osex_vanilla_DoggyVanilla8B_S3",
+            "playbackSpeed": 1,
+            "displaySpeed": 2
+        },
+        {
+            "animation": "osex_vanilla_DoggyVanilla8B_S4",
+            "playbackSpeed": 1,
+            "displaySpeed": 2.5
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_KNy6!PUy6_Sx_DoggyLoSxHT",
+            "description": "Mount {1} lower.",
+            "icon": "OStim/symbols/return"
+        },
+        {
+            "destination": "vanilla_KNy6!PUy6_Sx_DoggyVanilla+11LeDn",
+            "description": "{1} leans down.",
+            "icon": "OStim/positional/assup_f"
+        },
+        {
+            "destination": "vanilla_KNy6!PUy6_Sx_DoggyVanilla",
+            "description": "Looking straight ahead.",
+            "icon": "OStim/detail/lookleft_f"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1.03,
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false,
+            "lookDown": 80
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "allfours"
+            ],
+            "feetOnGround": false,
+            "lookDown": 80,
+            "lookRight": 100
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "holdinghip",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa",
+        "doggystyle"
+    ]
+}

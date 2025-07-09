@@ -1,0 +1,34 @@
+{
+    "name": "Crane Lounge |+ Flip over",
+    "modpack": "Ceo",
+    "length": 4,
+    "destination": "vanilla_KFy6!Uy6_Ho_KfRearUpLi",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_CraneLounge+01F180"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingback"
+            ],
+            "feetOnGround": true
+        }
+    ],
+    "actions": [],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

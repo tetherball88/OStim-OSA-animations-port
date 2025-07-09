@@ -1,0 +1,48 @@
+{
+    "name": "Bumper, Sex |+ Pull Towards",
+    "modpack": "Ceo",
+    "length": 4,
+    "destination": "vanilla_MIy9!Ty9_Sx_Rocket",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_Bumper+01es90"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "lyingback",
+                "onbottom"
+            ],
+            "feetOnGround": true
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "squatting",
+                "ontop"
+            ],
+            "feetOnGround": true
+        }
+    ],
+    "actions": [
+        {
+            "type": "holdingbody",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa",
+        "reversecowgirl",
+        "transition"
+    ]
+}

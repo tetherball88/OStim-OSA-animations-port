@@ -1,0 +1,42 @@
+{
+    "name": "SideGrinder |+ Put onto side",
+    "modpack": "Ceo",
+    "length": 4,
+    "destination": "vanilla_Iy2!Iy2_Sx_SpoonSxPM",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_SideGrindSxHT+01TI2"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "lyingfront",
+                "ontop"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingfront",
+                "onbottom"
+            ],
+            "feetOnGround": true
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

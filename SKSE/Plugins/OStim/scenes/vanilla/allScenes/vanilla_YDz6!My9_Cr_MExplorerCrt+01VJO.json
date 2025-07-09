@@ -1,0 +1,40 @@
+{
+    "name": "Explorer, Clit Rub (Thumb) |+ Go Down",
+    "modpack": "Ceo",
+    "length": 4,
+    "destination": "vanilla_YDz6!My9_VJ_MExpVJO",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_MExplorerCrt+01VJO"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "lyingfront"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingback"
+            ],
+            "feetOnGround": true
+        }
+    ],
+    "actions": [
+        {
+            "type": "rubbingclitoris",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

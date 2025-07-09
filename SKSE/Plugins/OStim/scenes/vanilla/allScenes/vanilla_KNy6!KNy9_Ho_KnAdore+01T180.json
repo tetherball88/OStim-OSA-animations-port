@@ -1,0 +1,45 @@
+{
+    "name": "Kneeling Adore |+ Turn around",
+    "modpack": "Ceo",
+    "length": 5.8,
+    "destination": "vanilla_KNy6!KNy6_Ho_KnLap",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_KnAdore+01T180"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [
+        {
+            "type": "hugging",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "hugging",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

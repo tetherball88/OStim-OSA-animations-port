@@ -1,0 +1,41 @@
+{
+    "name": "Standing Rev. Cuddles |+ Sensual kiss",
+    "modpack": "Ceo",
+    "length": 4,
+    "destination": "vanilla_Sy6!Sy6_Em_St6RevCud01KiNk",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_St6RevCudEmb+01KiNk"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "standing",
+                "facingaway"
+            ],
+            "feetOnGround": true
+        }
+    ],
+    "actions": [
+        {
+            "type": "hugging",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

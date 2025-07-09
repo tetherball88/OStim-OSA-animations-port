@@ -1,0 +1,46 @@
+{
+    "name": "~Piston~ Doggystyle, Legs In |+ Torso Up",
+    "modpack": "Ceo",
+    "length": 2,
+    "destination": "vanilla_Cy6!DDy6_Sx_DoggyLiPopSxHT",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_DeLiPistonSxHT+01TAX"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "squatting"
+            ],
+            "feetOnGround": true
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "allfours"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "holdinghip",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa",
+        "doggystyle",
+        "transition"
+    ]
+}

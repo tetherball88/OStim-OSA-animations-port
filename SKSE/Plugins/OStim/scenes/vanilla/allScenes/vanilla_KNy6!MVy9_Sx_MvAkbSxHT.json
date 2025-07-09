@@ -1,0 +1,75 @@
+{
+    "name": "Scrunchie, Ankles Up and Out| Sex, Heavy Thrusts",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_MvAkbSxHT_S0",
+            "playbackSpeed": 1,
+            "displaySpeed": 0.5
+        },
+        {
+            "animation": "osex_vanilla_MvAkbSxHT_S1",
+            "playbackSpeed": 1,
+            "displaySpeed": 1
+        },
+        {
+            "animation": "osex_vanilla_MvAkbSxHT_S2",
+            "playbackSpeed": 1,
+            "displaySpeed": 1.5
+        },
+        {
+            "animation": "osex_vanilla_MvAkbSxHT_S3",
+            "playbackSpeed": 1,
+            "displaySpeed": 2
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_KNy6!MVy9_Sx_MvFlyVSxHT",
+            "description": "Raise {1}'s ankles.",
+            "icon": "OStim/positional/stretchleg_f"
+        },
+        {
+            "destination": "vanilla_KNy6!MVy9_Sx_MvAkuSxHT",
+            "description": "Move {1}'s legs inward.",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1.03,
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false,
+            "lookDown": 80
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingback",
+                "spreadlegs"
+            ],
+            "feetOnGround": false,
+            "lookUp": 100
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "holdingleg",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

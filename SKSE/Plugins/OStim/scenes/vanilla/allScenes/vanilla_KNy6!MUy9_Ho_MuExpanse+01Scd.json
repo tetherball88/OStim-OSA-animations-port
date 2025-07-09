@@ -1,0 +1,40 @@
+{
+    "name": "Expanse, Handled |+ Scoot",
+    "modpack": "Ceo",
+    "length": 2,
+    "destination": "vanilla_KNy6!My9_Ho_MishKnRecl",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_MuExpanse+01Scd"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingback"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [
+        {
+            "type": "holdingthigh",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

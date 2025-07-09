@@ -1,0 +1,49 @@
+{
+    "name": "Rodeo |+ Let go",
+    "modpack": "Ceo",
+    "length": 2,
+    "destination": "vanilla_MIy9!KNy6_Sx_KnCowGSxGL",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_CowGRodeo+01Hax"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1.03,
+            "tags": [
+                "lyingback",
+                "onbottom"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "sitting",
+                "ontop"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [
+        {
+            "type": "gropingbutt",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1,
+            "performer": 1
+        }
+    ],
+    "tags": [
+        "osa",
+        "cowgirl",
+        "transition"
+    ]
+}

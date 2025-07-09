@@ -1,0 +1,49 @@
+{
+    "name": "Jupiter",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_Jupiter"
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_My9!KNx3_HJ_JupiterHJO",
+            "description": "Wrap your hand around {0} and stroke.",
+            "icon": "OStim/sexual/handjob_mf"
+        },
+        {
+            "destination": "vanilla_My9!KNx6_Ap_PompAp",
+            "description": "{1} straightens back.",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "lyingback"
+            ],
+            "feetOnGround": false,
+            "lookUp": 10,
+            "lookRight": 22
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "kneeling",
+                "bendover"
+            ],
+            "feetOnGround": false,
+            "lookDown": 20,
+            "lookRight": 42
+        }
+    ],
+    "actions": [],
+    "tags": [
+        "osa"
+    ]
+}

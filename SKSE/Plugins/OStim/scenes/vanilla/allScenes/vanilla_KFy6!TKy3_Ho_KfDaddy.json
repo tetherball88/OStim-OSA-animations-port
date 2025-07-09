@@ -1,0 +1,59 @@
+{
+    "name": "Daddy | Affection",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_KfDaddy"
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_KFy6!TKy3_Ho_KfDaddy+01Up2LU",
+            "description": "Scoop {1} off feet.",
+            "icon": "OStim/positional/princesscarry_mf"
+        },
+        {
+            "destination": "vanilla_KFy6!TKy3_Ho_KfDaddy+01SiLa",
+            "description": "Sit {1} in your lap.",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "kneeling",
+                "onbottom"
+            ],
+            "feetOnGround": true
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "sitting",
+                "ontop"
+            ],
+            "feetOnGround": true,
+            "lookDown": 60,
+            "lookRight": 80
+        }
+    ],
+    "actions": [
+        {
+            "type": "hugging",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "hugging",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

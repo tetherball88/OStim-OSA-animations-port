@@ -1,0 +1,33 @@
+{
+    "name": "Explorer |+ Hover over",
+    "modpack": "Ceo",
+    "length": 6,
+    "destination": "vanilla_YHy6!My9_Ho_MishHov",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_MExplorer+00YhOnZ"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "lyingfront"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingback"
+            ],
+            "feetOnGround": true
+        }
+    ],
+    "actions": [],
+    "tags": [
+        "osa"
+    ]
+}

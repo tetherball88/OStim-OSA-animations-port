@@ -1,0 +1,66 @@
+{
+    "name": "Kneeling Straight | Affection",
+    "modpack": "Ceo",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_KnStraV0"
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_Sy6!KNy9_Ho_KnStra+01St",
+            "description": "Stand {1} up.",
+            "icon": "OStim/positional/standup_f"
+        },
+        {
+            "destination": "vanilla_Sy6!KNy9_Ho_KnStra+01Ap",
+            "description": "Let go of {1}.",
+            "icon": "OStim/positional/leanback_f"
+        },
+        {
+            "destination": "vanilla_Sy6!KNy9_Ho_KnStra+00Kn",
+            "description": "Kneel down.",
+            "icon": "OStim/positional/kneeling_m"
+        },
+        {
+            "destination": "vanilla_Sy6!KNy9_Ho_KnStra+11Ka",
+            "description": "{1} lowers down.",
+            "icon": "OStim/positional/kneeling_f"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true,
+            "lookDown": 100
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false,
+            "lookUp": 90
+        }
+    ],
+    "actions": [
+        {
+            "type": "hugging",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "hugging",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

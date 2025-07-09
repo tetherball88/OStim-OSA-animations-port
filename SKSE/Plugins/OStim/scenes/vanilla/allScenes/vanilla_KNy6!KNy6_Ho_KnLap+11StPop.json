@@ -1,0 +1,39 @@
+{
+    "name": "Lap Kneel, Affection |+ Super Stand POP!",
+    "modpack": "Ceo",
+    "length": 4,
+    "destination": "vanilla_KNy6!Sy6_Ho_StShowOff",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_KnLap+11StPop"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [
+        {
+            "type": "hugging",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Beholder |+ Push up off tummy",
+    "modpack": "Ceo",
+    "length": 6,
+    "destination": "vanilla_My9!KNx6_Ap_PompAp",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_Beholder+11Knx"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "lyingside"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingfront"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

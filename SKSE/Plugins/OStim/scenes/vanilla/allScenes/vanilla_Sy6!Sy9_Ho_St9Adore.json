@@ -1,0 +1,79 @@
+{
+    "name": "Adore | Affection",
+    "modpack": "Ceo",
+    "speeds": [
+        {}
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_Sy6!Sy9_Ho_St9Adore+01T180",
+            "description": "Turn {1} around.",
+            "icon": "OStim/positional/turnaround_f"
+        },
+        {
+            "destination": "vanilla_Sy6!Sy9_Ho_St9Adore+01Kn",
+            "description": "Lower {1} down to knees.",
+            "icon": "OStim/positional/kneeling_f"
+        },
+        {
+            "destination": "vanilla_Sy6!Sy9_Ho_St9Adore+01UpfLw",
+            "description": "Lift {1} off of feet.",
+            "icon": "OStim/sexual/carryingsex_mf"
+        },
+        {
+            "destination": "vanilla_Sy6!Sy9_Ho_St9Adore+01Emb",
+            "description": "Embrace {1}.",
+            "icon": "OStim/sensual/embrace_mf"
+        },
+        {
+            "destination": "vanilla_Sy6!Sy9_Ho_St9Adore+11C",
+            "description": "{1} squats down.",
+            "icon": "OStim/positional/squatting_f"
+        },
+        {
+            "destination": "vanilla_Sy6!Sy9_Ho_St9Adore+10PrBod",
+            "description": "{1} presses body against {0}.",
+            "icon": "OStim/sensual/embrace_mf"
+        },
+        {
+            "destination": "vanilla_Sy6!Sy9_Ho_St9Adore+01Ap",
+            "description": "Let go of {1}.",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true,
+            "lookDown": 80
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true,
+            "lookDown": 90
+        }
+    ],
+    "actions": [
+        {
+            "type": "hugging",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "hugging",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

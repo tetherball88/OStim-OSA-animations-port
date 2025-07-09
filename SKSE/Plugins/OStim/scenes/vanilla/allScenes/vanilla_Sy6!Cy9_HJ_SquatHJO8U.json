@@ -1,0 +1,84 @@
+{
+    "name": "Squat | Handjob (Look Up)",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_SquatHJO8U_S1",
+            "playbackSpeed": 1,
+            "displaySpeed": 1
+        },
+        {
+            "animation": "osex_vanilla_SquatHJO8U_S2",
+            "playbackSpeed": 1,
+            "displaySpeed": 1.5
+        },
+        {
+            "animation": "osex_vanilla_SquatHJO8U_S3",
+            "playbackSpeed": 1,
+            "displaySpeed": 2
+        },
+        {
+            "animation": "osex_vanilla_SquatHJO8U_S4",
+            "playbackSpeed": 1,
+            "displaySpeed": 2.5
+        },
+        {
+            "animation": "osex_vanilla_SquatHJO8U_S5",
+            "playbackSpeed": 1,
+            "displaySpeed": 3
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_Sy6!Cy9_HJ_SquatHJO",
+            "description": "{1} looks down.",
+            "icon": "OStim/detail/lookleft_f"
+        },
+        {
+            "destination": "vanilla_Sy6!Cy9_HJ_SquatHJO+10BJO",
+            "description": "Put your mouth around {0}.",
+            "icon": "OStim/sexual/blowjob_mf"
+        },
+        {
+            "destination": "vanilla_Sy6!Cy9_HJ_SquatHJO+10CX",
+            "description": "Stop stroking {0}.",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true,
+            "lookDown": 100
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "squatting"
+            ],
+            "feetOnGround": true,
+            "lookUp": 100
+        }
+    ],
+    "actions": [
+        {
+            "type": "holdinghip",
+            "actor": 1,
+            "target": 0
+        },
+        {
+            "type": "handjob",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

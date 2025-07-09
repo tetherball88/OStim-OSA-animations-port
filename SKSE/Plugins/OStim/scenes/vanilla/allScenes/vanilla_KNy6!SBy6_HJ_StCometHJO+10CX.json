@@ -1,0 +1,46 @@
+{
+    "name": "Comet, Handjob | +Let go",
+    "modpack": "Ceo",
+    "length": 2,
+    "destination": "vanilla_KNy6!SBy6_Ho_StComet",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_StCometHJO+10CX"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "standing",
+                "bendover"
+            ],
+            "feetOnGround": true
+        }
+    ],
+    "actions": [
+        {
+            "type": "holdinghip",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "handjob",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

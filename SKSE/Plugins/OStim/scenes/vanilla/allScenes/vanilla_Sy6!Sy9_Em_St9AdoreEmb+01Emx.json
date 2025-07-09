@@ -1,0 +1,45 @@
+{
+    "name": "Adore, Embrace |+ Unembrace",
+    "modpack": "Ceo",
+    "length": 1.8,
+    "destination": "vanilla_Sy6!Sy9_Ho_St9Adore",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_St9AdoreEmb+01Emx"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        }
+    ],
+    "actions": [
+        {
+            "type": "hugging",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "hugging",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

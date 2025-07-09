@@ -1,0 +1,57 @@
+{
+    "name": "Kneeling Adore | Affection",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_KnAdore"
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_KNy6!KNy9_Ho_KnAdore+01T180",
+            "description": "Turn {1} around.",
+            "icon": "OStim/positional/turnaround_f"
+        },
+        {
+            "destination": "vanilla_KNy6!KNy9_Ho_KnAdore+00St",
+            "description": "Stand up.",
+            "icon": "OStim/positional/standup_m"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false,
+            "lookDown": 80
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false,
+            "lookUp": 50
+        }
+    ],
+    "actions": [
+        {
+            "type": "hugging",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "hugging",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

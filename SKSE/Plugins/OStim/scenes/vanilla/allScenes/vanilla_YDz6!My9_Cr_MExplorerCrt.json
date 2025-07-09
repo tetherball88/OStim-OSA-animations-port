@@ -1,0 +1,75 @@
+{
+    "name": "Explorer | Clit Rub (Thumb)",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_MExplorerCrt_S1",
+            "playbackSpeed": 1,
+            "displaySpeed": 0.5
+        },
+        {
+            "animation": "osex_vanilla_MExplorerCrt_S2",
+            "playbackSpeed": 1,
+            "displaySpeed": 1
+        },
+        {
+            "animation": "osex_vanilla_MExplorerCrt_S3",
+            "playbackSpeed": 1,
+            "displaySpeed": 1.5
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_YDz6!My9_Cr_MExplorerCrt+01Pf1",
+            "description": "Slide 1 finger into {1}.",
+            "icon": "OStim/sexual/vaginalfingering_mf"
+        },
+        {
+            "destination": "vanilla_YDz6!My9_Cr_MExplorerCrt+01Pf2",
+            "description": "Slide 2 fingers into {1}.",
+            "icon": "OStim/sexual/vaginalfingering_mf"
+        },
+        {
+            "destination": "vanilla_YDz6!My9_Cr_MExplorerCrt+01VJO",
+            "description": "Go down on {1}.",
+            "icon": "OStim/sexual/cunnilingus_mf"
+        },
+        {
+            "destination": "vanilla_YDz6!My9_Cr_MExplorerCrt+01Crx",
+            "description": "Stop rubbing {1}.",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "lyingfront"
+            ],
+            "feetOnGround": false,
+            "lookDown": 80
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingback"
+            ],
+            "feetOnGround": true,
+            "lookDown": 60,
+            "lookRight": 20
+        }
+    ],
+    "actions": [
+        {
+            "type": "rubbingclitoris",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

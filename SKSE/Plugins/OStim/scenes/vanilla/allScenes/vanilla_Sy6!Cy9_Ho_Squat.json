@@ -1,0 +1,52 @@
+{
+    "name": "Squat | Submissive",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_Squat"
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_Sy6!Cy9_Ho_Squat+10HJO",
+            "description": "Wrap your hand around {0} and stroke.",
+            "icon": "OStim/sexual/handjob_mf"
+        },
+        {
+            "destination": "vanilla_Sy6!Cy9_Ho_Squat+11St",
+            "description": "{1} stands up.",
+            "icon": "OStim/positional/standup_f"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true,
+            "lookDown": 100
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "squatting"
+            ],
+            "feetOnGround": true,
+            "lookDown": 100
+        }
+    ],
+    "actions": [
+        {
+            "type": "holdinghip",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

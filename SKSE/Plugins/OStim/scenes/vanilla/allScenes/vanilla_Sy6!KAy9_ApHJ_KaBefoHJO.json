@@ -1,0 +1,89 @@
+{
+    "name": "Kneel Before | Handjob",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_KaBefoHJO_S1",
+            "playbackSpeed": 1,
+            "displaySpeed": 1
+        },
+        {
+            "animation": "osex_vanilla_KaBefoHJO_S2",
+            "playbackSpeed": 1,
+            "displaySpeed": 1.5
+        },
+        {
+            "animation": "osex_vanilla_KaBefoHJO_S3",
+            "playbackSpeed": 1,
+            "displaySpeed": 2
+        },
+        {
+            "animation": "osex_vanilla_KaBefoHJO_S4",
+            "playbackSpeed": 1,
+            "displaySpeed": 2.5
+        },
+        {
+            "animation": "osex_vanilla_KaBefoHJO_S5",
+            "playbackSpeed": 1,
+            "displaySpeed": 3
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_Sy6!KAy9_ApHJ_KaBefoHJOHn2",
+            "description": "Put both hands around {0}.",
+            "icon": "OStim/sexual/handjob_mf"
+        },
+        {
+            "destination": "vanilla_Sy6!KAy9_ApHJ_KaBefoHJOHoBal",
+            "description": "Take {0}'s balls in your other hand.",
+            "icon": "OStim/sexual/handjob_mf"
+        },
+        {
+            "destination": "vanilla_Sy6!KAy9_ApHJ_KaBefoHJORuAb",
+            "description": "Rub {0}'s stomach with your other hand.",
+            "icon": "OStim/sexual/handjob_mf"
+        },
+        {
+            "destination": "vanilla_Sy6!KAy9_ApHJ_KaBefoHJO+10DThro",
+            "description": "Deep throat {0} once.",
+            "icon": "OStim/sexual/blowjob_mf"
+        },
+        {
+            "destination": "vanilla_Sy6!KAy9_Ap_KaBefo",
+            "description": "Stop stroking {0}.",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true,
+            "lookDown": 100
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false,
+            "lookDown": 100
+        }
+    ],
+    "actions": [
+        {
+            "type": "handjob",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

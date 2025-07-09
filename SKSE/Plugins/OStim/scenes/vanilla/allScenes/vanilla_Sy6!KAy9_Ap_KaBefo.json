@@ -1,0 +1,51 @@
+{
+    "name": "Kneel Before",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_KaBefo"
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_Sy6!KNy9_Ap_KnStraAp",
+            "description": "{1} straightens body.",
+            "icon": "OStim/positional/kneeling_f_end"
+        },
+        {
+            "destination": "vanilla_Sy6!KAy9_Ho_KaReve",
+            "description": "Hold {0}.",
+            "icon": "OStim/sensual/embrace_mf"
+        },
+        {
+            "destination": "vanilla_Sy6!KAy9_ApHJ_KaBefoHJO",
+            "description": "Wrap your hand around {0} and stroke.",
+            "icon": "OStim/sexual/handjob_mf"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true,
+            "lookDown": 100
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false,
+            "lookUp": 55
+        }
+    ],
+    "actions": [],
+    "tags": [
+        "osa"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Spoon, Affection |+ Flip onto tummy",
+    "modpack": "Ceo",
+    "length": 2,
+    "destination": "vanilla_Iy2!Uy6_Ho_Drape",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_Spoon+01TU6"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "lyingside"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingside"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [
+        {
+            "type": "hugging",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

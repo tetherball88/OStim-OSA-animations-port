@@ -1,0 +1,46 @@
+{
+    "name": "~Doggy Pop~ Doggystyle, Legs in |+ Straighten Out",
+    "modpack": "Ceo",
+    "length": 4,
+    "destination": "vanilla_Cy6!DOy6_Sx_DoggyLiSxHT",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_DoggyLiPopSxHT+01So45"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 2,
+            "scale": 1.03,
+            "tags": [
+                "squatting"
+            ],
+            "feetOnGround": true
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "allfours"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "holdinghip",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa",
+        "doggystyle",
+        "transition"
+    ]
+}

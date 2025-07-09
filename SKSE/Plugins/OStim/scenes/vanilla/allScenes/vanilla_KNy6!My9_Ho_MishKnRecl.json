@@ -1,0 +1,52 @@
+{
+    "name": "Spread Recline",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_MishKnRecl"
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_KNy6!My9_Ho_MishKnRecl+01Scu",
+            "description": "Fold {1}'s thighs.",
+            "icon": "OStim/detail/holdinghip_behind_alt_mf"
+        },
+        {
+            "destination": "vanilla_KNy6!My9_Ho_MishKnRecl+00Yh",
+            "description": "Lower yourself over {1}.",
+            "icon": "OStim/sexual/missionary_mf"
+        },
+        {
+            "destination": "vanilla_KNy6!My9_Ho_MishKnRecl+00KfLo",
+            "description": "Straddle {1}'s Legs.",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false,
+            "lookDown": 60
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingback",
+                "spreadlegs"
+            ],
+            "feetOnGround": true,
+            "lookDown": 40
+        }
+    ],
+    "actions": [],
+    "tags": [
+        "osa"
+    ]
+}

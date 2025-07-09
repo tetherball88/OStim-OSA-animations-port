@@ -1,0 +1,107 @@
+{
+    "name": "Spoon | Sex (Pumps)",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_SpoonSxPM_S1",
+            "playbackSpeed": 1,
+            "displaySpeed": 1
+        },
+        {
+            "animation": "osex_vanilla_SpoonSxPM_S2",
+            "playbackSpeed": 1,
+            "displaySpeed": 1.5
+        },
+        {
+            "animation": "osex_vanilla_SpoonSxPM_S3",
+            "playbackSpeed": 1,
+            "displaySpeed": 2
+        },
+        {
+            "animation": "osex_vanilla_SpoonSxPM_S4",
+            "playbackSpeed": 1,
+            "displaySpeed": 2.5
+        },
+        {
+            "animation": "osex_vanilla_SpoonSxPM_S5",
+            "playbackSpeed": 1,
+            "displaySpeed": 3
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_Iy2!Iy2_Sx_SpoonSxPM+01Lu",
+            "description": "Lift {1}'s leg.",
+            "icon": "OStim/positional/stretchleg_f"
+        },
+        {
+            "destination": "vanilla_Iy2!Iy2_Sx_SpoonSxPM+01Ty9",
+            "description": "Tug {1} on top of you.",
+            "icon": "OStim/sexual/reversecowgirl_alt_mf"
+        },
+        {
+            "destination": "vanilla_Iy2!Iy2_Sx_SpoonSxPM+01TU6",
+            "description": "Turn {1} onto tummy.",
+            "icon": "OStim/sexual/prone_mf"
+        },
+        {
+            "destination": "vanilla_Iy2!Iy2_Sx_SpoonSxPM+01Po",
+            "description": "Pull yourself out.",
+            "icon": "OStim/sexual/penis_vacate_hz"
+        },
+        {
+            "destination": "vanilla_Iy2!Iy2_Sx_SpoonSxPM_OrgasmM",
+            "description": "{0}'s orgasm",
+            "icon": "OStim/symbols/climax"
+        },
+        {
+            "destination": "vanilla_Iy2!Iy2_Sx_SpoonSxPM_OrgasmF",
+            "description": "{1}'s orgasm",
+            "icon": "OStim/symbols/climax"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "lyingside"
+            ],
+            "feetOnGround": false,
+            "autoTransitions": {
+                "climax": "vanilla_Iy2!Iy2_Sx_SpoonSxPM_OrgasmM"
+            },
+            "lookDown": 100,
+            "lookLeft": 50
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingside"
+            ],
+            "feetOnGround": true,
+            "autoTransitions": {
+                "climax": "vanilla_Iy2!Iy2_Sx_SpoonSxPM_OrgasmF"
+            },
+            "lookDown": 10,
+            "lookRight": 100
+        }
+    ],
+    "actions": [
+        {
+            "type": "holdinghip",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

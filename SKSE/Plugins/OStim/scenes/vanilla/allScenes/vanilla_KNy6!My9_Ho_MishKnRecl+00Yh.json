@@ -1,0 +1,35 @@
+{
+    "name": "Spread Recline |+ Lay over",
+    "modpack": "Ceo",
+    "length": 4,
+    "destination": "vanilla_YHy6!My9_Ho_MishHov",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_MishKnRecl+00Yh"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingback",
+                "spreadlegs"
+            ],
+            "feetOnGround": true
+        }
+    ],
+    "actions": [],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

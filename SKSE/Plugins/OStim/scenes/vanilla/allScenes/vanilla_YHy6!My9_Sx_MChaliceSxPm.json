@@ -1,0 +1,74 @@
+{
+    "name": "Chalisce | Sex, Pumps",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_MChaliceSxPm_S1",
+            "playbackSpeed": 1,
+            "displaySpeed": 1
+        },
+        {
+            "animation": "osex_vanilla_MChaliceSxPm_S2",
+            "playbackSpeed": 1,
+            "displaySpeed": 1.5
+        },
+        {
+            "animation": "osex_vanilla_MChaliceSxPm_S3",
+            "playbackSpeed": 1,
+            "displaySpeed": 2
+        },
+        {
+            "animation": "osex_vanilla_MChaliceSxPm_S4",
+            "playbackSpeed": 1,
+            "displaySpeed": 2.5
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_YHy6!My9_Sx_MGrailSxPm",
+            "description": "{1} tightens legs around {0}.",
+            "icon": "OStim/sexual/matingpress_mf"
+        },
+        {
+            "destination": "vanilla_YHy6!My9_Sx_MChaliceSxPm+10Ll",
+            "description": "{1} unwraps legs from around {0}.",
+            "icon": "OStim/sexual/missionary_mf"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "allfours"
+            ],
+            "feetOnGround": false,
+            "lookDown": 80
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingback"
+            ],
+            "feetOnGround": false,
+            "lookUp": 100
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "leglocking",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

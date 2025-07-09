@@ -1,0 +1,57 @@
+{
+    "name": "Lifted Lotus | Embrace",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_LiftedLotusEmb"
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_Sy6!LLy9_Em_LiftedLotusEmb+01Km",
+            "description": "Kiss {0}'s lips.",
+            "icon": "OStim/sensual/kissing"
+        },
+        {
+            "destination": "vanilla_Sy6!LLy9_Em_LiftedLotusEmb+01Emx",
+            "description": "Release your embrace.",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true,
+            "lookDown": 60
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "suspended"
+            ],
+            "feetOnGround": false,
+            "lookDown": 30
+        }
+    ],
+    "actions": [
+        {
+            "type": "holdingbody",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "hugging",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

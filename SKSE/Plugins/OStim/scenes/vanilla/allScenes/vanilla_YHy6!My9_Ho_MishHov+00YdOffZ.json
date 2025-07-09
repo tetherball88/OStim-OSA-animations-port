@@ -1,0 +1,39 @@
+{
+    "name": "Missionary |+ Down between legs",
+    "modpack": "Ceo",
+    "length": 4,
+    "destination": "vanilla_YDz6!My9_Ho_MExplorer",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_MishHov+00YdOffZ"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "allfours"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingback"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [
+        {
+            "type": "leglocking",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

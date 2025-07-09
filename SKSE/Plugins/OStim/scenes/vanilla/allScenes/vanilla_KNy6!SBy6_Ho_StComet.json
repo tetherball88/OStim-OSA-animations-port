@@ -1,0 +1,55 @@
+{
+    "name": "Comet | Playful",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_StComet"
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_KNy6!SBy6_Ho_StComet+10HJO",
+            "description": "Wrap your hand around {0} and stroke.",
+            "icon": "OStim/sexual/handjob_mf"
+        },
+        {
+            "destination": "vanilla_KNy6!SBy6_Ho_StComet+10So90",
+            "description": "Straighten your back.",
+            "icon": "OStim/positional/standup_f"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false,
+            "lookDown": 100,
+            "lookRight": 30
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "standing",
+                "bendover"
+            ],
+            "feetOnGround": true,
+            "lookDown": 100,
+            "lookRight": 80
+        }
+    ],
+    "actions": [
+        {
+            "type": "holdinghip",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

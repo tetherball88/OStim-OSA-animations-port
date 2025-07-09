@@ -1,0 +1,80 @@
+{
+    "name": "Prone, Jerk",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_ProneJerk_S1",
+            "playbackSpeed": 1,
+            "displaySpeed": 1
+        },
+        {
+            "animation": "osex_vanilla_ProneJerk_S2",
+            "playbackSpeed": 1,
+            "displaySpeed": 1.5
+        },
+        {
+            "animation": "osex_vanilla_ProneJerk_S3",
+            "playbackSpeed": 1,
+            "displaySpeed": 2
+        },
+        {
+            "animation": "osex_vanilla_ProneJerk_S4",
+            "playbackSpeed": 1,
+            "displaySpeed": 2.5
+        },
+        {
+            "animation": "osex_vanilla_ProneJerk_S5",
+            "playbackSpeed": 1,
+            "displaySpeed": 3
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_KFy6!Uy6_Po_ProneJerk+Sex",
+            "description": "Penetrate {1}.",
+            "icon": "OStim/sexual/penis_insert_hz"
+        },
+        {
+            "destination": "vanilla_KFy6!Uy6_Po_ProneJerk+CheekJob",
+            "description": "Insert yourself between {1}'s cheeks.",
+            "icon": "OStim/sexual/analsex_mf"
+        },
+        {
+            "destination": "vanilla_KFy6!Uy6_Po_ProneJerk+Prone",
+            "description": "Stop stroking yourself.",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false,
+            "lookDown": 100,
+            "lookRight": 10
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingfront"
+            ],
+            "feetOnGround": false,
+            "lookUp": 80,
+            "lookRight": 100
+        }
+    ],
+    "actions": [
+        {
+            "type": "malemasturbation",
+            "actor": 0
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

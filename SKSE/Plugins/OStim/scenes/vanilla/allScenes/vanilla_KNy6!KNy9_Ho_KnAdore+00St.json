@@ -1,0 +1,45 @@
+{
+    "name": "Kneeling Adore |+ Stand em up",
+    "modpack": "Ceo",
+    "length": 1.8,
+    "destination": "vanilla_Sy6!KNy9_Ho_KnStra",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_KnAdore+00St"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [
+        {
+            "type": "hugging",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "hugging",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "name": "Standing Rev. Cuddles, Kiss Lips |+ Unkiss",
+    "modpack": "Ceo",
+    "length": 1.8,
+    "destination": "vanilla_Sy6!Sy6_Em_St6RevCudEmb",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_St6RevCudKm+01Kx"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "standing",
+                "facingaway"
+            ],
+            "feetOnGround": true
+        }
+    ],
+    "actions": [
+        {
+            "type": "hugging",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

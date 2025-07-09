@@ -1,0 +1,40 @@
+{
+    "name": "Show Off |+ Bend over (90deg)",
+    "modpack": "Ceo",
+    "length": 2,
+    "destination": "vanilla_KNy6!SBy6_Ho_StComet",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_StShowOff+10Bo90"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        }
+    ],
+    "actions": [
+        {
+            "type": "holdinghip",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

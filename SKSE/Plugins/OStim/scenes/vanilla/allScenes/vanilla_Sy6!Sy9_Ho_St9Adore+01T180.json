@@ -1,0 +1,45 @@
+{
+    "name": "Standing Reverse Cuddles | Base",
+    "modpack": "Ceo",
+    "length": 3.8,
+    "destination": "vanilla_Sy6!Sy6_Ho_St6RevCud",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_St9Adore+01T180"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        }
+    ],
+    "actions": [
+        {
+            "type": "hugging",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "hugging",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

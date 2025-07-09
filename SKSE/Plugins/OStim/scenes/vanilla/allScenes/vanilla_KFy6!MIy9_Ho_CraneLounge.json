@@ -1,0 +1,57 @@
+{
+    "name": "Crane Lounge",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_CraneLounge"
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_KFy6!MIy9_Ho_CraneLounge+01LfDo",
+            "description": "Put {1} on all fours.",
+            "icon": "OStim/positional/allfours_f"
+        },
+        {
+            "destination": "vanilla_KFy6!MIy9_Ho_CraneLounge+01F180",
+            "description": "Flip {1} over.",
+            "icon": "OStim/positional/lyingfront_f"
+        },
+        {
+            "destination": "vanilla_KNy6!My9_Ho_MishKnRecl",
+            "description": "Open {1}'s legs.",
+            "icon": "OStim/positional/spreadlegs_f"
+        },
+        {
+            "destination": "vanilla_YOy6!My9_BJ_PlumberBJT",
+            "description": "Climb over {1}'s face.",
+            "icon": "OStim/sexual/blowjob_lying_mf"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false,
+            "lookDown": 40
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingback"
+            ],
+            "feetOnGround": true,
+            "lookUp": 50,
+            "lookRight": 50
+        }
+    ],
+    "actions": [],
+    "tags": [
+        "osa"
+    ]
+}

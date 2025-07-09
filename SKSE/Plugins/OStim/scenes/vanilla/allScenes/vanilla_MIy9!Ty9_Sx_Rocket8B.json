@@ -1,0 +1,88 @@
+{
+    "name": "Rocket8B | Sex",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_Rocket8B_S1",
+            "playbackSpeed": 1,
+            "displaySpeed": 1
+        },
+        {
+            "animation": "osex_vanilla_Rocket8B_S2",
+            "playbackSpeed": 1,
+            "displaySpeed": 1.5
+        },
+        {
+            "animation": "osex_vanilla_Rocket8B_S3",
+            "playbackSpeed": 1,
+            "displaySpeed": 2
+        },
+        {
+            "animation": "osex_vanilla_Rocket8B_S4",
+            "playbackSpeed": 1,
+            "displaySpeed": 2.5
+        },
+        {
+            "animation": "osex_vanilla_Rocket8B_S5",
+            "playbackSpeed": 1,
+            "displaySpeed": 3
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_MIy9!Ty9_Sx_Rocket+01Bo90",
+            "description": "Bend {1} forward.",
+            "icon": "OStim/sexual/reversecowgirl_mf"
+        },
+        {
+            "destination": "vanilla_MIy9!Ty9_Sx_Rocket",
+            "description": "{1} looks straight ahead.",
+            "icon": "OStim/detail/lookright_f"
+        },
+        {
+            "destination": "vanilla_Iy2!Iy2_Sx_SpoonSxPM",
+            "description": "Put {1} on side",
+            "icon": "OStim/positional/lyingside_f"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "lyingback",
+                "onbottom"
+            ],
+            "feetOnGround": true,
+            "lookDown": 100,
+            "lookLeft": 50
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "allfours",
+                "ontop"
+            ],
+            "feetOnGround": true,
+            "lookDown": 100
+        }
+    ],
+    "actions": [
+        {
+            "type": "holdingbody",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa",
+        "reversecowgirl"
+    ]
+}

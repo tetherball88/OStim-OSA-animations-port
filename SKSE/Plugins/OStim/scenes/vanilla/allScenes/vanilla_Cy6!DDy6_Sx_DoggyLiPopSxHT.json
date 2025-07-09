@@ -1,0 +1,76 @@
+{
+    "name": "~Doggy Pop~ Doggystyle, Legs in | Sex, Heavy Thrusts",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_DoggyLiPopSxHT_S1",
+            "playbackSpeed": 1,
+            "displaySpeed": 1
+        },
+        {
+            "animation": "osex_vanilla_DoggyLiPopSxHT_S2",
+            "playbackSpeed": 1,
+            "displaySpeed": 1.5
+        },
+        {
+            "animation": "osex_vanilla_DoggyLiPopSxHT_S3",
+            "playbackSpeed": 1,
+            "displaySpeed": 2
+        },
+        {
+            "animation": "osex_vanilla_DoggyLiPopSxHT_S4",
+            "playbackSpeed": 1,
+            "displaySpeed": 2.5
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_Cy6!DDy6_Sx_DoggyLiPopSxHT+01TAS",
+            "description": "Lower {1}'s chest to the ground.",
+            "icon": "OStim/positional/assup_f"
+        },
+        {
+            "destination": "vanilla_Cy6!DDy6_Sx_DoggyLiPopSxHT+01So45",
+            "description": "Lift {1}'s chest off the ground.",
+            "icon": "OStim/positional/allfours_alt_f"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 2,
+            "scale": 1.03,
+            "tags": [
+                "squatting"
+            ],
+            "feetOnGround": true,
+            "lookDown": 80
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "allfours"
+            ],
+            "feetOnGround": false,
+            "lookDown": 80,
+            "lookRight": 100
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "holdinghip",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa",
+        "doggystyle"
+    ]
+}

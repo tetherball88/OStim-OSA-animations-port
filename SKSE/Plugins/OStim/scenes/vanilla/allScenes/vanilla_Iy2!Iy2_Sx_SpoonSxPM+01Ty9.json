@@ -1,0 +1,45 @@
+{
+    "name": "Spoon, Sex Pumps |+ Tug on top",
+    "modpack": "Ceo",
+    "length": 6,
+    "destination": "vanilla_MIy9!Ty9_Sx_Rocket",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_SpoonSxPM+01Ty9"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "lyingside"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingside"
+            ],
+            "feetOnGround": true
+        }
+    ],
+    "actions": [
+        {
+            "type": "holdinghip",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

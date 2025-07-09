@@ -1,0 +1,69 @@
+{
+    "name": "Doggystyle, Legs Out | Imminence",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_DoggyLo"
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_KNy6!PUy6_Ho_DoggyLo+01F180",
+            "description": "Flip {1} over.",
+            "icon": "OStim/positional/lyingback_f"
+        },
+        {
+            "destination": "vanilla_KNy6!PUy6_Ho_DoggyLo+01CuLi",
+            "description": "Straddle {1}'s Legs.",
+            "icon": "OStim/symbols/return"
+        },
+        {
+            "destination": "vanilla_KNy6!PUy6_Ho_DoggyLo+01SiLa",
+            "description": "Sit {1} in your lap.",
+            "icon": "OStim/sexual/reverselotus_mf"
+        },
+        {
+            "destination": "vanilla_KNy6!PUy6_Ho_DoggyLo+01Bo45",
+            "description": "Bend {1} face down, rear up.",
+            "icon": "OStim/positional/assup_f"
+        },
+        {
+            "destination": "vanilla_KNy6!PUy6_Po_DoggyLoPo",
+            "description": "Take hold and stroke yourself.",
+            "icon": "OStim/sexual/handjob_mm"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false,
+            "lookDown": 100,
+            "lookRight": 20
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "allfours"
+            ],
+            "feetOnGround": false,
+            "lookDown": 50,
+            "lookRight": 100
+        }
+    ],
+    "actions": [
+        {
+            "type": "holdinghip",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

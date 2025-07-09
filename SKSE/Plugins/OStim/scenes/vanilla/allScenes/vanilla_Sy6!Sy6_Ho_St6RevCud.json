@@ -1,0 +1,65 @@
+{
+    "name": "Standing Reverse Cuddles Technique",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_St6RevCud"
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_Sy6!Sy6_Ho_St6RevCud+01Ba35",
+            "description": "Arch {1}'s back and lean {1} forward.",
+            "icon": "OStim/positional/wall/behind_mf"
+        },
+        {
+            "destination": "vanilla_Sy6!Sy6_Ho_St6RevCud+00Ym",
+            "description": "Lay down on your back.",
+            "icon": "OStim/positional/lyingback_m"
+        },
+        {
+            "destination": "vanilla_Sy6!Sy6_Ho_St6RevCud+01Emb",
+            "description": "Embrace {1}.",
+            "icon": "OStim/sensual/embrace_behind_mf"
+        },
+        {
+            "destination": "vanilla_Sy6!Sy6_Ho_St6RevCud+01T180",
+            "description": "Turn {1} around.",
+            "icon": "OStim/positional/turnaround_f"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true,
+            "lookDown": 100,
+            "lookLeft": 40
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "standing",
+                "facingaway"
+            ],
+            "feetOnGround": true,
+            "lookDown": 70,
+            "lookRight": 90
+        }
+    ],
+    "actions": [
+        {
+            "type": "hugging",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

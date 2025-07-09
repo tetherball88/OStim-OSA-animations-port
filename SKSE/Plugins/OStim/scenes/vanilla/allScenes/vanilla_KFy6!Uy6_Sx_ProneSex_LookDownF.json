@@ -1,0 +1,96 @@
+{
+    "name": "ProneSex | Look straight",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_ProneSex_LookDownF_S1",
+            "playbackSpeed": 1,
+            "displaySpeed": 1
+        },
+        {
+            "animation": "osex_vanilla_ProneSex_LookDownF_S2",
+            "playbackSpeed": 1,
+            "displaySpeed": 1.5
+        },
+        {
+            "animation": "osex_vanilla_ProneSex_LookDownF_S3",
+            "playbackSpeed": 1,
+            "displaySpeed": 2
+        },
+        {
+            "animation": "osex_vanilla_ProneSex_LookDownF_S4",
+            "playbackSpeed": 1,
+            "displaySpeed": 2.5
+        },
+        {
+            "animation": "osex_vanilla_ProneSex_LookDownF_S5",
+            "playbackSpeed": 1,
+            "displaySpeed": 3
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_KFy6!Uy6_Sx_ProneSex",
+            "description": "{1} looks back at {0}.",
+            "icon": "OStim/detail/lookright_f"
+        },
+        {
+            "destination": "vanilla_KFy6!Uy6_Sx_ProneSex+Jerk",
+            "description": "Pull yourself out.",
+            "icon": "OStim/sexual/penis_vacate_hz"
+        },
+        {
+            "destination": "vanilla_KFy6!Uy6_Sx_ProneSex_OrgasmM",
+            "description": "{0}'s orgasm",
+            "icon": "OStim/symbols/climax"
+        },
+        {
+            "destination": "vanilla_KFy6!Uy6_Sx_ProneSex_OrgasmF",
+            "description": "{1}'s orgasm",
+            "icon": "OStim/symbols/climax"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": -1,
+            "scale": 1.03,
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false,
+            "autoTransitions": {
+                "climax": "vanilla_KFy6!Uy6_Sx_ProneSex_OrgasmM"
+            },
+            "lookDown": 80
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingfront"
+            ],
+            "feetOnGround": false,
+            "autoTransitions": {
+                "climax": "vanilla_KFy6!Uy6_Sx_ProneSex_OrgasmF"
+            },
+            "lookDown": 80,
+            "lookRight": 100
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "holdinghip",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

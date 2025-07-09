@@ -1,0 +1,40 @@
+{
+    "name": "Expanse, Handled |+ Tug to doggy",
+    "modpack": "Ceo",
+    "length": 7.8,
+    "destination": "vanilla_KNy6!PUy6_Ho_DoggyLo",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_MuExpanse+01LfDo"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingback"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [
+        {
+            "type": "holdingthigh",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

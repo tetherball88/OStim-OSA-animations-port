@@ -1,0 +1,53 @@
+{
+    "name": "Kneel to the side | Affection",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_KnSide"
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_KNy6!KNx6_Ho_KnSide+01EaKe",
+            "description": "Lean {1} against your leg.",
+            "icon": "OStim/positional/bendover_f"
+        },
+        {
+            "destination": "vanilla_KNy6!KNx6_Ho_KnSide+01SiLa",
+            "description": "Sit {1} in your lap.",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": true,
+            "lookDown": 30
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false,
+            "lookDown": 30,
+            "lookLeft": 50
+        }
+    ],
+    "actions": [
+        {
+            "type": "hugging",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

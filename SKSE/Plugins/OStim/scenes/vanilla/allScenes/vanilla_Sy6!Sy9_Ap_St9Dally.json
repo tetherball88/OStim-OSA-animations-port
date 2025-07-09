@@ -1,0 +1,45 @@
+{
+    "name": "Standing Dally | Casual",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_St9Dally"
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_Sy6!Sy9_Ap_St9Dally+01Ho",
+            "description": "Hold {1}.",
+            "icon": "OStim/sensual/approach_fm"
+        },
+        {
+            "destination": "vanilla_Sy6!Sy9_Ap_St9Dally",
+            "description": "Return",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true,
+            "lookDown": 60
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true,
+            "lookDown": 30
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

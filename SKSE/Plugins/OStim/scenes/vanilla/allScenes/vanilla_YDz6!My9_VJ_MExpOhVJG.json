@@ -1,0 +1,65 @@
+{
+    "name": "Explorer | HeatSeeker",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_MExpOhVJG_S0",
+            "playbackSpeed": 1,
+            "displaySpeed": 0.5
+        },
+        {
+            "animation": "osex_vanilla_MExpOhVJG_S1",
+            "playbackSpeed": 1,
+            "displaySpeed": 1
+        },
+        {
+            "animation": "osex_vanilla_MExpOhVJG_S2",
+            "playbackSpeed": 1,
+            "displaySpeed": 1.5
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_YDz6!My9_VJ_MExpOhVJG+10GX",
+            "description": "Stop guiding {0}'s head.",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "lyingfront"
+            ],
+            "feetOnGround": false,
+            "lookDown": 80
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingback"
+            ],
+            "feetOnGround": true,
+            "lookDown": 60,
+            "lookRight": 20
+        }
+    ],
+    "actions": [
+        {
+            "type": "lickingvagina",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "holdinghead",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

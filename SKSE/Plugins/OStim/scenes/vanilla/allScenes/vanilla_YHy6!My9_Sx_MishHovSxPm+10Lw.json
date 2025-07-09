@@ -1,0 +1,41 @@
+{
+    "name": "Missionary, Sex, Pumps |+ Wrap legs",
+    "modpack": "Ceo",
+    "length": 2,
+    "destination": "vanilla_YHy6!My9_Sx_MChaliceSxPm",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_MishHovSxPm+10Lw"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "allfours"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingback",
+                "spreadlegs"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

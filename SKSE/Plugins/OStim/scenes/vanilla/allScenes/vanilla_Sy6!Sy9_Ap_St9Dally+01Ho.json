@@ -1,0 +1,33 @@
+{
+    "name": "Standing Dally |+ Hands on",
+    "modpack": "Ceo",
+    "length": 1.8,
+    "destination": "vanilla_Sy6!Sy9_Ho_St9Adore",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_St9Dally+01Ho"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        }
+    ],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

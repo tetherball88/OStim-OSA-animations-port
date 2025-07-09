@@ -1,0 +1,53 @@
+{
+    "name": "Beholder | Affection",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_Beholder"
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_Iy2!Uy6_Ap_Beholder+01Ho",
+            "description": "Embrace {1}.",
+            "icon": "OStim/sensual/embrace_mf"
+        },
+        {
+            "destination": "vanilla_Iy2!Uy6_Ap_Beholder+00Kn2",
+            "description": "{0} gets on knees.",
+            "icon": "OStim/positional/kneeling_m_end"
+        },
+        {
+            "destination": "vanilla_Iy2!Uy6_Ap_Beholder+11Knx",
+            "description": "{1} gets on knees.",
+            "icon": "OStim/positional/kneeling_f_end"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "lyingside"
+            ],
+            "feetOnGround": false,
+            "lookDown": 100,
+            "lookLeft": 30
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingfront"
+            ],
+            "feetOnGround": false,
+            "lookDown": 20,
+            "lookLeft": 20
+        }
+    ],
+    "actions": [],
+    "tags": [
+        "osa"
+    ]
+}

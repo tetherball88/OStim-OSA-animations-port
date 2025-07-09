@@ -1,0 +1,46 @@
+{
+    "name": "Prone CheekJob + Jerk",
+    "modpack": "Ceo",
+    "length": 1.8,
+    "destination": "vanilla_KFy6!Uy6_Po_ProneJerk",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_ProneCheekJob+Jerk"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1.03,
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingfront"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [
+        {
+            "type": "buttjob",
+            "actor": 1,
+            "target": 0,
+            "performer": 0
+        },
+        {
+            "type": "holdinghip",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

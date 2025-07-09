@@ -1,0 +1,45 @@
+{
+    "name": "ProneSex + Male Orgasm",
+    "modpack": "Ceo",
+    "length": 4,
+    "destination": "vanilla_KFy6!Uy6_Sx_ProneSex_ExhaustedM",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_ProneSex_OrgasmM"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": -1,
+            "scale": 1.03,
+            "tags": [
+                "kneeling",
+                "climaxing"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingfront"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "holdinghip",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Cowgirl, Grind/Glide |+ Grab n' Bounce",
+    "modpack": "Ceo",
+    "length": 2,
+    "destination": "vanilla_MIy9!KNy6_Sx_CowGRodeo",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_KnCowGSxGL+01HoBtBu"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1.03,
+            "tags": [
+                "lyingback",
+                "onbottom"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "sitting",
+                "ontop"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1,
+            "performer": 1
+        }
+    ],
+    "tags": [
+        "osa",
+        "cowgirl",
+        "transition"
+    ]
+}

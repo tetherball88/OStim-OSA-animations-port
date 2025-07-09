@@ -1,0 +1,44 @@
+{
+    "name": "Spoon |+ End Kiss",
+    "modpack": "Ceo",
+    "length": 2,
+    "destination": "vanilla_Iy2!Iy2_Em_SpoonEmb",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_SpoonKm+01Kx"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "lyingside"
+            ],
+            "feetOnGround": true
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingside"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [
+        {
+            "type": "holdinghip",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "kissing",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

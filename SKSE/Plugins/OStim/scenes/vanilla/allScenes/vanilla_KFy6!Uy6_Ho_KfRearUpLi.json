@@ -1,0 +1,64 @@
+{
+    "name": "Rear Up | Exposed",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_KfRearUpLi"
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_KFy6!Uy6_Ho_KfRearUpLi+01LfDo",
+            "description": "Put {1} on all fours.",
+            "icon": "OStim/positional/allfours_f"
+        },
+        {
+            "destination": "vanilla_KFy6!Uy6_Ho_KfRearUpLi+01F180",
+            "description": "Flip {1} over.",
+            "icon": "OStim/positional/lyingback_f"
+        },
+        {
+            "destination": "vanilla_KFy6!Uy6_Ho_KfRearUpLi+Prone",
+            "description": "Get on both knees.",
+            "icon": "OStim/positional/kneeling_m"
+        },
+        {
+            "destination": "vanilla_KFy6!Uy6_Ho_KfRearUpLi+00OffX",
+            "description": "Unstraddle off to the side.",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": true,
+            "lookDown": 100,
+            "lookRight": 10
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingfront"
+            ],
+            "feetOnGround": false,
+            "lookUp": 80,
+            "lookRight": 100
+        }
+    ],
+    "actions": [
+        {
+            "type": "holdinghip",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

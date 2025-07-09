@@ -1,0 +1,48 @@
+{
+    "name": "A-Bomb",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_ABomb"
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_My9!KNw9_VJ_ABombVJO",
+            "description": "Go down on {0}.",
+            "icon": "OStim/sexual/sixtynine_mf"
+        },
+        {
+            "destination": "vanilla_My9!KNw9_Ho_ABomb+10OffA",
+            "description": "Dismount off to the side.",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "lyingback"
+            ],
+            "feetOnGround": false,
+            "lookDown": 100,
+            "lookRight": 20
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false,
+            "lookDown": 95,
+            "lookLeft": 95
+        }
+    ],
+    "actions": [],
+    "tags": [
+        "osa"
+    ]
+}

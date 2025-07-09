@@ -1,0 +1,56 @@
+{
+    "name": "Kneel Straight, Apart",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_KnStraAp"
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_Sy6!KNy9_Ap_KnStraAp+01Po",
+            "description": "Take hold and stroke yourself.",
+            "icon": "OStim/sexual/handjob_mm"
+        },
+        {
+            "destination": "vanilla_Sy6!KNy9_ApHJ_KnStraApHJO",
+            "description": "{1} wraps hand around {0} and stroke.",
+            "icon": "OStim/sexual/handjob_mf"
+        },
+        {
+            "destination": "vanilla_Sy6!KAy9_Ap_KaBefo",
+            "description": "{1} lowers down.",
+            "icon": "OStim/positional/kneeling_f"
+        },
+        {
+            "destination": "vanilla_Sy6!KNy9_Ap_KnStraAp+10Ho",
+            "description": "Hold {0}.",
+            "icon": "OStim/sensual/embrace_mf"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true,
+            "lookDown": 100
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false,
+            "lookUp": 50
+        }
+    ],
+    "actions": [],
+    "tags": [
+        "osa"
+    ]
+}

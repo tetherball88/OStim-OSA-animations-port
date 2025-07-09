@@ -1,0 +1,46 @@
+{
+    "name": "Scrunchie, Ankles Up|+ Release ankles",
+    "modpack": "Ceo",
+    "length": 4,
+    "destination": "vanilla_KNy6!MUy9_Sx_MuExpanseSxHT",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_MvAkuSxHT+01Akd"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1.03,
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingback",
+                "spreadlegs"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "holdingleg",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

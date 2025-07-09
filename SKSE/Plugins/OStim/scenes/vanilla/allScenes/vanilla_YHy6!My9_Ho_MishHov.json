@@ -1,0 +1,59 @@
+{
+    "name": "Missionary | Affection",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_MishHov"
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_YHy6!My9_Ho_MishHov+00YdOffZ",
+            "description": "Lay back between {1}'s thighs.",
+            "icon": "OStim/sexual/cunnilingus_mf"
+        },
+        {
+            "destination": "vanilla_YHy6!My9_Ho_MishHov+00Kn",
+            "description": "Get on your knees.",
+            "icon": "OStim/positional/kneeling_m"
+        },
+        {
+            "destination": "vanilla_YHy6!My9_Ho_MishHov+01SxPm",
+            "description": "Slide inside of {1}.",
+            "icon": "OStim/sexual/penis_insert_hz"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "allfours"
+            ],
+            "feetOnGround": false,
+            "lookUp": 10,
+            "lookLeft": 10
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingback"
+            ],
+            "feetOnGround": false,
+            "lookDown": 60,
+            "lookRight": 20
+        }
+    ],
+    "actions": [
+        {
+            "type": "leglocking",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

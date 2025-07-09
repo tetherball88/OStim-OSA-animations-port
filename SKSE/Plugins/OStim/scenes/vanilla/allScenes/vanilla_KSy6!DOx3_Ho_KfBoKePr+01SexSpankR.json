@@ -1,0 +1,41 @@
+{
+    "name": "Misbehavior |+ Right Spank",
+    "modpack": "Ceo",
+    "length": 2,
+    "destination": "vanilla_KSy6!DOx3_Ho_KfBoKePr",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_KfBokePr+01SexSpankR"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": true
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "allfours",
+                "bendover"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [
+        {
+            "type": "gropingbutt",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

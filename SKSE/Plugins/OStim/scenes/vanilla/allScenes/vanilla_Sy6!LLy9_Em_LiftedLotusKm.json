@@ -1,0 +1,57 @@
+{
+    "name": "Lifted Lotus | Kiss, Lips",
+    "modpack": "Ceo",
+    "length": 4,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_LiftedLotusKm"
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_Sy6!LLy9_Em_LiftedLotusKm+01Kx",
+            "description": "Stop kissing {0}.",
+            "icon": "OStim/sensual/kissing_end"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true,
+            "lookDown": 60
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "suspended"
+            ],
+            "feetOnGround": false,
+            "lookDown": 30
+        }
+    ],
+    "actions": [
+        {
+            "type": "holdingbody",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "hugging",
+            "actor": 1,
+            "target": 0
+        },
+        {
+            "type": "kissing",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

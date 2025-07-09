@@ -1,0 +1,54 @@
+{
+    "name": "Drape | Affection",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_Drape"
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_Iy2!Uy6_Ho_Drape+01TI2",
+            "description": "Turn {1}'s on side.",
+            "icon": "OStim/positional/turnaround_f"
+        },
+        {
+            "destination": "vanilla_Iy2!Uy6_Ho_Drape+01Lego",
+            "description": "Let go of {1}.",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "lyingside"
+            ],
+            "feetOnGround": false,
+            "lookDown": 80,
+            "lookLeft": 20
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingfront"
+            ],
+            "feetOnGround": false,
+            "lookUp": 45,
+            "lookRight": 20
+        }
+    ],
+    "actions": [
+        {
+            "type": "hugging",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

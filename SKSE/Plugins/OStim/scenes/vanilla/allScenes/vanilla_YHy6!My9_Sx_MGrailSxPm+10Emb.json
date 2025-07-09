@@ -1,0 +1,45 @@
+{
+    "name": "Grail |+ Embrace",
+    "modpack": "Ceo",
+    "length": 2,
+    "destination": "vanilla_YHy6!My9_Sx_MGrailEmbSxPm",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_MGrailSxPm+10Emb"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 2,
+            "scale": 1.03,
+            "tags": [
+                "allfours"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingback"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "leglocking",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

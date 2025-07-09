@@ -1,0 +1,45 @@
+{
+    "name": "Standing O |+ Arch back to heavy thrusts",
+    "modpack": "Ceo",
+    "length": 2,
+    "destination": "vanilla_Sy6!Sy6_Sx_StOvBo2SxHT",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_StOvBa2SxPm+01SoBkSxHT"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        }
+    ],
+    "actions": [
+        {
+            "type": "holdinghip",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

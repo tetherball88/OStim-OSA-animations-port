@@ -1,0 +1,40 @@
+{
+    "name": "Doggystyle, Legs In |+ 180 Flip",
+    "modpack": "Ceo",
+    "length": 5.8,
+    "destination": "vanilla_KFy6!MIy9_Ho_CraneLounge",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_DoggyLi+01F180"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "squatting"
+            ],
+            "feetOnGround": true
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "allfours"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [
+        {
+            "type": "holdinghip",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

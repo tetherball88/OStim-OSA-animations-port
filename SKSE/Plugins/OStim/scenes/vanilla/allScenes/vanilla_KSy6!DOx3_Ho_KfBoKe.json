@@ -1,0 +1,65 @@
+{
+    "name": "Misbehavior",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_KfBoKe"
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_KSy6!DOx3_Ho_KfBoKe+01Pr",
+            "description": "Press {1}'s shoulders down.",
+            "icon": "OStim/positional/assup_f"
+        },
+        {
+            "destination": "vanilla_KSy6!DOx3_Ho_KfBoKe+01SexSpankL",
+            "description": "Give {1}'s left cheek a spank.",
+            "icon": "OStim/sexual/spank_left_mf"
+        },
+        {
+            "destination": "vanilla_KSy6!DOx3_Ho_KfBoKe+01SexSpankR",
+            "description": "Give {1}'s right cheek a spank.",
+            "icon": "OStim/sexual/spank_right_mf"
+        },
+        {
+            "destination": "vanilla_KSy6!DOx3_Ho_KfBoKe+01Es45",
+            "description": "Raise and Straighten {1} against your knee.",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": true,
+            "lookDown": 100,
+            "lookRight": 100
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "allfours",
+                "bendover"
+            ],
+            "feetOnGround": false,
+            "lookDown": 100,
+            "lookRight": 100
+        }
+    ],
+    "actions": [
+        {
+            "type": "gropingbutt",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

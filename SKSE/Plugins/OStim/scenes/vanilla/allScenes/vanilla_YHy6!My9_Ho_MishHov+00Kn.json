@@ -1,0 +1,39 @@
+{
+    "name": "Missionary |+ Knees",
+    "modpack": "Ceo",
+    "length": 4,
+    "destination": "vanilla_KNy6!My9_Ho_MishKnRecl",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_MishHov+00Kn"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "allfours"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingback"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [
+        {
+            "type": "leglocking",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "name": "Standing Rev. Cuddles | Embrace",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_St6RevCudEmb"
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_Sy6!Sy6_Em_St6RevCudEmb+01Km",
+            "description": "Kiss {1}'s lips.",
+            "icon": "OStim/sensual/kissing"
+        },
+        {
+            "destination": "vanilla_Sy6!Sy6_Em_St6RevCudEmb+01KiNk",
+            "description": "Kiss {1}'s neck softly.",
+            "icon": "OStim/sensual/kissingneck_mf"
+        },
+        {
+            "destination": "vanilla_Sy6!Sy6_Em_St6RevCudEmb+01Emx",
+            "description": "Release your embrace.",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true,
+            "lookDown": 100,
+            "lookLeft": 60
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "standing",
+                "facingaway"
+            ],
+            "feetOnGround": true,
+            "lookUp": 50,
+            "lookRight": 100
+        }
+    ],
+    "actions": [
+        {
+            "type": "hugging",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

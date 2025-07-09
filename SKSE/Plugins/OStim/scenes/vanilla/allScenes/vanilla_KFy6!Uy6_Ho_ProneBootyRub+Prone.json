@@ -1,0 +1,40 @@
+{
+    "name": "ProneBootyRub + Prone",
+    "modpack": "Ceo",
+    "length": 1.8,
+    "destination": "vanilla_KFy6!Uy6_Ho_Prone",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_ProneBootyRub+Prone"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingfront"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [
+        {
+            "type": "gropingbutt",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "name": "~Hold Hips~ Doggystyle, Legs In, Sex heavy thrusts |+ Pull out",
+    "modpack": "Ceo",
+    "length": 1.8,
+    "destination": "vanilla_Cy6!DOy6_Po_DoggyLiPo",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_DoggyLiSxHT+01Po"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1.03,
+            "tags": [
+                "squatting"
+            ],
+            "feetOnGround": true
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "allfours"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "holdinghip",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa",
+        "doggystyle",
+        "transition"
+    ]
+}

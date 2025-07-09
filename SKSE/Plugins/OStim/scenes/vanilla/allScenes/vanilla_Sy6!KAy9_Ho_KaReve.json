@@ -1,0 +1,52 @@
+{
+    "name": "Kneel Reverence | Base",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_KaReve"
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_Sy6!KAy9_Ho_KaReve+11Kn",
+            "description": "{1} straightens back.",
+            "icon": "OStim/positional/kneeling_f_end"
+        },
+        {
+            "destination": "vanilla_Sy6!KAy9_Ho_KaReve+10Ap",
+            "description": "Let go of {0}.",
+            "icon": "OStim/positional/leanback_f"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true,
+            "lookDown": 100
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false,
+            "lookUp": 95
+        }
+    ],
+    "actions": [
+        {
+            "type": "holdinghip",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

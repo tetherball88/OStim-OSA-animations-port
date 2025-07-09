@@ -1,0 +1,54 @@
+{
+    "name": "Sometimes in our life",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_KfLean"
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_KSy6!KNx3_Ho_KfLean+01Bo45",
+            "description": "Bend {1} slightly over your knee.",
+            "icon": "OStim/positional/bendover_f"
+        },
+        {
+            "destination": "vanilla_KSy6!KNx3_Ho_KfLean+01Es",
+            "description": "Straighten and lean {1} back.",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": true,
+            "lookDown": 20
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "kneeling",
+                "bendover"
+            ],
+            "feetOnGround": false,
+            "lookDown": 90,
+            "lookLeft": 90
+        }
+    ],
+    "actions": [
+        {
+            "type": "hugging",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

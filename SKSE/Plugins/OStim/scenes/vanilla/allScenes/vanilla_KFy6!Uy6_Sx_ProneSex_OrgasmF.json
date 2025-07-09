@@ -1,0 +1,45 @@
+{
+    "name": "ProneSex Orgasm Female",
+    "modpack": "Ceo",
+    "length": 27.7,
+    "destination": "vanilla_KFy6!Uy6_Sx_ProneSex_LookDownF",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_ProneSex_OrgasmF"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": -1,
+            "scale": 1.03,
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingfront",
+                "climaxing"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "holdinghip",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

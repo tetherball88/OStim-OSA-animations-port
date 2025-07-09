@@ -1,0 +1,41 @@
+{
+    "name": "Standing Reverse Cuddles |+ Turn around",
+    "modpack": "Ceo",
+    "length": 4,
+    "destination": "vanilla_Sy6!Sy9_Ho_St9Adore",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_St6RevCud+01T180"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "standing",
+                "facingaway"
+            ],
+            "feetOnGround": true
+        }
+    ],
+    "actions": [
+        {
+            "type": "hugging",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "name": "Daddy |+ Noble Lift",
+    "modpack": "Ceo",
+    "length": 4,
+    "destination": "vanilla_Sy6!LFy2_Ho_Noble",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_KfDaddy+01Up2LU"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "kneeling",
+                "onbottom"
+            ],
+            "feetOnGround": true
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "sitting",
+                "ontop"
+            ],
+            "feetOnGround": true
+        }
+    ],
+    "actions": [
+        {
+            "type": "hugging",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "hugging",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

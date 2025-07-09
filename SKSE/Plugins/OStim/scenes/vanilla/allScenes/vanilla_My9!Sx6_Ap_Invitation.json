@@ -1,0 +1,48 @@
+{
+    "name": "Invitation | Affection",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_Invitation"
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_My9!Sx6_Ap_Invitation+11Kn",
+            "description": "{1} kneels down.",
+            "icon": "OStim/positional/kneeling_f"
+        },
+        {
+            "destination": "vanilla_Sy6!Sy6_Ho_St6RevCud",
+            "description": "{0} stands up.",
+            "icon": "OStim/positional/standup_m"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "lyingback"
+            ],
+            "feetOnGround": false,
+            "lookUp": 55,
+            "lookLeft": 20
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true,
+            "lookDown": 100,
+            "lookLeft": 20
+        }
+    ],
+    "actions": [],
+    "tags": [
+        "osa"
+    ]
+}

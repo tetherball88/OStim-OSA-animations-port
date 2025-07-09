@@ -1,0 +1,45 @@
+{
+    "name": "Squat, Blowjob |+ Mouth Off",
+    "modpack": "Ceo",
+    "length": 4,
+    "destination": "vanilla_Sy6!Cy9_HJ_SquatHJO8U",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_SquatBJO+10HJO"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "squatting"
+            ],
+            "feetOnGround": true
+        }
+    ],
+    "actions": [
+        {
+            "type": "holdinghip",
+            "actor": 1,
+            "target": 0
+        },
+        {
+            "type": "blowjob",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

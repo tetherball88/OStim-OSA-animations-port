@@ -1,0 +1,39 @@
+{
+    "name": "Kneel Before, Handjob |+ Unhand",
+    "modpack": "Ceo",
+    "length": 7.8,
+    "destination": "vanilla_Sy6!KAy9_ApHJ_KaBefoHJO",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_KaBefoHJO+10DThro"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [
+        {
+            "type": "deepthroat",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

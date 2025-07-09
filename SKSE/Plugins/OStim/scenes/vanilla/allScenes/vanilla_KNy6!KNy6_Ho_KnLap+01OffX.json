@@ -1,0 +1,39 @@
+{
+    "name": "Lap Kneel, Affection |+ GTFO",
+    "modpack": "Ceo",
+    "length": 4,
+    "destination": "vanilla_KNy6!KNx6_Ho_KnSide",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_KnLap+01OffX"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [
+        {
+            "type": "hugging",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

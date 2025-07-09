@@ -1,0 +1,41 @@
+{
+    "name": "Standing Reverse Cuddles |+ Lay Down",
+    "modpack": "Ceo",
+    "length": 6,
+    "destination": "vanilla_My9!Sx6_Ap_Invitation",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_St6RevCud+00Ym"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "standing",
+                "facingaway"
+            ],
+            "feetOnGround": true
+        }
+    ],
+    "actions": [
+        {
+            "type": "hugging",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

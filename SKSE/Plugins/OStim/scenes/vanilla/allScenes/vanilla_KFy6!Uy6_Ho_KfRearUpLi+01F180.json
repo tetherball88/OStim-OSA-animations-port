@@ -1,0 +1,40 @@
+{
+    "name": "Rear Up, Exposed |+ Flip over",
+    "modpack": "Ceo",
+    "length": 4,
+    "destination": "vanilla_KFy6!MIy9_Ho_CraneLounge",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_KfRearUpLi+01F180"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": true
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingfront"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [
+        {
+            "type": "holdinghip",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

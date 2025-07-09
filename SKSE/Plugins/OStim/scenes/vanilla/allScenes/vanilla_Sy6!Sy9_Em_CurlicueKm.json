@@ -1,0 +1,58 @@
+{
+    "name": "Curlicue | Kiss",
+    "modpack": "Ceo",
+    "length": 4,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_CurlicueKm"
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_Sy6!Sy9_Em_CurlicueKm+01Kx",
+            "description": "Stop kissing {0}.",
+            "icon": "OStim/sensual/kissing_end"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true,
+            "lookDown": 80
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true,
+            "lookDown": 30,
+            "lookRight": 20
+        }
+    ],
+    "actions": [
+        {
+            "type": "hugging",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "hugging",
+            "actor": 1,
+            "target": 0
+        },
+        {
+            "type": "kissing",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

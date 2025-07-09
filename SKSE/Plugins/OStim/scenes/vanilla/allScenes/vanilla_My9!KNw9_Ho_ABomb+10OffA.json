@@ -1,0 +1,34 @@
+{
+    "name": "A-Bomb |+ Dismount",
+    "modpack": "Ceo",
+    "length": 6,
+    "destination": "vanilla_My9!KNa3_Ap_Juxta",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_ABomb+10OffA"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "lyingback"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

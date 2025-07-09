@@ -1,0 +1,60 @@
+{
+    "name": "Misbehavior | Pressed Shoulders",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_KfBoKePr"
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_KSy6!DOx3_Ho_KfBoKePr+01SexSpankL",
+            "description": "Give {1}'s left cheek a spank.",
+            "icon": "OStim/sexual/spank_left_mf"
+        },
+        {
+            "destination": "vanilla_KSy6!DOx3_Ho_KfBoKePr+01SexSpankR",
+            "description": "Give {1}'s right cheek a spank.",
+            "icon": "OStim/sexual/spank_right_mf"
+        },
+        {
+            "destination": "vanilla_KSy6!DOx3_Ho_KfBoKePr+01Px",
+            "description": "Unpin {1}'s shoulders.",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": true,
+            "lookDown": 100,
+            "lookRight": 100
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "allfours",
+                "bendover"
+            ],
+            "feetOnGround": false,
+            "lookDown": 100,
+            "lookRight": 100
+        }
+    ],
+    "actions": [
+        {
+            "type": "gropingbutt",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

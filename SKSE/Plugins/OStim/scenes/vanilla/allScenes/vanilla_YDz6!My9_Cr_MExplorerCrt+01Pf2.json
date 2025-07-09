@@ -1,0 +1,40 @@
+{
+    "name": "Explorer, Clit Rub (Thumb) | 2 Finger Stuff",
+    "modpack": "Ceo",
+    "length": 6,
+    "destination": "vanilla_YDz6!My9_Pf2_MExpPf2CrtSF",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_MExplorerCrt+01Pf2"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "lyingfront"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingback"
+            ],
+            "feetOnGround": true
+        }
+    ],
+    "actions": [
+        {
+            "type": "rubbingclitoris",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

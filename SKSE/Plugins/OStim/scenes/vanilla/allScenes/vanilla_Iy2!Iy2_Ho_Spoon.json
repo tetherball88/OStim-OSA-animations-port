@@ -1,0 +1,59 @@
+{
+    "name": "Spoon | Affection",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_Spoon"
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_Iy2!Iy2_Ho_Spoon+01Emb",
+            "description": "Embrace {1}.",
+            "icon": "OStim/sensual/embrace_mf"
+        },
+        {
+            "destination": "vanilla_Iy2!Iy2_Ho_Spoon+00Po",
+            "description": "Take hold and stroke yourself.",
+            "icon": "OStim/sexual/malemasturbation"
+        },
+        {
+            "destination": "vanilla_Iy2!Iy2_Ho_Spoon+01TU6",
+            "description": "Turn {1} onto tummy.",
+            "icon": "OStim/positional/lyingfront_f"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "lyingside"
+            ],
+            "feetOnGround": false,
+            "lookDown": 100,
+            "lookRight": 20
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingside"
+            ],
+            "feetOnGround": false,
+            "lookDown": 10,
+            "lookRight": 100
+        }
+    ],
+    "actions": [
+        {
+            "type": "hugging",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

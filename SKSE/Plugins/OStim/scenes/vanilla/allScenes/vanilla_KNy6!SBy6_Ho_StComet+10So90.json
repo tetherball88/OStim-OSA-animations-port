@@ -1,0 +1,41 @@
+{
+    "name": "Comet, Playful |+ Straighten up (90d)",
+    "modpack": "Ceo",
+    "length": 2,
+    "destination": "vanilla_KNy6!Sy6_Ho_StShowOff",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_StComet+10So90"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "standing",
+                "bendover"
+            ],
+            "feetOnGround": true
+        }
+    ],
+    "actions": [
+        {
+            "type": "holdinghip",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

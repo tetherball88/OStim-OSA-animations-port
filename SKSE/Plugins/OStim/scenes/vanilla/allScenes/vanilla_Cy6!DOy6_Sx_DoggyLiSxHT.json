@@ -1,0 +1,76 @@
+{
+    "name": "~Hold Hips~ Doggystyle, Legs In | Sex, Heavy thrusts",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_DoggyLiSxHT_S1",
+            "playbackSpeed": 1,
+            "displaySpeed": 1
+        },
+        {
+            "animation": "osex_vanilla_DoggyLiSxHT_S2",
+            "playbackSpeed": 1,
+            "displaySpeed": 1.5
+        },
+        {
+            "animation": "osex_vanilla_DoggyLiSxHT_S3",
+            "playbackSpeed": 1,
+            "displaySpeed": 2
+        },
+        {
+            "animation": "osex_vanilla_DoggyLiSxHT_S4",
+            "playbackSpeed": 1,
+            "displaySpeed": 2.5
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_Cy6!DOy6_Sx_DoggyLiSxHT+01Bo45",
+            "description": "Arch {1}'s back and lean chest down.",
+            "icon": "OStim/positional/assup_f"
+        },
+        {
+            "destination": "vanilla_Cy6!DOy6_Sx_DoggyLiSxHT+01Po",
+            "description": "Pull yourself out.",
+            "icon": "OStim/sexual/penis_vacate_hz"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 2,
+            "scale": 1.03,
+            "tags": [
+                "squatting"
+            ],
+            "feetOnGround": true,
+            "lookDown": 80
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "allfours"
+            ],
+            "feetOnGround": false,
+            "lookDown": 80,
+            "lookRight": 100
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "holdinghip",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa",
+        "doggystyle"
+    ]
+}

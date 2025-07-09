@@ -1,0 +1,41 @@
+{
+    "name": "Expanse, Top Grip |+ Pull out",
+    "modpack": "Ceo",
+    "length": 1.8,
+    "destination": "vanilla_KNy6!MUy9_Po_MuExpansePo",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_MuExpanseSxHT+01Po"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingback",
+                "spreadlegs"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

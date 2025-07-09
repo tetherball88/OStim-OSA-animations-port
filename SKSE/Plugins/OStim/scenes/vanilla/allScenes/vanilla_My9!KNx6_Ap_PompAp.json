@@ -1,0 +1,67 @@
+{
+    "name": "Pomp | Affection",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_PompAp"
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_My9!KNx6_Ap_PompAp+11YdU6",
+            "description": "{1} lies down on tummy.",
+            "icon": "OStim/positional/lyingfront_f"
+        },
+        {
+            "destination": "vanilla_My9!KNx6_Ap_PompAp+10SadKf",
+            "description": "Straddle {0}.",
+            "icon": "OStim/sexual/cowgirl_mf"
+        },
+        {
+            "destination": "vanilla_My9!KNx3_Ho_Jupiter",
+            "description": "Bend over {1}.",
+            "icon": "OStim/positional/bendover_f"
+        },
+        {
+            "destination": "vanilla_My9!KNx3_HJ_JupiterHJO",
+            "description": "Wrap your hand around {0} and stroke.",
+            "icon": "OStim/sexual/handjob_mf"
+        },
+        {
+            "destination": "vanilla_My9!KNx6_Ap_PompAp+11MOVa3",
+            "description": "Scoot towards {0}'s head.",
+            "icon": "OStim/positional/leanback_f"
+        },
+        {
+            "destination": "vanilla_My9!KNx6_Ap_PompAp+11St",
+            "description": "{1} stands up.",
+            "icon": "OStim/positional/standup_f"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "lyingback"
+            ],
+            "feetOnGround": false,
+            "lookDown": 100,
+            "lookRight": 10
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false,
+            "lookDown": 100
+        }
+    ],
+    "actions": [],
+    "tags": [
+        "osa"
+    ]
+}

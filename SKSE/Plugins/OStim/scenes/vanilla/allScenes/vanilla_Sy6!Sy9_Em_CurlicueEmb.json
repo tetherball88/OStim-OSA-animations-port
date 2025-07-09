@@ -1,0 +1,58 @@
+{
+    "name": "Curlicue | Embrace",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_CurlicueEmb"
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_Sy6!Sy9_Em_CurlicueEmb+01Km",
+            "description": "Kiss {0}'s lips.",
+            "icon": "OStim/sensual/kissing"
+        },
+        {
+            "destination": "vanilla_Sy6!Sy9_Em_CurlicueEmb+10Ll",
+            "description": "Unwrap your leg from around {0}.",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true,
+            "lookDown": 80
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true,
+            "lookDown": 30,
+            "lookRight": 20
+        }
+    ],
+    "actions": [
+        {
+            "type": "hugging",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "hugging",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

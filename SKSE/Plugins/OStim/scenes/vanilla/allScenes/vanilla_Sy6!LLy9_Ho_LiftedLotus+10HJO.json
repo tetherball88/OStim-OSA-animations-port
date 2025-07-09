@@ -1,0 +1,45 @@
+{
+    "name": "Lifted Lotus |+ Reach n' Stroke",
+    "modpack": "Ceo",
+    "length": 2.8,
+    "destination": "vanilla_Sy6!LLy9_HJ_LiftedLotusHJO",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_LiftedLotus+10HJO"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "suspended"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [
+        {
+            "type": "holdingbody",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "hugging",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

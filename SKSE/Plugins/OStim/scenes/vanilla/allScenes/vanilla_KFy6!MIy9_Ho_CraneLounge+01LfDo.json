@@ -1,0 +1,34 @@
+{
+    "name": "Crane Lounge |+ Lift to doggy",
+    "modpack": "Ceo",
+    "length": 4,
+    "destination": "vanilla_Cy6!DOy6_Ho_DoggyLi",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_CraneLounge+01LfDo"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingback"
+            ],
+            "feetOnGround": true
+        }
+    ],
+    "actions": [],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

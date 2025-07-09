@@ -1,0 +1,57 @@
+{
+    "name": "Expanse | Handled",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_MuExpanse"
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_KNy6!MUy9_Ho_MuExpanse+01LfDo",
+            "description": "Put {1} on all fours.",
+            "icon": "OStim/positional/allfours_f"
+        },
+        {
+            "destination": "vanilla_KNy6!MUy9_Ho_MuExpanse+01Scd",
+            "description": "Unfold {1}'s thighs.",
+            "icon": "OStim/positional/stretchleg_f"
+        },
+        {
+            "destination": "vanilla_KNy6!MUy9_Ho_MuExpanse+00Po",
+            "description": "Take hold and stroke yourself.",
+            "icon": "OStim/sexual/malemasturbation"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false,
+            "lookDown": 80
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingback"
+            ],
+            "feetOnGround": false,
+            "lookUp": 100
+        }
+    ],
+    "actions": [
+        {
+            "type": "holdingthigh",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

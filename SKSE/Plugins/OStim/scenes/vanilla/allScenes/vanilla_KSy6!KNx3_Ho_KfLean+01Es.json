@@ -1,0 +1,41 @@
+{
+    "name": "Sometimes in our life |+ Straighten out",
+    "modpack": "Ceo",
+    "length": 4,
+    "destination": "vanilla_KNy6!KNx6_Ho_KnSide",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_KfLean+01Es"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": true
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "kneeling",
+                "bendover"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [
+        {
+            "type": "hugging",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

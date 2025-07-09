@@ -1,0 +1,40 @@
+{
+    "name": "Spoon, Affection |+ Stoke",
+    "modpack": "Ceo",
+    "length": 4,
+    "destination": "vanilla_Iy2!Iy2_Po_SpoonPo",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_Spoon+00Po"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1.03,
+            "tags": [
+                "lyingside"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingside"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [
+        {
+            "type": "hugging",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

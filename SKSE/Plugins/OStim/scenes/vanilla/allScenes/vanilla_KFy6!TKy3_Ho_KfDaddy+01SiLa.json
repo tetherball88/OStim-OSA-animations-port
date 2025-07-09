@@ -1,0 +1,47 @@
+{
+    "name": "Daddy |+ Off knee onto Lap",
+    "modpack": "Ceo",
+    "length": 6,
+    "destination": "vanilla_KNy6!KNy6_Ho_KnLap",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_KfDaddy+01SiLa"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "kneeling",
+                "onbottom"
+            ],
+            "feetOnGround": true
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "sitting",
+                "ontop"
+            ],
+            "feetOnGround": true
+        }
+    ],
+    "actions": [
+        {
+            "type": "hugging",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "hugging",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

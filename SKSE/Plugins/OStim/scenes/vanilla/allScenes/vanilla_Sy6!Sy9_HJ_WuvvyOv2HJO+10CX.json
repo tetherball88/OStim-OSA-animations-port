@@ -1,0 +1,40 @@
+{
+    "name": "Adore | +Squat Down",
+    "modpack": "Ceo",
+    "length": 4,
+    "destination": "vanilla_Sy6!Sy9_Ho_Wuvvy",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_WuvvyOv2HJO+10CX"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        }
+    ],
+    "actions": [
+        {
+            "type": "handjob",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

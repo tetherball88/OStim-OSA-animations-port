@@ -1,0 +1,40 @@
+{
+    "name": "Kneel Straight |+ Lollipop Blowjob",
+    "modpack": "Ceo",
+    "length": 4,
+    "destination": "vanilla_Sy6!KNy9_ApPJ_KnStraApPJB",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_KnStraApHJO+10PJO"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [
+        {
+            "type": "handjob",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Trunk |+ Straighten Up (45 deg)",
+    "modpack": "Ceo",
+    "length": 4,
+    "destination": "vanilla_KNy6!PUy6_Ho_DoggyLo",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_Trunk+01So45"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "allfours"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [
+        {
+            "type": "gropingbutt",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

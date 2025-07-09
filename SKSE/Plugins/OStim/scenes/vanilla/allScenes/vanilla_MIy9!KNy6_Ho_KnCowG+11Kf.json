@@ -1,0 +1,36 @@
+{
+    "name": "Cowgirl, Kneel |+ Squire",
+    "modpack": "Ceo",
+    "length": 2,
+    "destination": "vanilla_MIy9!KFy6_Ho_KfCowG",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_KnCowG+11Kf"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "lyingback",
+                "onbottom"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "sitting",
+                "ontop"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

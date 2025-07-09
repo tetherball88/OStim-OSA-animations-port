@@ -1,0 +1,54 @@
+{
+    "name": "OSA OSex Vanilla Hub",
+    "modpack": "CE0",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "OStim2PStandingApartMF"
+        }
+    ],
+    "navigations": [
+        {
+            "origin": "OStim2PStandingApartMF",
+            "description": "OSA OSex",
+            "icon": "OStim/sensual/restinghead_standing_mf"
+        },
+        {
+            "destination": "vanilla_Sy6!Sy9_Ap_St9Dally",
+            "description": "Standing Casual",
+            "icon": "OStim/sensual/restinghead_standing_mf"
+        },
+        {
+            "destination": "OSA_OSexJumpToScene",
+            "description": "Shortcuts navigation",
+            "icon": "OStim/symbols/lightbulb_on"
+        },
+        {
+            "destination": "OStim2PStandingApartMF",
+            "description": "Return",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "tags": [
+        "idle"
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 7,
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        }
+    ],
+    "noRandomSelection": true
+}

@@ -1,0 +1,69 @@
+{
+    "name": "Lap Kneel, Affection",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_KnLap"
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_KNy6!KNy6_Ho_KnLap+01T180",
+            "description": "Turn {1} around.",
+            "icon": "OStim/positional/turnaround_f"
+        },
+        {
+            "destination": "vanilla_KNy6!KNy6_Ho_KnLap+01BoDo",
+            "description": "Bend {1} over onto all fours.",
+            "icon": "OStim/positional/allfours_f"
+        },
+        {
+            "destination": "vanilla_KNy6!KNy6_Ho_KnLap+01SiKe",
+            "description": "Take a knee and sit {1} on it.",
+            "icon": "OStim/positional/princesscarry_mf"
+        },
+        {
+            "destination": "vanilla_KNy6!KNy6_Ho_KnLap+01OffX",
+            "description": "Slide {1} off your lap to the side.",
+            "icon": "OStim/positional/leanback_f"
+        },
+        {
+            "destination": "vanilla_KNy6!KNy6_Ho_KnLap+11StPop",
+            "description": "{1} gets on feet.",
+            "icon": "OStim/positional/standup_f"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false,
+            "lookDown": 100,
+            "lookLeft": 40
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false,
+            "lookUp": 40,
+            "lookRight": 100
+        }
+    ],
+    "actions": [
+        {
+            "type": "hugging",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

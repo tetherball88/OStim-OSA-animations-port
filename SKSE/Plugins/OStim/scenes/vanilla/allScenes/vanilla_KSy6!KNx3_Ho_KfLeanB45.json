@@ -1,0 +1,65 @@
+{
+    "name": "Mischeivous | Fondle",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_KfLeanB45"
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_KSy6!KNx3_Ho_KfLeanB45+01BoDo",
+            "description": "Bend {1} over.",
+            "icon": "OStim/positional/bendover_f"
+        },
+        {
+            "destination": "vanilla_KSy6!KNx3_Ho_KfLeanB45+01SexSpankL",
+            "description": "Give {1}'s left cheek a spank.",
+            "icon": "OStim/sexual/spank_left_mf"
+        },
+        {
+            "destination": "vanilla_KSy6!KNx3_Ho_KfLeanB45+01SexSpankR",
+            "description": "Give {1}'s right cheek a spank.",
+            "icon": "OStim/sexual/spank_right_mf"
+        },
+        {
+            "destination": "vanilla_KSy6!KNx3_Ho_KfLeanB45+01Es45",
+            "description": "Straighten and lean {1} back.",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": true,
+            "lookDown": 100,
+            "lookRight": 100
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "kneeling",
+                "bendover"
+            ],
+            "feetOnGround": false,
+            "lookDown": 100,
+            "lookRight": 100
+        }
+    ],
+    "actions": [
+        {
+            "type": "gropingbutt",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

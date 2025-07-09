@@ -1,0 +1,48 @@
+{
+    "name": "Tummy Dally",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_KnTumDally"
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_KFy6!Uy6_Ho_KfRearUpLi",
+            "description": "Straddle {1}'s Legs.",
+            "icon": "OStim/sexual/prone_mf"
+        },
+        {
+            "destination": "vanilla_KNy2!Uy6_Ap_KnTumDally+00Yi2",
+            "description": "Lay next to {1}.",
+            "icon": "OStim/positional/lyingback_m"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false,
+            "lookDown": 100,
+            "lookRight": 10
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "lyingfront"
+            ],
+            "feetOnGround": false,
+            "lookUp": 80,
+            "lookLeft": 80
+        }
+    ],
+    "actions": [],
+    "tags": [
+        "osa"
+    ]
+}

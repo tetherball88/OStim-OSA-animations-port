@@ -1,0 +1,51 @@
+{
+    "name": "Explorer, Pus 2 Finger | Finger Pump",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_MExpPf2CptPM_S0",
+            "playbackSpeed": 1,
+            "displaySpeed": 0.5
+        },
+        {
+            "animation": "osex_vanilla_MExpPf2CptPM_S1",
+            "playbackSpeed": 1,
+            "displaySpeed": 1
+        },
+        {
+            "animation": "osex_vanilla_MExpPf2CptPM_S2",
+            "playbackSpeed": 1,
+            "displaySpeed": 1.5
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_YDz6!My9_Pf2_MExpPf2CrtSF",
+            "description": "Stuff {1} and rub clit.",
+            "icon": "OStim/sexual/fingering_up_m"
+        },
+        {
+            "destination": "vanilla_YDz6!My9_Pf2_MExpPf2CrtSF+01Pfx",
+            "description": "Pull your fingers out.",
+            "icon": "OStim/sexual/vaginalfingering_mf_end"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [],
+            "feetOnGround": true,
+            "lookDown": 80
+        },
+        {
+            "intendedSex": "female",
+            "tags": [],
+            "feetOnGround": true,
+            "lookDown": 60,
+            "lookRight": 20
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "name": "Adore | Embrace",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_St9AdoreEmb"
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_Sy6!Sy9_Em_St9AdoreEmb+01Km",
+            "description": "Kiss {1}'s lips.",
+            "icon": "OStim/sensual/kissing"
+        },
+        {
+            "destination": "vanilla_Sy6!Sy9_Em_St9AdoreEmb+10Lw",
+            "description": "Wrap your leg around {0}.",
+            "icon": "OStim/positional/raiseleg_f"
+        },
+        {
+            "destination": "vanilla_Sy6!Sy9_Em_St9AdoreEmb+01Emx",
+            "description": "Release your embrace.",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true,
+            "lookDown": 60
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true,
+            "lookDown": 60,
+            "lookRight": 10
+        }
+    ],
+    "actions": [
+        {
+            "type": "hugging",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "hugging",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

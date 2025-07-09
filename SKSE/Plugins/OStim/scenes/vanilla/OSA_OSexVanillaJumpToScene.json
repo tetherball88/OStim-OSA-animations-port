@@ -1,0 +1,95 @@
+{
+    "name": "OSA OSex Vanilla Shortcuts",
+    "modpack": "CE0",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "OStim2PStandingApartMF"
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_Sy6!Sy6_Ho_St6RevCud",
+            "description": "Standing Reverse Cuddles",
+            "icon": "OStim/sensual/embrace_behind_mf"
+        },
+        {
+            "destination": "vanilla_Sy6!LLy9_Ho_LiftedLotus",
+            "description": "Lifted Lotus | Affection",
+            "icon": "OStim/sexual/carryingsex_mf"
+        },
+        {
+            "destination": "vanilla_KNy6!KNy6_Ho_KnLap",
+            "description": "Lap Kneel, Affection",
+            "icon": "OStim/sexual/reverselotus_mf"
+        },
+        {
+            "destination": "vanilla_Sy6!KAy9_Ap_KaBefo",
+            "description": "Kneel Before",
+            "icon": "OStim/sexual/blowjob_mf"
+        },
+        {
+            "destination": "vanilla_Iy2!Iy2_Ho_Spoon",
+            "description": "Spoon | Affection",
+            "icon": "OStim/sensual/spooning_mf"
+        },
+        {
+            "destination": "vanilla_KFy6!MIy9_Ho_CraneLounge",
+            "description": "Crane Lounge",
+            "icon": "OStim/sexual/missionary_mf"
+        },
+        {
+            "destination": "vanilla_YHy6!My9_Ho_MishHov",
+            "description": "Missionary | Affection",
+            "icon": "OStim/sexual/missionary_mf"
+        },
+        {
+            "destination": "vanilla_Cy6!DOy6_Ho_DoggyLi",
+            "description": "Doggystyle, Legs In",
+            "icon": "OStim/sexual/doggystyle_mf"
+        },
+        {
+            "destination": "vanilla_KFy6!Uy6_Ho_KfRearUpLi",
+            "description": "Rear Up | Exposed",
+            "icon": "OStim/sexual/prone_mf"
+        },
+        {
+            "destination": "vanilla_MIy9!KNy6_Ho_KnCowG",
+            "description": "Cowgirl | Kneel",
+            "icon": "OStim/sexual/cowgirl_mf"
+        },
+        {
+            "destination": "vanilla_My9!KNw9_Ho_ABomb",
+            "description": "A-Bomb",
+            "icon": "OStim/sexual/sixtynine_mf"
+        },
+        {
+            "destination": "OSA_OSexVanilla",
+            "description": "Return",
+            "icon": "OStim/symbols/return",
+            "priority": -1000
+        }
+    ],
+    "tags": [
+        "idle"
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 7,
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        }
+    ],
+    "noRandomSelection": true
+}
