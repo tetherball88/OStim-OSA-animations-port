@@ -1,0 +1,27 @@
+		<hkobject name="#osadua$1" class="hkbStateMachine" signature="0x816c1dcb">
+			<hkparam name="variableBindingSet">null</hkparam>
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="name">OStimOsexanimationsportDualWield_Root</hkparam>
+			<hkparam name="eventToSendWhenStateOrTransitionChanges">
+				<hkobject>
+					<hkparam name="id">-1</hkparam>
+					<hkparam name="payload">null</hkparam>
+				</hkobject>
+			</hkparam>
+			<hkparam name="startStateChooser">null</hkparam>
+			<hkparam name="startStateId">0</hkparam>
+			<hkparam name="returnToPreviousStateEventId">-1</hkparam>
+			<hkparam name="randomTransitionEventId">-1</hkparam>
+			<hkparam name="transitionToNextHigherStateEventId">-1</hkparam>
+			<hkparam name="transitionToNextLowerStateEventId">-1</hkparam>
+			<hkparam name="syncVariableIndex">-1</hkparam>
+			<hkparam name="wrapAroundStateId">false</hkparam>
+			<hkparam name="maxSimultaneousTransitions">32</hkparam>
+			<hkparam name="startStateMode">START_STATE_MODE_DEFAULT</hkparam>
+			<hkparam name="selfTransitionMode">SELF_TRANSITION_MODE_NO_TRANSITION</hkparam>
+			<hkparam name="states" numelements="108">
+				#osadua$4 #osadua$10 #osadua$16 #osadua$22 #osadua$28 #osadua$34 #osadua$40 #osadua$46 #osadua$52 #osadua$58 #osadua$64 #osadua$70 #osadua$76 #osadua$82 #osadua$88 #osadua$94 #osadua$100 #osadua$106 #osadua$112 #osadua$118 #osadua$124 #osadua$130 #osadua$136 #osadua$142 #osadua$148 #osadua$154 #osadua$160 #osadua$166 #osadua$172 #osadua$178 #osadua$184 #osadua$190 #osadua$196 #osadua$202 #osadua$208 #osadua$214 #osadua$220 #osadua$226 #osadua$232 #osadua$238 #osadua$244 #osadua$250 #osadua$256 #osadua$262 #osadua$268 #osadua$274 #osadua$280 #osadua$286 #osadua$292 #osadua$298 #osadua$304 #osadua$310 #osadua$316 #osadua$322 #osadua$328 #osadua$334 #osadua$340 #osadua$346 #osadua$352 #osadua$358 #osadua$364 #osadua$370 #osadua$376 #osadua$382 #osadua$388 #osadua$394 #osadua$400 #osadua$406 #osadua$412 #osadua$418 #osadua$424 #osadua$430 #osadua$436 #osadua$442 #osadua$448 #osadua$454 #osadua$460 #osadua$466 #osadua$472 #osadua$478 #osadua$484 #osadua$490 #osadua$496 #osadua$502 #osadua$508 #osadua$514 #osadua$520 #osadua$526 #osadua$532 #osadua$538 #osadua$544 #osadua$550 #osadua$556 #osadua$562 #osadua$568 #osadua$574 #osadua$580 #osadua$586 #osadua$592 #osadua$598 #osadua$604 #osadua$610 #osadua$616 #osadua$622 #osadua$628 #osadua$634 #osadua$640 #osadua$646
+			</hkparam>
+			<hkparam name="wildcardTransitions">#osadua$652</hkparam>
+		</hkobject>
+

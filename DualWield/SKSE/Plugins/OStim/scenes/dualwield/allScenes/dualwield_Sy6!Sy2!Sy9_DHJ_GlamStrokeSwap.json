@@ -1,0 +1,104 @@
+{
+    "name": "GlamStroke | Multi Handjob Swapped",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_dualwield_GlamStroke_S1",
+            "playbackSpeed": 1,
+            "displaySpeed": 1
+        },
+        {
+            "animation": "osex_dualwield_GlamStroke_S2",
+            "playbackSpeed": 1,
+            "displaySpeed": 1.5
+        },
+        {
+            "animation": "osex_dualwield_GlamStroke_S3",
+            "playbackSpeed": 1,
+            "displaySpeed": 2
+        },
+        {
+            "animation": "osex_dualwield_GlamStroke_S4",
+            "playbackSpeed": 1,
+            "displaySpeed": 2.5
+        },
+        {
+            "animation": "osex_dualwield_GlamStroke_S5",
+            "playbackSpeed": 1,
+            "displaySpeed": 3
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "dualwield_Sy6!Sy2!Sy9_DHJ_GlamStroke+11KNSwap",
+            "description": "{2} kneels down.",
+            "icon": "OStim/positional/kneeling_f"
+        },
+        {
+            "destination": "dualwield_Sy6!Sy2!Sy9_Ho_WarmWelcomeSwap",
+            "description": "{2} stops stroking them.",
+            "icon": "OStim/symbols/x"
+        }
+    ],
+    "actors": [
+        {
+            "animationIndex": 2,
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true,
+            "lookDown": 100
+        },
+        {
+            "animationIndex": 0,
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true,
+            "lookDown": 80
+        },
+        {
+            "animationIndex": 1,
+            "intendedSex": "female",
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true,
+            "lookDown": 80,
+            "lookLeft": 100
+        }
+    ],
+    "actions": [
+        {
+            "type": "gropingbutt",
+            "actor": 0,
+            "target": 2
+        },
+        {
+            "type": "gropingbutt",
+            "actor": 1,
+            "target": 2
+        },
+        {
+            "type": "handjob",
+            "actor": 2,
+            "target": 0
+        },
+        {
+            "type": "handjob",
+            "actor": 2,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa",
+        "dualwield"
+    ]
+}

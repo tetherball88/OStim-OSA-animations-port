@@ -1,0 +1,108 @@
+{
+    "name": "Parlor (Look Up, Left)| Multi Handjob",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_dualwield_ParlorDHJO812F_S1",
+            "playbackSpeed": 1,
+            "displaySpeed": 1
+        },
+        {
+            "animation": "osex_dualwield_ParlorDHJO812F_S2",
+            "playbackSpeed": 1,
+            "displaySpeed": 1.5
+        },
+        {
+            "animation": "osex_dualwield_ParlorDHJO812F_S3",
+            "playbackSpeed": 1,
+            "displaySpeed": 2
+        },
+        {
+            "animation": "osex_dualwield_ParlorDHJO812F_S4",
+            "playbackSpeed": 1,
+            "displaySpeed": 2.5
+        },
+        {
+            "animation": "osex_dualwield_ParlorDHJO812F_S5",
+            "playbackSpeed": 1,
+            "displaySpeed": 3
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "dualwield_Sy6!KNy2!Sy9_DHJ_ParlorDHJO810A",
+            "description": "{2} looks down at {0}.",
+            "icon": "OStim/detail/lookleft_f"
+        },
+        {
+            "destination": "dualwield_Sy6!KNy2!Sy9_DHJ_ParlorDHJO810F",
+            "description": "{2} looks up at {0}.",
+            "icon": "OStim/detail/lookleft_f"
+        },
+        {
+            "destination": "dualwield_Sy6!KNy2!Sy9_DHJ_ParlorDHJO812A",
+            "description": "{2} looks down at {1}.",
+            "icon": "OStim/detail/lookright_f"
+        },
+        {
+            "destination": "dualwield_Sy6!KNy2!Sy9_DHJ_Parlor0BJ2HJ",
+            "description": "{2} takes {0} into mouth.",
+            "icon": "OStim/sexual/blowjob_mf"
+        },
+        {
+            "destination": "dualwield_Sy6!KNy2!Sy9_DHJ_ParlorDHJO+11ST",
+            "description": "{2} stands up.",
+            "icon": "OStim/positional/standup_f"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true,
+            "lookDown": 100
+        },
+        {
+            "animationIndex": 2,
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true,
+            "lookDown": 100
+        },
+        {
+            "animationIndex": 1,
+            "intendedSex": "female",
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false,
+            "lookUp": 100,
+            "lookLeft": 100
+        }
+    ],
+    "actions": [
+        {
+            "type": "handjob",
+            "actor": 2,
+            "target": 0
+        },
+        {
+            "type": "handjob",
+            "actor": 2,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa",
+        "dualwield"
+    ]
+}

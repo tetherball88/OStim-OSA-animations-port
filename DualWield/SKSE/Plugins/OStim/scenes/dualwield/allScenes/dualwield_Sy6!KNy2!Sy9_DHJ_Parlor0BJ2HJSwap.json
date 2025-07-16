@@ -1,0 +1,88 @@
+{
+    "name": "Parlor | Blowjob Visitor, Handjob Dom",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_dualwield_Parlor0BJ2HJ_S1",
+            "playbackSpeed": 1,
+            "displaySpeed": 1
+        },
+        {
+            "animation": "osex_dualwield_Parlor0BJ2HJ_S2",
+            "playbackSpeed": 1,
+            "displaySpeed": 1.5
+        },
+        {
+            "animation": "osex_dualwield_Parlor0BJ2HJ_S3",
+            "playbackSpeed": 1,
+            "displaySpeed": 2
+        },
+        {
+            "animation": "osex_dualwield_Parlor0BJ2HJ_S4",
+            "playbackSpeed": 1,
+            "displaySpeed": 2.5
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "dualwield_Sy6!KNy2!Sy9_DHJ_ParlorDHJO810FSwap",
+            "description": "{2} pulls {1} out of mouth.",
+            "icon": "OStim/symbols/x"
+        },
+        {
+            "destination": "dualwield_Sy6!KNy2!Sy9_DHJ_Parlor0BJ2HJ",
+            "description": "{1} swaps with {0}.",
+            "icon": "OStim/symbols/rotate_cw"
+        }
+    ],
+    "actors": [
+        {
+            "animationIndex": 2,
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true,
+            "lookDown": 80
+        },
+        {
+            "animationIndex": 0,
+            "intendedSex": "male",
+            "sosBend": 2,
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true,
+            "lookDown": 80
+        },
+        {
+            "animationIndex": 1,
+            "intendedSex": "female",
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false,
+            "lookDown": 80
+        }
+    ],
+    "actions": [
+        {
+            "type": "blowjob",
+            "actor": 2,
+            "target": 1
+        },
+        {
+            "type": "handjob",
+            "actor": 2,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "osa",
+        "dualwield"
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "name": "GlamStroke, Multi Handjob|+ Kneel",
+    "modpack": "Ceo",
+    "length": 4,
+    "destination": "dualwield_Sy6!KNy2!Sy9_DHJ_ParlorDHJO812F",
+    "speeds": [
+        {
+            "animation": "osex_dualwield_GlamStroke+11KN"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        },
+        {
+            "animationIndex": 2,
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        },
+        {
+            "animationIndex": 1,
+            "intendedSex": "female",
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        }
+    ],
+    "actions": [
+        {
+            "type": "hugging",
+            "actor": 0,
+            "target": 2
+        },
+        {
+            "type": "hugging",
+            "actor": 1,
+            "target": 2
+        },
+        {
+            "type": "handjob",
+            "actor": 2,
+            "target": 0
+        },
+        {
+            "type": "handjob",
+            "actor": 2,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa",
+        "dualwield",
+        "transition"
+    ]
+}

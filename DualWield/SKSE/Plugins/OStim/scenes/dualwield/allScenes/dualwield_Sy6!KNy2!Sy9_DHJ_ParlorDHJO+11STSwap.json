@@ -1,0 +1,57 @@
+{
+    "name": "GlamStroke, Multi Handjob|+ Stand Swapped",
+    "modpack": "Ceo",
+    "length": 6,
+    "destination": "dualwield_Sy6!Sy2!Sy9_DHJ_GlamStrokeSwap",
+    "speeds": [
+        {
+            "animation": "osex_dualwield_ParlorDHJO+11ST"
+        }
+    ],
+    "actors": [
+        {
+            "animationIndex": 2,
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        },
+        {
+            "animationIndex": 0,
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        },
+        {
+            "animationIndex": 1,
+            "intendedSex": "female",
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [
+        {
+            "type": "handjob",
+            "actor": 2,
+            "target": 0
+        },
+        {
+            "type": "handjob",
+            "actor": 2,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa",
+        "dualwield"
+    ]
+}

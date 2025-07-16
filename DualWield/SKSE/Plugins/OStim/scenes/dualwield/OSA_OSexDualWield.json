@@ -1,0 +1,62 @@
+{
+    "name": "OSA OSex Vanilla Hub",
+    "modpack": "CE0",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "OStim3PStandingMMF"
+        }
+    ],
+    "navigations": [
+        {
+            "origin": "OStim3PStandingMMF",
+            "description": "OSA Dual Wield",
+            "icon": "OStim/sexual/threesome_mmf"
+        },
+        {
+            "destination": "dualwield_Sy6!Sy2!Sy9_Ho_WarmWelcomeSwap",
+            "description": "Warm Welcome",
+            "icon": "OStim/sexual/threesome_mmf"
+        },
+        {
+            "destination": "OStim3PStandingMMF",
+            "description": "Return",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "tags": [
+        "idle"
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true,
+            "sosBend": -10,
+            "lookUp": -50,
+            "lookLeft": 40
+        },
+        {
+            "intendedSex": "male",
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true,
+            "sosBend": -10,
+            "lookUp": -30,
+            "lookLeft": 10
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true,
+            "lookUp": 20,
+            "lookLeft": -80
+        }
+    ],
+    "noRandomSelection": true
+}

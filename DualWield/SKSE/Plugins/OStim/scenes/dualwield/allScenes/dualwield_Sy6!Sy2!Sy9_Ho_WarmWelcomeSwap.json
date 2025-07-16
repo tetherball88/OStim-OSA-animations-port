@@ -1,0 +1,78 @@
+{
+    "name": "Warm Welcome | Affection Swapped",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_dualwield_WarmWelcome"
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "dualwield_Sy6!Sy2!Sy9_DHJ_GlamStrokeSwap",
+            "description": "Wrap your hands around them and stroke.",
+            "icon": "OStim/sexual/handjob_mf"
+        },
+        {
+            "destination": "dualwield_Sy6!Sy9!Sy9_Ho_DoubleTroubleSwap",
+            "description": "{2} turns towards {1}.",
+            "icon": "OStim/positional/turnaround_f"
+        },
+        {
+            "destination": "dualwield_Sy6!Sy2!Sy9_Ho_WarmWelcome",
+            "description": "{1} swaps with {0}.",
+            "icon": "OStim/symbols/rotate_cw"
+        }
+    ],
+    "actors": [
+        {
+            "animationIndex": 2,
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true,
+            "lookDown": 80
+        },
+        {
+            "animationIndex": 0,
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true,
+            "lookDown": 80
+        },
+        {
+            "animationIndex": 1,
+            "intendedSex": "female",
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true,
+            "lookDown": 80,
+            "lookLeft": 100
+        }
+    ],
+    "actions": [
+        {
+            "type": "hugging",
+            "actor": 0,
+            "target": 2
+        },
+        {
+            "type": "hugging",
+            "actor": 1,
+            "target": 2
+        }
+    ],
+    "tags": [
+        "osa",
+        "dualwield",
+        "idle"
+    ]
+}

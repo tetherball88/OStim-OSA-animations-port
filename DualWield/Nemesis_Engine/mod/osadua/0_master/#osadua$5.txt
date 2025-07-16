@@ -1,0 +1,8 @@
+		<hkobject name="#osadua$5" class="hkbModifierGenerator" signature="0x1f81fae6">
+			<hkparam name="variableBindingSet">null</hkparam>
+			<hkparam name="userData">1</hkparam>
+			<hkparam name="name">OStimOsexanimationsportDualWield_Modifier8</hkparam>
+			<hkparam name="modifier">#osadua$8</hkparam>
+			<hkparam name="generator">#osadua$6</hkparam>
+		</hkobject>
+

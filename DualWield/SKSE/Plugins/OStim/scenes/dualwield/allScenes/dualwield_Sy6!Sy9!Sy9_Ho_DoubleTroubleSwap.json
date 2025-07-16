@@ -1,0 +1,83 @@
+{
+    "name": "Double Trouble | Affection Swapped",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_dualwield_DoubleTrouble"
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "dualwield_Sy6!Sy9!Sy9_Sx_FraternitySwap",
+            "description": "{0} penetrates {2} from the rear.",
+            "icon": "OStim/sexual/penis_insert_hz"
+        },
+        {
+            "destination": "dualwield_Sy6!Sy2!Sy9_Ho_WarmWelcomeSwap",
+            "description": "{2} turns towards {0}.",
+            "icon": "OStim/positional/turnaround_f"
+        },
+        {
+            "destination": "dualwield_Sy6!Sy9!Sy9_Ho_DoubleTrouble",
+            "description": "{1} swaps with {0}.",
+            "icon": "OStim/symbols/rotate_cw"
+        }
+    ],
+    "actors": [
+        {
+            "animationIndex": 2,
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true,
+            "lookDown": 80
+        },
+        {
+            "animationIndex": 0,
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true,
+            "lookDown": 80
+        },
+        {
+            "animationIndex": 1,
+            "intendedSex": "female",
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true,
+            "lookDown": 80,
+            "lookLeft": 100
+        }
+    ],
+    "actions": [
+        {
+            "type": "hugging",
+            "actor": 0,
+            "target": 2
+        },
+        {
+            "type": "hugging",
+            "actor": 1,
+            "target": 2
+        },
+        {
+            "type": "hugging",
+            "actor": 2,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa",
+        "dualwield",
+        "idle"
+    ]
+}
