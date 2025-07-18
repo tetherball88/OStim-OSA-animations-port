@@ -1,0 +1,8 @@
+		<hkobject name="#osabbo$239" class="hkbModifierGenerator" signature="0x1f81fae6">
+			<hkparam name="variableBindingSet">null</hkparam>
+			<hkparam name="userData">1</hkparam>
+			<hkparam name="name">OStimOsexanimationsportBadBoys_Modifier242</hkparam>
+			<hkparam name="modifier">#osabbo$242</hkparam>
+			<hkparam name="generator">#osabbo$240</hkparam>
+		</hkobject>
+

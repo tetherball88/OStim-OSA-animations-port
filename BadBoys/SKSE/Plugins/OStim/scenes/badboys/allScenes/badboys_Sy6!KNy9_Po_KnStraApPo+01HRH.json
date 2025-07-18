@@ -1,0 +1,41 @@
+{
+    "name": "Kneel Straight Jerk |+ Head grab",
+    "modpack": "Ceo",
+    "length": 2,
+    "destination": "badboys_Sy6!KNy9_HhPo_MoShoPo",
+    "origin": "vanilla_Sy6!KNy9_Po_KnStraApPo",
+    "description": "Grab {1}'s head.",
+    "icon": "OStim/detail/holdinghead_mf",
+    "speeds": [
+        {
+            "animation": "osex_badboys_KnStraApPo+01HRH"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [
+        {
+            "type": "malemasturbation",
+            "actor": 0
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

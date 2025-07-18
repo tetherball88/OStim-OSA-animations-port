@@ -1,0 +1,45 @@
+{
+    "name": "Money Shot, Jerk | +Down",
+    "modpack": "Ceo",
+    "length": 4,
+    "destination": "badboys_Sy6!KAy9_HhPo_FrRowPo",
+    "speeds": [
+        {
+            "animation": "osex_badboys_MoShoPo+01RoKa"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [
+        {
+            "type": "holdinghead",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "malemasturbation",
+            "actor": 0
+        }
+    ],
+    "tags": [
+        "osa",
+        "badboys",
+        "transition"
+    ]
+}

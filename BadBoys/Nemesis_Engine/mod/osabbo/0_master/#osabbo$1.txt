@@ -1,0 +1,27 @@
+		<hkobject name="#osabbo$1" class="hkbStateMachine" signature="0x816c1dcb">
+			<hkparam name="variableBindingSet">null</hkparam>
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="name">OStimOsexanimationsportBadBoys_Root</hkparam>
+			<hkparam name="eventToSendWhenStateOrTransitionChanges">
+				<hkobject>
+					<hkparam name="id">-1</hkparam>
+					<hkparam name="payload">null</hkparam>
+				</hkobject>
+			</hkparam>
+			<hkparam name="startStateChooser">null</hkparam>
+			<hkparam name="startStateId">0</hkparam>
+			<hkparam name="returnToPreviousStateEventId">-1</hkparam>
+			<hkparam name="randomTransitionEventId">-1</hkparam>
+			<hkparam name="transitionToNextHigherStateEventId">-1</hkparam>
+			<hkparam name="transitionToNextLowerStateEventId">-1</hkparam>
+			<hkparam name="syncVariableIndex">-1</hkparam>
+			<hkparam name="wrapAroundStateId">false</hkparam>
+			<hkparam name="maxSimultaneousTransitions">32</hkparam>
+			<hkparam name="startStateMode">START_STATE_MODE_DEFAULT</hkparam>
+			<hkparam name="selfTransitionMode">SELF_TRANSITION_MODE_NO_TRANSITION</hkparam>
+			<hkparam name="states" numelements="56">
+				#osabbo$4 #osabbo$10 #osabbo$16 #osabbo$22 #osabbo$28 #osabbo$34 #osabbo$40 #osabbo$46 #osabbo$52 #osabbo$58 #osabbo$64 #osabbo$70 #osabbo$76 #osabbo$82 #osabbo$88 #osabbo$94 #osabbo$100 #osabbo$106 #osabbo$112 #osabbo$118 #osabbo$124 #osabbo$130 #osabbo$136 #osabbo$142 #osabbo$148 #osabbo$154 #osabbo$160 #osabbo$166 #osabbo$172 #osabbo$178 #osabbo$184 #osabbo$190 #osabbo$196 #osabbo$202 #osabbo$208 #osabbo$214 #osabbo$220 #osabbo$226 #osabbo$232 #osabbo$238 #osabbo$244 #osabbo$250 #osabbo$256 #osabbo$262 #osabbo$268 #osabbo$274 #osabbo$280 #osabbo$286 #osabbo$292 #osabbo$298 #osabbo$304 #osabbo$310 #osabbo$316 #osabbo$322 #osabbo$328 #osabbo$334
+			</hkparam>
+			<hkparam name="wildcardTransitions">#osabbo$340</hkparam>
+		</hkobject>
+

@@ -32,14 +32,18 @@
             "tags": [
                 "lyingfront"
             ],
-            "feetOnGround": false
+            "feetOnGround": false,
+            "lookUp": 20,
+            "lookRight": 100
         },
         {
             "intendedSex": "female",
             "tags": [
                 "standing"
             ],
-            "feetOnGround": true
+            "feetOnGround": true,
+            "lookDown": 100,
+            "lookRight": 20
         }
     ],
     "actions": [],

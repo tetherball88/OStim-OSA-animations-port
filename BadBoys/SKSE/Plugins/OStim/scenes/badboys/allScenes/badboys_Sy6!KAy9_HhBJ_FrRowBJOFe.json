@@ -1,0 +1,63 @@
+{
+    "name": "Front Row | Feed",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_badboys_FrRowBJOFe_S0",
+            "playbackSpeed": 1,
+            "displaySpeed": 0.5
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "badboys_Sy6!KAy9_HhBJ_FrRowBJOTh",
+            "description": "Thrust your hips.",
+            "icon": "OStim/sexual/facefuck_mf"
+        },
+        {
+            "destination": "badboys_Sy6!KAy9_HhPJ_FrRowPJO",
+            "description": "Take hold and stroke yourself.",
+            "icon": "OStim/sexual/handjob_mm"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 2,
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true,
+            "lookDown": 100,
+            "lookRight": 20
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "kneeling"
+            ],
+            "feetOnGround": false,
+            "lookUp": 100,
+            "lookLeft": 20
+        }
+    ],
+    "actions": [
+        {
+            "type": "holdinghead",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "blowjob",
+            "actor": 1,
+            "target": 0,
+            "performer": 0
+        }
+    ],
+    "tags": [
+        "osa",
+        "badboys"
+    ]
+}

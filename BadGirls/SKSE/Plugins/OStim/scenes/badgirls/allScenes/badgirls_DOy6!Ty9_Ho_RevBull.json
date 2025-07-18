@@ -28,7 +28,9 @@
                 "allfours",
                 "onbottom"
             ],
-            "feetOnGround": false
+            "feetOnGround": false,
+            "lookUp": 20,
+            "lookRight": 100
         },
         {
             "intendedSex": "female",
@@ -37,7 +39,9 @@
                 "ontop",
                 "facingaway"
             ],
-            "feetOnGround": true
+            "feetOnGround": true,
+            "lookDown": 100,
+            "lookLeft": 60
         }
     ],
     "actions": [],

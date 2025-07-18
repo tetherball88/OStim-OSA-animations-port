@@ -1,0 +1,44 @@
+{
+    "name": "OSA OSex Bad Boys Hub",
+    "modpack": "CE0",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "OStim2PStandingApartMF"
+        }
+    ],
+    "navigations": [
+        {
+            "origin": "OSA_OSexVanilla",
+            "description": "Bad Boys Shortcuts",
+            "icon": "OStim/sexual/facesitting_mf"
+        },
+        {
+            "destination": "OSA_OSexVanilla",
+            "description": "Return",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "tags": [
+        "idle"
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 7,
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        }
+    ],
+    "noRandomSelection": true
+}

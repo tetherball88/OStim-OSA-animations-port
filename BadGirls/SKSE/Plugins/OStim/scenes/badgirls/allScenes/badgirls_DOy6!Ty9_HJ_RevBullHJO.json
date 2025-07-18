@@ -30,7 +30,8 @@
                 "allfours",
                 "onbottom"
             ],
-            "feetOnGround": false
+            "feetOnGround": false,
+            "lookDown": 100
         },
         {
             "intendedSe x": "female",
@@ -40,7 +41,9 @@
                 "facingaway",
                 "bendover"
             ],
-            "feetOnGround": true
+            "feetOnGround": true,
+            "lookDown": 100,
+            "lookLeft": 20
         }
     ],
     "actions": [

@@ -34,14 +34,17 @@
             "tags": [
                 "sitting"
             ],
-            "feetOnGround": true
+            "feetOnGround": true,
+            "lookDown": 100
         },
         {
             "intendedSex": "female",
             "tags": [
                 "standing"
             ],
-            "feetOnGround": true
+            "feetOnGround": true,
+            "lookDown": 100,
+            "lookLeft": 20
         }
     ],
     "actions": [
