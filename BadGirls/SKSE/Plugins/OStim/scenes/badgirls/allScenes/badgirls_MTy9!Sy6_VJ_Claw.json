@@ -1,0 +1,65 @@
+{
+    "name": "Claw",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_badgirls_Claw_S0",
+            "playbackSpeed": 1,
+            "displaySpeed": 0.5
+        }
+    ],
+    "navigations": [
+        {
+            "origin": "vanilla_My9!Sy6_Ap_Industry",
+            "description": "Mount {0}'s face.",
+            "icon": "OStim/sexual/cunnilingus_standing_mf"
+        },
+        {
+            "destination": "badgirls_My9!TFy6_VJ_CrabSeat",
+            "description": "Sit on {0}'s face.",
+            "icon": "OStim/sexual/facesitting_mf"
+        },
+        {
+            "destination": "vanilla_My9!Sy6_Ap_Industry",
+            "description": "Dismount ^P0 face.",
+            "icon": "OStim/symbols/x"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "sitting"
+            ],
+            "feetOnGround": true
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        }
+    ],
+    "actions": [
+        {
+            "type": "lickingvagina",
+            "actor": 0,
+            "target": 1,
+            "performer": 1
+        },
+        {
+            "type": "holdinghead",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "osa",
+        "badgirls",
+        "facesitting"
+    ]
+}

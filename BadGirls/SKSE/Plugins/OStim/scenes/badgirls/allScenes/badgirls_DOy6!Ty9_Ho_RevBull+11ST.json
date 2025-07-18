@@ -1,0 +1,38 @@
+{
+    "name": "Reverse Bull |+ Stand Up",
+    "modpack": "Ceo",
+    "length": 4,
+    "destination": "badgirls_DOy6!Sy9_Ap_Matador",
+    "speeds": [
+        {
+            "animation": "osex_badgirls_RevBull+11ST"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "allfours",
+                "onbottom"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "sitting",
+                "ontop",
+                "facingaway"
+            ],
+            "feetOnGround": true
+        }
+    ],
+    "actions": [],
+    "tags": [
+        "osa",
+        "badgirls",
+        "transition"
+    ]
+}

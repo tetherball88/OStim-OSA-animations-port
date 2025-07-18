@@ -1,0 +1,45 @@
+{
+    "name": "Matador",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_badgirls_Matador"
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "badgirls_DOy6!Sy9_Ap_Matador+10T",
+            "description": "Sit on {0}.",
+            "icon": "OStim/positional/kneeling_f"
+        },
+        {
+            "destination": "badgirls_DOy6!Sx6_Ap_Plank",
+            "description": "Unstraddle {0} off to the side.",
+            "icon": "OStim/symbols/x"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "allfours"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        }
+    ],
+    "actions": [],
+    "tags": [
+        "osa",
+        "badgirls"
+    ]
+}

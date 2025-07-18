@@ -785,6 +785,12 @@ b -Tn osex_vanilla_Invitation_1 ..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanil
 b -Tn osex_vanilla_Invitation_0 ..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_Invitation_0.hkx
 b -a,Tn osex_vanilla_Invitation+11Kn_1 ..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_Invitation+11Kn_1.hkx
 b -a,Tn osex_vanilla_Invitation+11Kn_0 ..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_Invitation+11Kn_0.hkx
+b -a,Tn osex_vanilla_Invitation+10SadSt_1 ..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_Invitation+10SadSt_1.hkx
+b -a,Tn osex_vanilla_Invitation+10SadSt_0 ..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_Invitation+10SadSt_0.hkx
+b -Tn osex_vanilla_Industry_1 ..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_Industry_1.hkx
+b -Tn osex_vanilla_Industry_0 ..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_Industry_0.hkx
+b -a,Tn osex_vanilla_Industry+10OffX_1 ..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_Industry+10OffX_1.hkx
+b -a,Tn osex_vanilla_Industry+10OffX_0 ..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_Industry+10OffX_0.hkx
 b -Tn,T0S0/1.0 osex_vanilla_Rocket_S1_1 ..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_Rocket_S1_1.hkx
 b -Tn osex_vanilla_Rocket_S1_0 ..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_Rocket_S1_0.hkx
 b -Tn,T0S0/0.5,T0S0/1.5 osex_vanilla_Rocket_S2_1 ..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_Rocket_S2_1.hkx

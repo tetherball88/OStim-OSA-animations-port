@@ -17,6 +17,11 @@
             "destination": "vanilla_Sy6!Sy6_Ho_St6RevCud",
             "description": "{0} stands up.",
             "icon": "OStim/positional/standup_m"
+        },
+        {
+            "destination": "vanilla_My9!Sx6_Ap_Invitation+10SadSt",
+            "description": "{1} stands over {1}.",
+            "icon": "OStim/positional/standup_f"
         }
     ],
     "actors": [

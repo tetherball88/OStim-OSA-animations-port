@@ -1,0 +1,37 @@
+{
+    "name": "Matador |+ UnStraddle",
+    "modpack": "Ceo",
+    "length": 4,
+    "destination": "badgirls_DOy6!Ty9_Ho_RevBull",
+    "speeds": [
+        {
+            "animation": "osex_badgirls_Matador+10T"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "allfours",
+                "onbottom"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "sitting",
+                "ontop"
+            ],
+            "feetOnGround": true
+        }
+    ],
+    "actions": [],
+    "tags": [
+        "osa",
+        "badgirls",
+        "transition"
+    ]
+}

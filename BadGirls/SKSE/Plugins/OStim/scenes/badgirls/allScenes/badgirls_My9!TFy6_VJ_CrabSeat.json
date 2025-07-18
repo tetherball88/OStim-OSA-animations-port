@@ -1,0 +1,55 @@
+{
+    "name": "CrabSeat",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_badgirls_CrabSeat_S0",
+            "playbackSpeed": 1,
+            "displaySpeed": 0.5
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "badgirls_MTy9!Sy6_VJ_Claw",
+            "description": "Stand up.",
+            "icon": "OStim/positional/standup_f"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "lyingback"
+            ],
+            "feetOnGround": true
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "sitting"
+            ],
+            "feetOnGround": true
+        }
+    ],
+    "actions": [
+        {
+            "type": "lickingvagina",
+            "actor": 0,
+            "target": 1,
+            "performer": 1
+        },
+        {
+            "type": "holdinghead",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "osa",
+        "badgirls",
+        "facesitting"
+    ]
+}

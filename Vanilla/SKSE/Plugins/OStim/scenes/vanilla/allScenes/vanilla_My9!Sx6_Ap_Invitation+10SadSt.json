@@ -1,0 +1,34 @@
+{
+    "name": "Invitation |+ Straddle",
+    "modpack": "Ceo",
+    "length": 4,
+    "destination": "vanilla_My9!Sy6_Ap_Industry",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_Invitation+10SadSt"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "lyingback"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        }
+    ],
+    "actions": [],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

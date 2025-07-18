@@ -1,0 +1,39 @@
+{
+    "name": "Industry | Affection",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_Industry"
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_My9!Sy6_Ap_Industry+10OffX",
+            "description": "{1} stands off to the Side.",
+            "icon": "OStim/positional/standup_f"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "lyingback"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        }
+    ],
+    "actions": [],
+    "tags": [
+        "osa"
+    ]
+}

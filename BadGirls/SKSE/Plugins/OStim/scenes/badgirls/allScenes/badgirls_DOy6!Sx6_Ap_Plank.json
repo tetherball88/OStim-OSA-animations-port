@@ -1,0 +1,45 @@
+{
+    "name": "Plank",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_badgirls_Plank"
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "badgirls_DOy6!Sy9_Ap_Matador",
+            "description": "Straddle {0}.",
+            "icon": "OStim/positional/allfours_m"
+        },
+        {
+            "destination": "badgirls_Uy6!Sx6_Ap_BDay",
+            "description": "Lower {0}'s body to the ground.",
+            "icon": "OStim/positional/lyingback_m"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "allfours"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        }
+    ],
+    "actions": [],
+    "tags": [
+        "osa",
+        "badgirls"
+    ]
+}

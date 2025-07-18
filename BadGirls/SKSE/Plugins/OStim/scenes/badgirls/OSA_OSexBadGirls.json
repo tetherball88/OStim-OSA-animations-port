@@ -1,0 +1,54 @@
+{
+    "name": "OSA OSex Bad Girls Hub",
+    "modpack": "CE0",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "OStim2PStandingApartMF"
+        }
+    ],
+    "navigations": [
+        {
+            "origin": "OSA_OSexVanilla",
+            "description": "Bad Girls Shortcuts",
+            "icon": "OStim/sexual/facesitting_mf"
+        },
+        {
+            "destination": "badgirls_Uy6!Sx6_Ap_BDay",
+            "description": "Matador.",
+            "icon": "OStim/positional/standup_f"
+        },
+        {
+            "destination": "badgirls_MTy9!Sy6_VJ_Claw",
+            "description": "Claw.",
+            "icon": "OStim/sexual/facesitting_mf"
+        },
+        {
+            "destination": "OSA_OSexVanilla",
+            "description": "Return",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "tags": [
+        "idle"
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 7,
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        }
+    ],
+    "noRandomSelection": true
+}

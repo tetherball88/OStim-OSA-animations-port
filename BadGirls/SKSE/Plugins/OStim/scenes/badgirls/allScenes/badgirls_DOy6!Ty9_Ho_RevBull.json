@@ -1,0 +1,48 @@
+{
+    "name": "Reverse Bull",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_badgirls_RevBull"
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "badgirls_DOy6!Ty9_Ho_RevBull+11ST",
+            "description": "Stand up.",
+            "icon": "OStim/positional/standup_f"
+        },
+        {
+            "destination": "badgirls_DOy6!Ty9_HJ_RevBullHJO",
+            "description": "Milk {0} from behind.",
+            "icon": "OStim/sexual/handjob_mf"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "allfours",
+                "onbottom"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "sitting",
+                "ontop",
+                "facingaway"
+            ],
+            "feetOnGround": true
+        }
+    ],
+    "actions": [],
+    "tags": [
+        "osa",
+        "badgirls"
+    ]
+}

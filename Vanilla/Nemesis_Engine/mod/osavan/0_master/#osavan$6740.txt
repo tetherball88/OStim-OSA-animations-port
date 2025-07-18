@@ -1,7 +1,7 @@
 		<hkobject name="#osavan$6740" class="hkbBlendingTransitionEffect" signature="0xfd8584fe">
 			<hkparam name="variableBindingSet">null</hkparam>
 			<hkparam name="userData">0</hkparam>
-			<hkparam name="name">osex_vanilla_SquatHJO+10BJO_0Transition</hkparam>
+			<hkparam name="name">osex_vanilla_KaBefoHJOHn2_S2_0Transition</hkparam>
 			<hkparam name="selfTransitionMode">SELF_TRANSITION_MODE_CONTINUE</hkparam>
 			<hkparam name="eventMode">EVENT_MODE_PROCESS_ALL</hkparam>
 			<hkparam name="duration">0.600000</hkparam>

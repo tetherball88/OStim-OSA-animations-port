@@ -1,7 +1,7 @@
 		<hkobject name="#0029" class="hkbCharacterStringData" signature="0x655b42bc">
 			<hkparam name="deformableSkinNames" numelements="0"></hkparam>
 			<hkparam name="rigidSkinNames" numelements="0"></hkparam>
-			<hkparam name="animationNames" numelements="2727">
+			<hkparam name="animationNames" numelements="2733">
 				<hkcstring>Animations\1HM_1stP_Run.hkx</hkcstring>
 				<hkcstring>Animations\1hm_1stP_Walk.hkx</hkcstring>
 				<hkcstring>Animations\1HM_AttackForwardSprint.hkx</hkcstring>
@@ -2446,6 +2446,12 @@
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_Invitation_0.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_Invitation+11Kn_1.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_Invitation+11Kn_0.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_Invitation+10SadSt_1.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_Invitation+10SadSt_0.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_Industry_1.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_Industry_0.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_Industry+10OffX_1.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_Industry+10OffX_0.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_Rocket_S1_1.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_Rocket_S1_0.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_Rocket_S2_1.hkx</hkcstring>

@@ -19,7 +19,7 @@
             "icon": "OStim/sensual/restinghead_standing_mf"
         },
         {
-            "destination": "OSA_OSexJumpToScene",
+            "destination": "OSA_OSexVanillaJumpToScene",
             "description": "Shortcuts navigation",
             "icon": "OStim/symbols/lightbulb_on"
         },

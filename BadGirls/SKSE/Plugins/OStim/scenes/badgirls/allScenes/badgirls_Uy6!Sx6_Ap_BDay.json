@@ -1,0 +1,50 @@
+{
+    "name": "Birthday",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_badgirls_BDay"
+        }
+    ],
+    "navigations": [
+        {
+            "origin": "vanilla_My9!Sx6_Ap_Invitation",
+            "description": "Flip {0} over.",
+            "icon": "OStim/positional/turnaround_m"
+        },
+        {
+            "destination": "badgirls_DOy6!Sx6_Ap_Plank",
+            "description": "Put {0} on all fours.",
+            "icon": "OStim/positional/allfours_m"
+        },
+        {
+            "destination": "vanilla_My9!Sx6_Ap_Invitation",
+            "description": "Flip {0} over.",
+            "icon": "OStim/positional/turnaround_m"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "lyingfront"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        }
+    ],
+    "actions": [],
+    "tags": [
+        "osa",
+        "badgirls"
+    ]
+}

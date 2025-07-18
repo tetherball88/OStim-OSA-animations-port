@@ -1,0 +1,34 @@
+{
+    "name": "Industry |+ Unstraddle",
+    "modpack": "Ceo",
+    "length": 4,
+    "destination": "vanilla_My9!Sx6_Ap_Invitation",
+    "speeds": [
+        {
+            "animation": "osex_vanilla_Industry+10OffX"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "lyingback"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        }
+    ],
+    "actions": [],
+    "tags": [
+        "osa",
+        "transition"
+    ]
+}

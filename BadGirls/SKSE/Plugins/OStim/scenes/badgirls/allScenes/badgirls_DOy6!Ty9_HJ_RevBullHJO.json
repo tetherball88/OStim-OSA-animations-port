@@ -1,0 +1,57 @@
+{
+    "name": "Bull | Handjob",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_badgirls_RevBullHJO_S0",
+            "playbackSpeed": 1,
+            "displaySpeed": 0.5
+        },
+        {
+            "animation": "osex_badgirls_RevBullHJO_S1",
+            "playbackSpeed": 1,
+            "displaySpeed": 1
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "badgirls_DOy6!Ty9_Ho_RevBull",
+            "description": "Stop stroking {0}.",
+            "icon": "OStim/symbols/x"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 3,
+            "scale": 1.03,
+            "tags": [
+                "allfours",
+                "onbottom"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSe x": "female",
+            "tags": [
+                "sitting",
+                "ontop",
+                "facingaway",
+                "bendover"
+            ],
+            "feetOnGround": true
+        }
+    ],
+    "actions": [
+        {
+            "type": "handjob",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "osa",
+        "badgirls"
+    ]
+}

@@ -2006,6 +2006,12 @@
 				<hkcstring>osex_vanilla_Invitation_0</hkcstring>
 				<hkcstring>osex_vanilla_Invitation+11Kn_1</hkcstring>
 				<hkcstring>osex_vanilla_Invitation+11Kn_0</hkcstring>
+				<hkcstring>osex_vanilla_Invitation+10SadSt_1</hkcstring>
+				<hkcstring>osex_vanilla_Invitation+10SadSt_0</hkcstring>
+				<hkcstring>osex_vanilla_Industry_1</hkcstring>
+				<hkcstring>osex_vanilla_Industry_0</hkcstring>
+				<hkcstring>osex_vanilla_Industry+10OffX_1</hkcstring>
+				<hkcstring>osex_vanilla_Industry+10OffX_0</hkcstring>
 				<hkcstring>osex_vanilla_Rocket_S1_1</hkcstring>
 				<hkcstring>osex_vanilla_Rocket_S1_0</hkcstring>
 				<hkcstring>osex_vanilla_Rocket_S2_1</hkcstring>
