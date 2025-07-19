@@ -1,0 +1,35 @@
+{
+    "name": "Magic Booty Pop | + Swoop",
+    "modpack": "Ceo",
+    "length": 7,
+    "destination": "wizardsex_Hv0y6!Hv6y9_Ap_Oracle",
+    "speeds": [
+        {
+            "animation": "osex_wizardsex_MagBootyPop+01WzHvru180"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "suspended"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "suspended"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [],
+    "tags": [
+        "osa",
+        "wizard",
+        "magic"
+    ]
+}

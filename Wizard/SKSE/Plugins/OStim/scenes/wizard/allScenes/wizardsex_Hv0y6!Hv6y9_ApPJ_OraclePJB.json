@@ -1,0 +1,56 @@
+{
+    "name": "Oracle | Blowjob",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_wizardsex_OraclePJB"
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "wizardsex_Hv0y6!Hv6y9_BJ_OracleBJO",
+            "description": "{1} grips {0}'s stomach with both hands.",
+            "icon": "OStim/detail/grab_2h_f"
+        },
+        {
+            "destination": "wizardsex_Hv0y6!Hv6y9_ApHJ_OracleHJO",
+            "description": "{1} pulls {0} out of mouth.",
+            "icon": "OStim/symbols/x"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1.03,
+            "tags": [
+                "suspended"
+            ],
+            "feetOnGround": false,
+            "lookDown": 60
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "suspended",
+                "lyingback",
+                "upsidedown"
+            ],
+            "feetOnGround": false,
+            "lookDown": 30
+        }
+    ],
+    "actions": [
+        {
+            "type": "blowjob",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "osa",
+        "wizard",
+        "magic"
+    ]
+}

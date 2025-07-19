@@ -6,7 +6,7 @@
 			<hkparam name="transitions">#osabbo$341</hkparam>
 			<hkparam name="generator">#osabbo$1</hkparam>
 			<hkparam name="name">OStimOsexanimationsportBadBoys_State</hkparam>
-			<hkparam name="stateId">1540642</hkparam>
+			<hkparam name="stateId">3976153</hkparam>
 			<hkparam name="probability">1.000000</hkparam>
 			<hkparam name="enable">true</hkparam>
 		</hkobject>

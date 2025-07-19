@@ -1,0 +1,48 @@
+{
+    "name": "Magic Booty Pop",
+    "modpack": "Ceo",
+    "length": 4,
+    "speeds": [
+        {
+            "animation": "osex_wizardsex_MagBootyPop"
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "wizardsex_Hv0y6!Hv0y6_Ap_MagBootyPop+01WzHvru180",
+            "description": "Flip {1} over.",
+            "icon": "OStim/positional/raisebutt_f"
+        },
+        {
+            "destination": "wizardsex_Hv0y6!Hv0y9_Ap_Stasis",
+            "description": "Turn {1} around.",
+            "icon": "OStim/positional/turnaround_f"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "suspended"
+            ],
+            "feetOnGround": false,
+            "lookDown": 60
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "suspended"
+            ],
+            "feetOnGround": false,
+            "lookDown": 30
+        }
+    ],
+    "actions": [],
+    "tags": [
+        "osa",
+        "wizard",
+        "magic"
+    ]
+}

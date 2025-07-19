@@ -1,0 +1,49 @@
+{
+    "name": "Lone Angel",
+    "modpack": "Ceo",
+    "length": 4,
+    "speeds": [
+        {
+            "animation": "osex_wizardsex_LoneAngel"
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "wizardsex_Sy6!Hv9y9_Ap_LoneAngel+00WzHvS",
+            "description": "Hover into the air with sorcery.",
+            "icon": "OStim/action/magic_m"
+        },
+        {
+            "destination": "vanilla_Sy6!Sy9_Ap_St9Dally",
+            "description": "Place {1} on feet.",
+            "icon": "OStim/symbols/x"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "suspended"
+            ],
+            "feetOnGround": false,
+            "lookDown": 60
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "suspended",
+                "allfours"
+            ],
+            "feetOnGround": false,
+            "lookDown": 30
+        }
+    ],
+    "actions": [],
+    "tags": [
+        "osa",
+        "wizard",
+        "magic"
+    ]
+}

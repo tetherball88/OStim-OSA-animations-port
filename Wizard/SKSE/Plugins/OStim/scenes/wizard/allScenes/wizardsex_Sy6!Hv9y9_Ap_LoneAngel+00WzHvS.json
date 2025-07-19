@@ -1,0 +1,36 @@
+{
+    "name": "LoneAngel | +Join in",
+    "modpack": "Ceo",
+    "length": 14,
+    "destination": "wizardsex_Hv0y6!Hv9y9_Ap_Cherub",
+    "speeds": [
+        {
+            "animation": "osex_wizardsex_LoneAngel+00WzHvS"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "suspended"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "suspended",
+                "allfours"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [],
+    "tags": [
+        "osa",
+        "wizard",
+        "magic"
+    ]
+}

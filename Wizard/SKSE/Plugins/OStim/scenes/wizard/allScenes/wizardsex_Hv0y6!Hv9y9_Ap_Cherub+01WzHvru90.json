@@ -1,0 +1,36 @@
+{
+    "name": "Cherub | +Balance",
+    "modpack": "Ceo",
+    "length": 12,
+    "destination": "wizardsex_Hv0y6!Hv0y9_Ap_Stasis",
+    "speeds": [
+        {
+            "animation": "osex_wizardsex_Cherub+01WzHvru90"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "suspended"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "suspended",
+                "allfours"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [],
+    "tags": [
+        "osa",
+        "wizard",
+        "magic"
+    ]
+}

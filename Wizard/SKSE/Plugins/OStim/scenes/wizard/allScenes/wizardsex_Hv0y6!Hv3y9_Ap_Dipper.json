@@ -1,0 +1,44 @@
+{
+    "name": "Dipper",
+    "modpack": "Ceo",
+    "length": 4,
+    "speeds": [
+        {
+            "animation": "osex_wizardsex_Dipper"
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "wizardsex_Hv0y6!Hv0y9_Ap_Stasis",
+            "description": "Lower {1}'s Legs.",
+            "icon": "OStim/symbols/x"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "suspended"
+            ],
+            "feetOnGround": false,
+            "lookDown": 60
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "suspended",
+                "lyingback"
+            ],
+            "feetOnGround": false,
+            "lookDown": 30
+        }
+    ],
+    "actions": [],
+    "tags": [
+        "osa",
+        "wizard",
+        "magic"
+    ]
+}

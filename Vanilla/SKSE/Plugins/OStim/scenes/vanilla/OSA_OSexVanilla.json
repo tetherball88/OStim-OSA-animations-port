@@ -16,7 +16,8 @@
         {
             "destination": "vanilla_Sy6!Sy9_Ap_St9Dally",
             "description": "Standing Casual",
-            "icon": "OStim/sensual/restinghead_standing_mf"
+            "icon": "OStim/sensual/restinghead_standing_mf",
+            "priority": -1000
         },
         {
             "destination": "OSA_OSexVanillaJumpToScene",

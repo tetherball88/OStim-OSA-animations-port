@@ -1,0 +1,56 @@
+{
+    "name": "Oracle | Handjob",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_wizardsex_OracleHJO"
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "wizardsex_Hv0y6!Hv6y9_ApPJ_OraclePJB",
+            "description": "{1} puts mouth around {0}.",
+            "icon": "OStim/sexual/blowjob_mf"
+        },
+        {
+            "destination": "wizardsex_Hv0y6!Hv6y9_Ap_Oracle",
+            "description": "{1} stops stroking {0}.",
+            "icon": "OStim/symbols/x"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1.03,
+            "tags": [
+                "suspended"
+            ],
+            "feetOnGround": false,
+            "lookDown": 60
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "suspended",
+                "lyingback",
+                "upsidedown"
+            ],
+            "feetOnGround": false,
+            "lookDown": 30
+        }
+    ],
+    "actions": [
+        {
+            "type": "handjob",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "osa",
+        "wizard",
+        "magic"
+    ]
+}

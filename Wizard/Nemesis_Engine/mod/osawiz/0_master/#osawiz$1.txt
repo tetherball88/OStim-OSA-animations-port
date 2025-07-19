@@ -1,0 +1,27 @@
+		<hkobject name="#osawiz$1" class="hkbStateMachine" signature="0x816c1dcb">
+			<hkparam name="variableBindingSet">null</hkparam>
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="name">OStimOsexanimationsportWizard_Root</hkparam>
+			<hkparam name="eventToSendWhenStateOrTransitionChanges">
+				<hkobject>
+					<hkparam name="id">-1</hkparam>
+					<hkparam name="payload">null</hkparam>
+				</hkobject>
+			</hkparam>
+			<hkparam name="startStateChooser">null</hkparam>
+			<hkparam name="startStateId">0</hkparam>
+			<hkparam name="returnToPreviousStateEventId">-1</hkparam>
+			<hkparam name="randomTransitionEventId">-1</hkparam>
+			<hkparam name="transitionToNextHigherStateEventId">-1</hkparam>
+			<hkparam name="transitionToNextLowerStateEventId">-1</hkparam>
+			<hkparam name="syncVariableIndex">-1</hkparam>
+			<hkparam name="wrapAroundStateId">false</hkparam>
+			<hkparam name="maxSimultaneousTransitions">32</hkparam>
+			<hkparam name="startStateMode">START_STATE_MODE_DEFAULT</hkparam>
+			<hkparam name="selfTransitionMode">SELF_TRANSITION_MODE_NO_TRANSITION</hkparam>
+			<hkparam name="states" numelements="36">
+				#osawiz$4 #osawiz$10 #osawiz$16 #osawiz$22 #osawiz$28 #osawiz$34 #osawiz$40 #osawiz$46 #osawiz$52 #osawiz$58 #osawiz$64 #osawiz$70 #osawiz$76 #osawiz$82 #osawiz$88 #osawiz$94 #osawiz$100 #osawiz$106 #osawiz$112 #osawiz$118 #osawiz$124 #osawiz$130 #osawiz$136 #osawiz$142 #osawiz$148 #osawiz$154 #osawiz$160 #osawiz$166 #osawiz$172 #osawiz$178 #osawiz$184 #osawiz$190 #osawiz$196 #osawiz$202 #osawiz$208 #osawiz$214
+			</hkparam>
+			<hkparam name="wildcardTransitions">#osawiz$220</hkparam>
+		</hkobject>
+

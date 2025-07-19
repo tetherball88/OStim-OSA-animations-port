@@ -1,0 +1,63 @@
+{
+    "name": "METEOR | Blowjob",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_wizardsex_MeteorBJO",
+            "playbackSpeed": 1,
+            "displaySpeed": 0.5
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "wizardsex_Hv0y6!Hv6y9_BJ_HarleBJO",
+            "description": "{1} holds {0} with ankles.",
+            "icon": "OStim/detail/holdingleg_alt_mf"
+        },
+        {
+            "destination": "wizardsex_Hv0y6!Hv6y9_BJ_MeteoBJO",
+            "description": "Hold {1}'s torso and perform METEO.",
+            "icon": "OStim/detail/holdinghip_behind_alt_mf"
+        },
+        {
+            "destination": "wizardsex_Hv0y6!Hv6y9_BJ_OracleBJO",
+            "description": "{1} lowers legs.",
+            "icon": "OStim/symbols/x"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1.03,
+            "tags": [
+                "suspended"
+            ],
+            "feetOnGround": false,
+            "lookDown": 60
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "suspended",
+                "lyingback",
+                "upsidedown"
+            ],
+            "feetOnGround": false,
+            "lookDown": 30
+        }
+    ],
+    "actions": [
+        {
+            "type": "blowjob",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "osa",
+        "wizard",
+        "magic"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Oracle | + Take hold",
+    "modpack": "Ceo",
+    "length": 5,
+    "destination": "wizardsex_Hv0y6!Hv6y9_ApHJ_OracleHJO",
+    "speeds": [
+        {
+            "animation": "osex_wizardsex_Oracle+10HJO"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "suspended"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "suspended",
+                "lyingback",
+                "upsidedown"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [],
+    "tags": [
+        "osa",
+        "wizard",
+        "magic"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "name": "Oracle",
+    "modpack": "Ceo",
+    "length": 4,
+    "speeds": [
+        {
+            "animation": "osex_wizardsex_Oracle"
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "wizardsex_Hv0y6!Hv0y6_Ap_MagBootyPop",
+            "description": "Flip {1} over.",
+            "icon": "OStim/positional/standup_f"
+        },
+        {
+            "destination": "wizardsex_Hv0y6!Hv6y9_Ap_Oracle+10HJO",
+            "description": "{1} wraps hand around {0} and stroke.",
+            "icon": "OStim/sexual/handjob_mf"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "suspended"
+            ],
+            "feetOnGround": false,
+            "lookDown": 60
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "suspended",
+                "lyingback",
+                "upsidedown"
+            ],
+            "feetOnGround": false,
+            "lookDown": 30
+        }
+    ],
+    "actions": [],
+    "tags": [
+        "osa",
+        "wizard",
+        "magic"
+    ]
+}

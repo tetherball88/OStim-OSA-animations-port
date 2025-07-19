@@ -1,0 +1,35 @@
+{
+    "name": "LoneAngel | +Join in",
+    "modpack": "Ceo",
+    "length": 7.5,
+    "destination": "wizardsex_Hv0y6!Hv3y9_Ap_Dipper",
+    "speeds": [
+        {
+            "animation": "osex_wizardsex_Stasis+01WzHvru90"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "suspended"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "suspended"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "actions": [],
+    "tags": [
+        "osa",
+        "wizard",
+        "magic"
+    ]
+}

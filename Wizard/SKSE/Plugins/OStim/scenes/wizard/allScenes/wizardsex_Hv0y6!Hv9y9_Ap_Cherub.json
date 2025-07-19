@@ -1,0 +1,49 @@
+{
+    "name": "Cherub",
+    "modpack": "Ceo",
+    "length": 4,
+    "speeds": [
+        {
+            "animation": "osex_wizardsex_Cherub"
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "wizardsex_Hv0y6!Hv9y9_Ap_Cherub+01WzHvru90",
+            "description": "Set {1} upright.",
+            "icon": "OStim/positional/archback_f"
+        },
+        {
+            "destination": "wizardsex_Sy6!Hv9y9_Ap_LoneAngel",
+            "description": "Lower yourself to the ground.",
+            "icon": "OStim/symbols/x"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "suspended"
+            ],
+            "feetOnGround": false,
+            "lookDown": 60
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "suspended",
+                "allfours"
+            ],
+            "feetOnGround": false,
+            "lookDown": 30
+        }
+    ],
+    "actions": [],
+    "tags": [
+        "osa",
+        "wizard",
+        "magic"
+    ]
+}

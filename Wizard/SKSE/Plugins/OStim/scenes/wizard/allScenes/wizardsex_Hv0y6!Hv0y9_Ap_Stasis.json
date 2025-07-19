@@ -1,0 +1,53 @@
+{
+    "name": "Stasis",
+    "modpack": "Ceo",
+    "length": 4,
+    "speeds": [
+        {
+            "animation": "osex_wizardsex_Stasis"
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "wizardsex_Hv0y6!Hv0y9_Ap_Stasis+01WzHvrr180",
+            "description": "Turn {1} around.",
+            "icon": "OStim/positional/turnaround_f"
+        },
+        {
+            "destination": "wizardsex_Hv0y6!Hv0y9_Ap_Stasis+01WzHvru90",
+            "description": "Lift {1}'s legs.",
+            "icon": "OStim/positional/lyingback_f"
+        },
+        {
+            "destination": "wizardsex_Hv0y6!Hv9y9_Ap_Cherub",
+            "description": "Pull {1} legs back.",
+            "icon": "OStim/positional/allfours_f"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "suspended"
+            ],
+            "feetOnGround": false,
+            "lookDown": 60
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "suspended"
+            ],
+            "feetOnGround": false,
+            "lookDown": 30
+        }
+    ],
+    "actions": [],
+    "tags": [
+        "osa",
+        "wizard",
+        "magic"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Standing Dally |+ Hands on",
+    "modpack": "Ceo",
+    "length": 22,
+    "destination": "wizardsex_Sy6!Hv9y9_Ap_LoneAngel",
+    "origin": "vanilla_Sy6!Sy9_Ap_St9Dally",
+    "description": "Use sorcery to levitate {1}.",
+    "icon": "OStim/action/magic_m",
+    "speeds": [
+        {
+            "animation": "osex_wizardsex_St9Dally+01WzHvt"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true,
+            "lookDown": 60
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true,
+            "lookDown": 30
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}
