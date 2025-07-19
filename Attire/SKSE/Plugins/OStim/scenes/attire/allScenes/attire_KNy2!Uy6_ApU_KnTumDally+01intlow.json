@@ -1,0 +1,25 @@
+{
+    "name": "Standing Dally | Sub Panties cya!",
+    "modpack": "Ceo",
+    "length": 12,
+    "destination": "vanilla_KNy2!Uy6_Ap_KnTumDally",
+    "speeds": [
+        {
+            "animation": "osex_attire_KnTumDally+01intlow"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "scale": 1.03,
+            "sosBend": 0,
+            "tags": [],
+            "feetOnGround": true
+        },
+        {
+            "intendedSex": "female",
+            "tags": [],
+            "feetOnGround": true
+        }
+    ]
+}

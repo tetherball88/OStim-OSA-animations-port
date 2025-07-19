@@ -1,0 +1,25 @@
+{
+    "name": "Standing Dally | Sub Cuirass Undress",
+    "modpack": "Ceo",
+    "length": 10,
+    "destination": "vanilla_Sy6!Sy9_Ap_St9Dally",
+    "speeds": [
+        {
+            "animation": "osex_attire_St9Dally+01cuirass"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "scale": 1.03,
+            "sosBend": 0,
+            "tags": [],
+            "feetOnGround": true
+        },
+        {
+            "intendedSex": "female",
+            "tags": [],
+            "feetOnGround": true
+        }
+    ]
+}

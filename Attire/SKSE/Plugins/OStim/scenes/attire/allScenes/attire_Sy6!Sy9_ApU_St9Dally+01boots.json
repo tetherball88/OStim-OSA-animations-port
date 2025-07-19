@@ -1,0 +1,25 @@
+{
+    "name": "Standing Dally | Sub Boots Undress",
+    "modpack": "Ceo",
+    "length": 12,
+    "destination": "vanilla_Sy6!Sy9_Ap_St9Dally",
+    "speeds": [
+        {
+            "animation": "osex_attire_St9Dally+01boots"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "scale": 1.03,
+            "sosBend": 0,
+            "tags": [],
+            "feetOnGround": true
+        },
+        {
+            "intendedSex": "female",
+            "tags": [],
+            "feetOnGround": true
+        }
+    ]
+}
