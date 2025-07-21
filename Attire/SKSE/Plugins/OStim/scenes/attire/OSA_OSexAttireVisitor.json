@@ -1,0 +1,104 @@
+{
+    "name": "OSA OSex Undress visitor",
+    "modpack": "CE0",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_St9Dally"
+        }
+    ],
+    "navigations": [
+        {
+            "origin": "OStim2PUndressingHub1MF",
+            "description": "{0} undresses {1}.",
+            "icon": "OStim/positional/standup_f"
+        },
+        {
+            "destination": "attire_Sy6!Sy9_ApU_St9Dally+01cuirass",
+            "description": "{0} takes off {1}'s cuirass.",
+            "icon": "OStim/clothes/top"
+        },
+        {
+            "destination": "attire_Sy6!Sy9_ApU_St9Dally+01gloves",
+            "description": "{0} takes off {1}'s gloves.",
+            "icon": "OStim/clothes/gauntlets"
+        },
+        {
+            "destination": "attire_Sy6!Sy9_ApU_St9Dally+01boots",
+            "description": "Pull off {1}'s boots.",
+            "icon": "OStim/clothes/boots"
+        },
+        {
+            "destination": "attire_Sy6!Sy9_ApU_St9Dally+01cape",
+            "description": "{0} takes off {1}'s cape.",
+            "icon": "OStim/clothes/skirt"
+        },
+        {
+            "destination": "attire_Sy6!Sy9_ApU_St9Dally+01pants",
+            "description": "{0} pulls off {1}'s pants.",
+            "icon": "OStim/clothes/trousers"
+        },
+        {
+            "destination": "attire_Sy6!Sy9_ApU_St9Dally+01miscup",
+            "description": "{0} takes off {1}'s upper accessories.",
+            "icon": "OStim/clothes/bra"
+        },
+        {
+            "destination": "attire_Sy6!Sy9_ApU_St9Dally+01miscmid",
+            "description": "{0} takes off {1}'s middle accessories.",
+            "icon": "OStim/clothes/bra"
+        },
+        {
+            "destination": "attire_Sy6!Sy9_ApU_St9Dally+01misclow",
+            "description": "{0} takes off {1}'s leg accessories.",
+            "icon": "OStim/clothes/trousers"
+        },
+        {
+            "destination": "attire_Sy6!Sy9_ApU_St9Dally+01miscarms",
+            "description": "{0} takes off {1}'s arm accessories.",
+            "icon": "OStim/clothes/gauntlets"
+        },
+        {
+            "destination": "attire_Sy6!Sy9_ApU_St9Dally+01intlow",
+            "description": "{0} slips {1}'s panties off.",
+            "icon": "OStim/clothes/panties"
+        },
+        {
+            "destination": "attire_Sy6!Sy9_ApU_St9Dally+01inthigh",
+            "description": "{0} unfastens {1}'s brassiere.",
+            "icon": "OStim/clothes/skirt"
+        },
+        {
+            "destination": "attire_Sy6!Sy9_ApU_St9Dally+01stockings",
+            "description": "{0} slips {1}'s stockings off.",
+            "icon": "OStim/clothes/trousers"
+        },
+        {
+            "destination": "OSA_OSexAttire",
+            "description": "Return",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "tags": [
+        "idle"
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 7,
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        }
+    ],
+    "noRandomSelection": true
+}

@@ -4,14 +4,14 @@
     "length": 2,
     "speeds": [
         {
-            "animation": "OStim2PStandingApartMF"
+            "animation": "osex_vanilla_St9Dally"
         }
     ],
     "navigations": [
         {
             "origin": "OStim2PStandingApartMF",
             "description": "OSA OSex",
-            "icon": "OStim/sensual/restinghead_standing_mf"
+            "icon": "OStim/osa_pack"
         },
         {
             "destination": "vanilla_Sy6!Sy9_Ap_St9Dally",
@@ -27,7 +27,8 @@
         {
             "destination": "OStim2PStandingApartMF",
             "description": "Return",
-            "icon": "OStim/symbols/return"
+            "icon": "OStim/symbols/return",
+            "priority": 1000
         }
     ],
     "tags": [

@@ -4,14 +4,14 @@
     "length": 2,
     "speeds": [
         {
-            "animation": "OStim2PStandingApartMF"
+            "animation": "osex_vanilla_St9Dally"
         }
     ],
     "navigations": [
         {
             "origin": "OSA_OSexVanilla",
             "description": "Wizard Shortcuts",
-            "icon": "OStim/action/magic_m"
+            "icon": "OStim/wizard"
         },
         {
             "destination": "wizardsex_Hv0y6!Hv6y9_Ap_Oracle",

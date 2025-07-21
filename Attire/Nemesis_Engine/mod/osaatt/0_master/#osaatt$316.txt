@@ -1,0 +1,1357 @@
+		<hkobject name="#osaatt$316" class="hkbStateMachineTransitionInfoArray" signature="0xe397b11e">
+			<hkparam name="transitions" numelements="52">
+				<hkobject>
+					<hkparam name="triggerInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="initiateInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="transition">#osaatt$319</hkparam>
+					<hkparam name="condition">null</hkparam>
+					<hkparam name="eventId">$eventID[osex_attire_KnTumDally+01intlow_1]$</hkparam>
+					<hkparam name="toStateId">0</hkparam>
+					<hkparam name="fromNestedStateId">0</hkparam>
+					<hkparam name="toNestedStateId">0</hkparam>
+					<hkparam name="priority">0</hkparam>
+					<hkparam name="flags">FLAG_IS_GLOBAL_WILDCARD|FLAG_IS_LOCAL_WILDCARD|FLAG_DISABLE_CONDITION</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="triggerInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="initiateInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="transition">#osaatt$320</hkparam>
+					<hkparam name="condition">null</hkparam>
+					<hkparam name="eventId">$eventID[osex_attire_KnTumDally+01intlow_0]$</hkparam>
+					<hkparam name="toStateId">1</hkparam>
+					<hkparam name="fromNestedStateId">0</hkparam>
+					<hkparam name="toNestedStateId">0</hkparam>
+					<hkparam name="priority">0</hkparam>
+					<hkparam name="flags">FLAG_IS_GLOBAL_WILDCARD|FLAG_IS_LOCAL_WILDCARD|FLAG_DISABLE_CONDITION</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="triggerInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="initiateInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="transition">#osaatt$321</hkparam>
+					<hkparam name="condition">null</hkparam>
+					<hkparam name="eventId">$eventID[osex_attire_St9Dally+01weapon_1]$</hkparam>
+					<hkparam name="toStateId">2</hkparam>
+					<hkparam name="fromNestedStateId">0</hkparam>
+					<hkparam name="toNestedStateId">0</hkparam>
+					<hkparam name="priority">0</hkparam>
+					<hkparam name="flags">FLAG_IS_GLOBAL_WILDCARD|FLAG_IS_LOCAL_WILDCARD|FLAG_DISABLE_CONDITION</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="triggerInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="initiateInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="transition">#osaatt$322</hkparam>
+					<hkparam name="condition">null</hkparam>
+					<hkparam name="eventId">$eventID[osex_attire_St9Dally+01weapon_0]$</hkparam>
+					<hkparam name="toStateId">3</hkparam>
+					<hkparam name="fromNestedStateId">0</hkparam>
+					<hkparam name="toNestedStateId">0</hkparam>
+					<hkparam name="priority">0</hkparam>
+					<hkparam name="flags">FLAG_IS_GLOBAL_WILDCARD|FLAG_IS_LOCAL_WILDCARD|FLAG_DISABLE_CONDITION</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="triggerInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="initiateInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="transition">#osaatt$323</hkparam>
+					<hkparam name="condition">null</hkparam>
+					<hkparam name="eventId">$eventID[osex_attire_St9Dally+01cape_1]$</hkparam>
+					<hkparam name="toStateId">4</hkparam>
+					<hkparam name="fromNestedStateId">0</hkparam>
+					<hkparam name="toNestedStateId">0</hkparam>
+					<hkparam name="priority">0</hkparam>
+					<hkparam name="flags">FLAG_IS_GLOBAL_WILDCARD|FLAG_IS_LOCAL_WILDCARD|FLAG_DISABLE_CONDITION</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="triggerInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="initiateInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="transition">#osaatt$324</hkparam>
+					<hkparam name="condition">null</hkparam>
+					<hkparam name="eventId">$eventID[osex_attire_St9Dally+01cape_0]$</hkparam>
+					<hkparam name="toStateId">5</hkparam>
+					<hkparam name="fromNestedStateId">0</hkparam>
+					<hkparam name="toNestedStateId">0</hkparam>
+					<hkparam name="priority">0</hkparam>
+					<hkparam name="flags">FLAG_IS_GLOBAL_WILDCARD|FLAG_IS_LOCAL_WILDCARD|FLAG_DISABLE_CONDITION</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="triggerInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="initiateInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="transition">#osaatt$325</hkparam>
+					<hkparam name="condition">null</hkparam>
+					<hkparam name="eventId">$eventID[osex_attire_St9Dally+01gloves_1]$</hkparam>
+					<hkparam name="toStateId">6</hkparam>
+					<hkparam name="fromNestedStateId">0</hkparam>
+					<hkparam name="toNestedStateId">0</hkparam>
+					<hkparam name="priority">0</hkparam>
+					<hkparam name="flags">FLAG_IS_GLOBAL_WILDCARD|FLAG_IS_LOCAL_WILDCARD|FLAG_DISABLE_CONDITION</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="triggerInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="initiateInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="transition">#osaatt$326</hkparam>
+					<hkparam name="condition">null</hkparam>
+					<hkparam name="eventId">$eventID[osex_attire_St9Dally+01gloves_0]$</hkparam>
+					<hkparam name="toStateId">7</hkparam>
+					<hkparam name="fromNestedStateId">0</hkparam>
+					<hkparam name="toNestedStateId">0</hkparam>
+					<hkparam name="priority">0</hkparam>
+					<hkparam name="flags">FLAG_IS_GLOBAL_WILDCARD|FLAG_IS_LOCAL_WILDCARD|FLAG_DISABLE_CONDITION</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="triggerInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="initiateInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="transition">#osaatt$327</hkparam>
+					<hkparam name="condition">null</hkparam>
+					<hkparam name="eventId">$eventID[osex_attire_St9Dally+01boots_1]$</hkparam>
+					<hkparam name="toStateId">8</hkparam>
+					<hkparam name="fromNestedStateId">0</hkparam>
+					<hkparam name="toNestedStateId">0</hkparam>
+					<hkparam name="priority">0</hkparam>
+					<hkparam name="flags">FLAG_IS_GLOBAL_WILDCARD|FLAG_IS_LOCAL_WILDCARD|FLAG_DISABLE_CONDITION</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="triggerInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="initiateInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="transition">#osaatt$328</hkparam>
+					<hkparam name="condition">null</hkparam>
+					<hkparam name="eventId">$eventID[osex_attire_St9Dally+01boots_0]$</hkparam>
+					<hkparam name="toStateId">9</hkparam>
+					<hkparam name="fromNestedStateId">0</hkparam>
+					<hkparam name="toNestedStateId">0</hkparam>
+					<hkparam name="priority">0</hkparam>
+					<hkparam name="flags">FLAG_IS_GLOBAL_WILDCARD|FLAG_IS_LOCAL_WILDCARD|FLAG_DISABLE_CONDITION</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="triggerInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="initiateInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="transition">#osaatt$329</hkparam>
+					<hkparam name="condition">null</hkparam>
+					<hkparam name="eventId">$eventID[osex_attire_St9Dally+01cuirass_1]$</hkparam>
+					<hkparam name="toStateId">10</hkparam>
+					<hkparam name="fromNestedStateId">0</hkparam>
+					<hkparam name="toNestedStateId">0</hkparam>
+					<hkparam name="priority">0</hkparam>
+					<hkparam name="flags">FLAG_IS_GLOBAL_WILDCARD|FLAG_IS_LOCAL_WILDCARD|FLAG_DISABLE_CONDITION</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="triggerInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="initiateInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="transition">#osaatt$330</hkparam>
+					<hkparam name="condition">null</hkparam>
+					<hkparam name="eventId">$eventID[osex_attire_St9Dally+01cuirass_0]$</hkparam>
+					<hkparam name="toStateId">11</hkparam>
+					<hkparam name="fromNestedStateId">0</hkparam>
+					<hkparam name="toNestedStateId">0</hkparam>
+					<hkparam name="priority">0</hkparam>
+					<hkparam name="flags">FLAG_IS_GLOBAL_WILDCARD|FLAG_IS_LOCAL_WILDCARD|FLAG_DISABLE_CONDITION</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="triggerInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="initiateInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="transition">#osaatt$331</hkparam>
+					<hkparam name="condition">null</hkparam>
+					<hkparam name="eventId">$eventID[osex_attire_St9Dally+01miscarms_1]$</hkparam>
+					<hkparam name="toStateId">12</hkparam>
+					<hkparam name="fromNestedStateId">0</hkparam>
+					<hkparam name="toNestedStateId">0</hkparam>
+					<hkparam name="priority">0</hkparam>
+					<hkparam name="flags">FLAG_IS_GLOBAL_WILDCARD|FLAG_IS_LOCAL_WILDCARD|FLAG_DISABLE_CONDITION</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="triggerInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="initiateInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="transition">#osaatt$332</hkparam>
+					<hkparam name="condition">null</hkparam>
+					<hkparam name="eventId">$eventID[osex_attire_St9Dally+01miscarms_0]$</hkparam>
+					<hkparam name="toStateId">13</hkparam>
+					<hkparam name="fromNestedStateId">0</hkparam>
+					<hkparam name="toNestedStateId">0</hkparam>
+					<hkparam name="priority">0</hkparam>
+					<hkparam name="flags">FLAG_IS_GLOBAL_WILDCARD|FLAG_IS_LOCAL_WILDCARD|FLAG_DISABLE_CONDITION</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="triggerInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="initiateInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="transition">#osaatt$333</hkparam>
+					<hkparam name="condition">null</hkparam>
+					<hkparam name="eventId">$eventID[osex_attire_St9Dally+01miscup_1]$</hkparam>
+					<hkparam name="toStateId">14</hkparam>
+					<hkparam name="fromNestedStateId">0</hkparam>
+					<hkparam name="toNestedStateId">0</hkparam>
+					<hkparam name="priority">0</hkparam>
+					<hkparam name="flags">FLAG_IS_GLOBAL_WILDCARD|FLAG_IS_LOCAL_WILDCARD|FLAG_DISABLE_CONDITION</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="triggerInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="initiateInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="transition">#osaatt$334</hkparam>
+					<hkparam name="condition">null</hkparam>
+					<hkparam name="eventId">$eventID[osex_attire_St9Dally+01miscup_0]$</hkparam>
+					<hkparam name="toStateId">15</hkparam>
+					<hkparam name="fromNestedStateId">0</hkparam>
+					<hkparam name="toNestedStateId">0</hkparam>
+					<hkparam name="priority">0</hkparam>
+					<hkparam name="flags">FLAG_IS_GLOBAL_WILDCARD|FLAG_IS_LOCAL_WILDCARD|FLAG_DISABLE_CONDITION</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="triggerInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="initiateInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="transition">#osaatt$335</hkparam>
+					<hkparam name="condition">null</hkparam>
+					<hkparam name="eventId">$eventID[osex_attire_St9Dally+01miscmid_1]$</hkparam>
+					<hkparam name="toStateId">16</hkparam>
+					<hkparam name="fromNestedStateId">0</hkparam>
+					<hkparam name="toNestedStateId">0</hkparam>
+					<hkparam name="priority">0</hkparam>
+					<hkparam name="flags">FLAG_IS_GLOBAL_WILDCARD|FLAG_IS_LOCAL_WILDCARD|FLAG_DISABLE_CONDITION</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="triggerInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="initiateInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="transition">#osaatt$336</hkparam>
+					<hkparam name="condition">null</hkparam>
+					<hkparam name="eventId">$eventID[osex_attire_St9Dally+01miscmid_0]$</hkparam>
+					<hkparam name="toStateId">17</hkparam>
+					<hkparam name="fromNestedStateId">0</hkparam>
+					<hkparam name="toNestedStateId">0</hkparam>
+					<hkparam name="priority">0</hkparam>
+					<hkparam name="flags">FLAG_IS_GLOBAL_WILDCARD|FLAG_IS_LOCAL_WILDCARD|FLAG_DISABLE_CONDITION</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="triggerInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="initiateInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="transition">#osaatt$337</hkparam>
+					<hkparam name="condition">null</hkparam>
+					<hkparam name="eventId">$eventID[osex_attire_St9Dally+01misclow_1]$</hkparam>
+					<hkparam name="toStateId">18</hkparam>
+					<hkparam name="fromNestedStateId">0</hkparam>
+					<hkparam name="toNestedStateId">0</hkparam>
+					<hkparam name="priority">0</hkparam>
+					<hkparam name="flags">FLAG_IS_GLOBAL_WILDCARD|FLAG_IS_LOCAL_WILDCARD|FLAG_DISABLE_CONDITION</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="triggerInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="initiateInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="transition">#osaatt$338</hkparam>
+					<hkparam name="condition">null</hkparam>
+					<hkparam name="eventId">$eventID[osex_attire_St9Dally+01misclow_0]$</hkparam>
+					<hkparam name="toStateId">19</hkparam>
+					<hkparam name="fromNestedStateId">0</hkparam>
+					<hkparam name="toNestedStateId">0</hkparam>
+					<hkparam name="priority">0</hkparam>
+					<hkparam name="flags">FLAG_IS_GLOBAL_WILDCARD|FLAG_IS_LOCAL_WILDCARD|FLAG_DISABLE_CONDITION</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="triggerInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="initiateInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="transition">#osaatt$339</hkparam>
+					<hkparam name="condition">null</hkparam>
+					<hkparam name="eventId">$eventID[osex_attire_St9Dally+01intlow_1]$</hkparam>
+					<hkparam name="toStateId">20</hkparam>
+					<hkparam name="fromNestedStateId">0</hkparam>
+					<hkparam name="toNestedStateId">0</hkparam>
+					<hkparam name="priority">0</hkparam>
+					<hkparam name="flags">FLAG_IS_GLOBAL_WILDCARD|FLAG_IS_LOCAL_WILDCARD|FLAG_DISABLE_CONDITION</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="triggerInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="initiateInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="transition">#osaatt$340</hkparam>
+					<hkparam name="condition">null</hkparam>
+					<hkparam name="eventId">$eventID[osex_attire_St9Dally+01intlow_0]$</hkparam>
+					<hkparam name="toStateId">21</hkparam>
+					<hkparam name="fromNestedStateId">0</hkparam>
+					<hkparam name="toNestedStateId">0</hkparam>
+					<hkparam name="priority">0</hkparam>
+					<hkparam name="flags">FLAG_IS_GLOBAL_WILDCARD|FLAG_IS_LOCAL_WILDCARD|FLAG_DISABLE_CONDITION</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="triggerInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="initiateInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="transition">#osaatt$341</hkparam>
+					<hkparam name="condition">null</hkparam>
+					<hkparam name="eventId">$eventID[osex_attire_St9Dally+01inthigh_1]$</hkparam>
+					<hkparam name="toStateId">22</hkparam>
+					<hkparam name="fromNestedStateId">0</hkparam>
+					<hkparam name="toNestedStateId">0</hkparam>
+					<hkparam name="priority">0</hkparam>
+					<hkparam name="flags">FLAG_IS_GLOBAL_WILDCARD|FLAG_IS_LOCAL_WILDCARD|FLAG_DISABLE_CONDITION</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="triggerInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="initiateInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="transition">#osaatt$342</hkparam>
+					<hkparam name="condition">null</hkparam>
+					<hkparam name="eventId">$eventID[osex_attire_St9Dally+01inthigh_0]$</hkparam>
+					<hkparam name="toStateId">23</hkparam>
+					<hkparam name="fromNestedStateId">0</hkparam>
+					<hkparam name="toNestedStateId">0</hkparam>
+					<hkparam name="priority">0</hkparam>
+					<hkparam name="flags">FLAG_IS_GLOBAL_WILDCARD|FLAG_IS_LOCAL_WILDCARD|FLAG_DISABLE_CONDITION</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="triggerInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="initiateInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="transition">#osaatt$343</hkparam>
+					<hkparam name="condition">null</hkparam>
+					<hkparam name="eventId">$eventID[osex_attire_St9Dally+01stockings_1]$</hkparam>
+					<hkparam name="toStateId">24</hkparam>
+					<hkparam name="fromNestedStateId">0</hkparam>
+					<hkparam name="toNestedStateId">0</hkparam>
+					<hkparam name="priority">0</hkparam>
+					<hkparam name="flags">FLAG_IS_GLOBAL_WILDCARD|FLAG_IS_LOCAL_WILDCARD|FLAG_DISABLE_CONDITION</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="triggerInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="initiateInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="transition">#osaatt$344</hkparam>
+					<hkparam name="condition">null</hkparam>
+					<hkparam name="eventId">$eventID[osex_attire_St9Dally+01stockings_0]$</hkparam>
+					<hkparam name="toStateId">25</hkparam>
+					<hkparam name="fromNestedStateId">0</hkparam>
+					<hkparam name="toNestedStateId">0</hkparam>
+					<hkparam name="priority">0</hkparam>
+					<hkparam name="flags">FLAG_IS_GLOBAL_WILDCARD|FLAG_IS_LOCAL_WILDCARD|FLAG_DISABLE_CONDITION</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="triggerInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="initiateInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="transition">#osaatt$345</hkparam>
+					<hkparam name="condition">null</hkparam>
+					<hkparam name="eventId">$eventID[osex_attire_St9Dally+10weapon_1]$</hkparam>
+					<hkparam name="toStateId">26</hkparam>
+					<hkparam name="fromNestedStateId">0</hkparam>
+					<hkparam name="toNestedStateId">0</hkparam>
+					<hkparam name="priority">0</hkparam>
+					<hkparam name="flags">FLAG_IS_GLOBAL_WILDCARD|FLAG_IS_LOCAL_WILDCARD|FLAG_DISABLE_CONDITION</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="triggerInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="initiateInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="transition">#osaatt$346</hkparam>
+					<hkparam name="condition">null</hkparam>
+					<hkparam name="eventId">$eventID[osex_attire_St9Dally+10weapon_0]$</hkparam>
+					<hkparam name="toStateId">27</hkparam>
+					<hkparam name="fromNestedStateId">0</hkparam>
+					<hkparam name="toNestedStateId">0</hkparam>
+					<hkparam name="priority">0</hkparam>
+					<hkparam name="flags">FLAG_IS_GLOBAL_WILDCARD|FLAG_IS_LOCAL_WILDCARD|FLAG_DISABLE_CONDITION</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="triggerInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="initiateInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="transition">#osaatt$347</hkparam>
+					<hkparam name="condition">null</hkparam>
+					<hkparam name="eventId">$eventID[osex_attire_St9Dally+10helmet_1]$</hkparam>
+					<hkparam name="toStateId">28</hkparam>
+					<hkparam name="fromNestedStateId">0</hkparam>
+					<hkparam name="toNestedStateId">0</hkparam>
+					<hkparam name="priority">0</hkparam>
+					<hkparam name="flags">FLAG_IS_GLOBAL_WILDCARD|FLAG_IS_LOCAL_WILDCARD|FLAG_DISABLE_CONDITION</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="triggerInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="initiateInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="transition">#osaatt$348</hkparam>
+					<hkparam name="condition">null</hkparam>
+					<hkparam name="eventId">$eventID[osex_attire_St9Dally+10helmet_0]$</hkparam>
+					<hkparam name="toStateId">29</hkparam>
+					<hkparam name="fromNestedStateId">0</hkparam>
+					<hkparam name="toNestedStateId">0</hkparam>
+					<hkparam name="priority">0</hkparam>
+					<hkparam name="flags">FLAG_IS_GLOBAL_WILDCARD|FLAG_IS_LOCAL_WILDCARD|FLAG_DISABLE_CONDITION</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="triggerInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="initiateInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="transition">#osaatt$349</hkparam>
+					<hkparam name="condition">null</hkparam>
+					<hkparam name="eventId">$eventID[osex_attire_St9Dally+10cape_1]$</hkparam>
+					<hkparam name="toStateId">30</hkparam>
+					<hkparam name="fromNestedStateId">0</hkparam>
+					<hkparam name="toNestedStateId">0</hkparam>
+					<hkparam name="priority">0</hkparam>
+					<hkparam name="flags">FLAG_IS_GLOBAL_WILDCARD|FLAG_IS_LOCAL_WILDCARD|FLAG_DISABLE_CONDITION</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="triggerInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="initiateInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="transition">#osaatt$350</hkparam>
+					<hkparam name="condition">null</hkparam>
+					<hkparam name="eventId">$eventID[osex_attire_St9Dally+10cape_0]$</hkparam>
+					<hkparam name="toStateId">31</hkparam>
+					<hkparam name="fromNestedStateId">0</hkparam>
+					<hkparam name="toNestedStateId">0</hkparam>
+					<hkparam name="priority">0</hkparam>
+					<hkparam name="flags">FLAG_IS_GLOBAL_WILDCARD|FLAG_IS_LOCAL_WILDCARD|FLAG_DISABLE_CONDITION</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="triggerInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="initiateInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="transition">#osaatt$351</hkparam>
+					<hkparam name="condition">null</hkparam>
+					<hkparam name="eventId">$eventID[osex_attire_St9Dally+10gloves_1]$</hkparam>
+					<hkparam name="toStateId">32</hkparam>
+					<hkparam name="fromNestedStateId">0</hkparam>
+					<hkparam name="toNestedStateId">0</hkparam>
+					<hkparam name="priority">0</hkparam>
+					<hkparam name="flags">FLAG_IS_GLOBAL_WILDCARD|FLAG_IS_LOCAL_WILDCARD|FLAG_DISABLE_CONDITION</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="triggerInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="initiateInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="transition">#osaatt$352</hkparam>
+					<hkparam name="condition">null</hkparam>
+					<hkparam name="eventId">$eventID[osex_attire_St9Dally+10gloves_0]$</hkparam>
+					<hkparam name="toStateId">33</hkparam>
+					<hkparam name="fromNestedStateId">0</hkparam>
+					<hkparam name="toNestedStateId">0</hkparam>
+					<hkparam name="priority">0</hkparam>
+					<hkparam name="flags">FLAG_IS_GLOBAL_WILDCARD|FLAG_IS_LOCAL_WILDCARD|FLAG_DISABLE_CONDITION</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="triggerInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="initiateInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="transition">#osaatt$353</hkparam>
+					<hkparam name="condition">null</hkparam>
+					<hkparam name="eventId">$eventID[osex_attire_St9Dally+10boots_1]$</hkparam>
+					<hkparam name="toStateId">34</hkparam>
+					<hkparam name="fromNestedStateId">0</hkparam>
+					<hkparam name="toNestedStateId">0</hkparam>
+					<hkparam name="priority">0</hkparam>
+					<hkparam name="flags">FLAG_IS_GLOBAL_WILDCARD|FLAG_IS_LOCAL_WILDCARD|FLAG_DISABLE_CONDITION</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="triggerInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="initiateInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="transition">#osaatt$354</hkparam>
+					<hkparam name="condition">null</hkparam>
+					<hkparam name="eventId">$eventID[osex_attire_St9Dally+10boots_0]$</hkparam>
+					<hkparam name="toStateId">35</hkparam>
+					<hkparam name="fromNestedStateId">0</hkparam>
+					<hkparam name="toNestedStateId">0</hkparam>
+					<hkparam name="priority">0</hkparam>
+					<hkparam name="flags">FLAG_IS_GLOBAL_WILDCARD|FLAG_IS_LOCAL_WILDCARD|FLAG_DISABLE_CONDITION</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="triggerInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="initiateInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="transition">#osaatt$355</hkparam>
+					<hkparam name="condition">null</hkparam>
+					<hkparam name="eventId">$eventID[osex_attire_St9Dally+10cuirass_1]$</hkparam>
+					<hkparam name="toStateId">36</hkparam>
+					<hkparam name="fromNestedStateId">0</hkparam>
+					<hkparam name="toNestedStateId">0</hkparam>
+					<hkparam name="priority">0</hkparam>
+					<hkparam name="flags">FLAG_IS_GLOBAL_WILDCARD|FLAG_IS_LOCAL_WILDCARD|FLAG_DISABLE_CONDITION</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="triggerInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="initiateInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="transition">#osaatt$356</hkparam>
+					<hkparam name="condition">null</hkparam>
+					<hkparam name="eventId">$eventID[osex_attire_St9Dally+10cuirass_0]$</hkparam>
+					<hkparam name="toStateId">37</hkparam>
+					<hkparam name="fromNestedStateId">0</hkparam>
+					<hkparam name="toNestedStateId">0</hkparam>
+					<hkparam name="priority">0</hkparam>
+					<hkparam name="flags">FLAG_IS_GLOBAL_WILDCARD|FLAG_IS_LOCAL_WILDCARD|FLAG_DISABLE_CONDITION</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="triggerInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="initiateInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="transition">#osaatt$357</hkparam>
+					<hkparam name="condition">null</hkparam>
+					<hkparam name="eventId">$eventID[osex_attire_St9Dally+10miscarms_1]$</hkparam>
+					<hkparam name="toStateId">38</hkparam>
+					<hkparam name="fromNestedStateId">0</hkparam>
+					<hkparam name="toNestedStateId">0</hkparam>
+					<hkparam name="priority">0</hkparam>
+					<hkparam name="flags">FLAG_IS_GLOBAL_WILDCARD|FLAG_IS_LOCAL_WILDCARD|FLAG_DISABLE_CONDITION</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="triggerInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="initiateInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="transition">#osaatt$358</hkparam>
+					<hkparam name="condition">null</hkparam>
+					<hkparam name="eventId">$eventID[osex_attire_St9Dally+10miscarms_0]$</hkparam>
+					<hkparam name="toStateId">39</hkparam>
+					<hkparam name="fromNestedStateId">0</hkparam>
+					<hkparam name="toNestedStateId">0</hkparam>
+					<hkparam name="priority">0</hkparam>
+					<hkparam name="flags">FLAG_IS_GLOBAL_WILDCARD|FLAG_IS_LOCAL_WILDCARD|FLAG_DISABLE_CONDITION</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="triggerInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="initiateInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="transition">#osaatt$359</hkparam>
+					<hkparam name="condition">null</hkparam>
+					<hkparam name="eventId">$eventID[osex_attire_St9Dally+10miscup_1]$</hkparam>
+					<hkparam name="toStateId">40</hkparam>
+					<hkparam name="fromNestedStateId">0</hkparam>
+					<hkparam name="toNestedStateId">0</hkparam>
+					<hkparam name="priority">0</hkparam>
+					<hkparam name="flags">FLAG_IS_GLOBAL_WILDCARD|FLAG_IS_LOCAL_WILDCARD|FLAG_DISABLE_CONDITION</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="triggerInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="initiateInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="transition">#osaatt$360</hkparam>
+					<hkparam name="condition">null</hkparam>
+					<hkparam name="eventId">$eventID[osex_attire_St9Dally+10miscup_0]$</hkparam>
+					<hkparam name="toStateId">41</hkparam>
+					<hkparam name="fromNestedStateId">0</hkparam>
+					<hkparam name="toNestedStateId">0</hkparam>
+					<hkparam name="priority">0</hkparam>
+					<hkparam name="flags">FLAG_IS_GLOBAL_WILDCARD|FLAG_IS_LOCAL_WILDCARD|FLAG_DISABLE_CONDITION</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="triggerInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="initiateInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="transition">#osaatt$361</hkparam>
+					<hkparam name="condition">null</hkparam>
+					<hkparam name="eventId">$eventID[osex_attire_St9Dally+10miscmid_1]$</hkparam>
+					<hkparam name="toStateId">42</hkparam>
+					<hkparam name="fromNestedStateId">0</hkparam>
+					<hkparam name="toNestedStateId">0</hkparam>
+					<hkparam name="priority">0</hkparam>
+					<hkparam name="flags">FLAG_IS_GLOBAL_WILDCARD|FLAG_IS_LOCAL_WILDCARD|FLAG_DISABLE_CONDITION</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="triggerInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="initiateInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="transition">#osaatt$362</hkparam>
+					<hkparam name="condition">null</hkparam>
+					<hkparam name="eventId">$eventID[osex_attire_St9Dally+10miscmid_0]$</hkparam>
+					<hkparam name="toStateId">43</hkparam>
+					<hkparam name="fromNestedStateId">0</hkparam>
+					<hkparam name="toNestedStateId">0</hkparam>
+					<hkparam name="priority">0</hkparam>
+					<hkparam name="flags">FLAG_IS_GLOBAL_WILDCARD|FLAG_IS_LOCAL_WILDCARD|FLAG_DISABLE_CONDITION</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="triggerInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="initiateInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="transition">#osaatt$363</hkparam>
+					<hkparam name="condition">null</hkparam>
+					<hkparam name="eventId">$eventID[osex_attire_St9Dally+10misclow_1]$</hkparam>
+					<hkparam name="toStateId">44</hkparam>
+					<hkparam name="fromNestedStateId">0</hkparam>
+					<hkparam name="toNestedStateId">0</hkparam>
+					<hkparam name="priority">0</hkparam>
+					<hkparam name="flags">FLAG_IS_GLOBAL_WILDCARD|FLAG_IS_LOCAL_WILDCARD|FLAG_DISABLE_CONDITION</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="triggerInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="initiateInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="transition">#osaatt$364</hkparam>
+					<hkparam name="condition">null</hkparam>
+					<hkparam name="eventId">$eventID[osex_attire_St9Dally+10misclow_0]$</hkparam>
+					<hkparam name="toStateId">45</hkparam>
+					<hkparam name="fromNestedStateId">0</hkparam>
+					<hkparam name="toNestedStateId">0</hkparam>
+					<hkparam name="priority">0</hkparam>
+					<hkparam name="flags">FLAG_IS_GLOBAL_WILDCARD|FLAG_IS_LOCAL_WILDCARD|FLAG_DISABLE_CONDITION</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="triggerInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="initiateInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="transition">#osaatt$365</hkparam>
+					<hkparam name="condition">null</hkparam>
+					<hkparam name="eventId">$eventID[osex_attire_St9Dally+10intlow_1]$</hkparam>
+					<hkparam name="toStateId">46</hkparam>
+					<hkparam name="fromNestedStateId">0</hkparam>
+					<hkparam name="toNestedStateId">0</hkparam>
+					<hkparam name="priority">0</hkparam>
+					<hkparam name="flags">FLAG_IS_GLOBAL_WILDCARD|FLAG_IS_LOCAL_WILDCARD|FLAG_DISABLE_CONDITION</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="triggerInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="initiateInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="transition">#osaatt$366</hkparam>
+					<hkparam name="condition">null</hkparam>
+					<hkparam name="eventId">$eventID[osex_attire_St9Dally+10intlow_0]$</hkparam>
+					<hkparam name="toStateId">47</hkparam>
+					<hkparam name="fromNestedStateId">0</hkparam>
+					<hkparam name="toNestedStateId">0</hkparam>
+					<hkparam name="priority">0</hkparam>
+					<hkparam name="flags">FLAG_IS_GLOBAL_WILDCARD|FLAG_IS_LOCAL_WILDCARD|FLAG_DISABLE_CONDITION</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="triggerInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="initiateInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="transition">#osaatt$367</hkparam>
+					<hkparam name="condition">null</hkparam>
+					<hkparam name="eventId">$eventID[osex_attire_St9Dally+10inthigh_1]$</hkparam>
+					<hkparam name="toStateId">48</hkparam>
+					<hkparam name="fromNestedStateId">0</hkparam>
+					<hkparam name="toNestedStateId">0</hkparam>
+					<hkparam name="priority">0</hkparam>
+					<hkparam name="flags">FLAG_IS_GLOBAL_WILDCARD|FLAG_IS_LOCAL_WILDCARD|FLAG_DISABLE_CONDITION</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="triggerInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="initiateInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="transition">#osaatt$368</hkparam>
+					<hkparam name="condition">null</hkparam>
+					<hkparam name="eventId">$eventID[osex_attire_St9Dally+10inthigh_0]$</hkparam>
+					<hkparam name="toStateId">49</hkparam>
+					<hkparam name="fromNestedStateId">0</hkparam>
+					<hkparam name="toNestedStateId">0</hkparam>
+					<hkparam name="priority">0</hkparam>
+					<hkparam name="flags">FLAG_IS_GLOBAL_WILDCARD|FLAG_IS_LOCAL_WILDCARD|FLAG_DISABLE_CONDITION</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="triggerInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="initiateInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="transition">#osaatt$369</hkparam>
+					<hkparam name="condition">null</hkparam>
+					<hkparam name="eventId">$eventID[osex_attire_St9Dally+10stockings_1]$</hkparam>
+					<hkparam name="toStateId">50</hkparam>
+					<hkparam name="fromNestedStateId">0</hkparam>
+					<hkparam name="toNestedStateId">0</hkparam>
+					<hkparam name="priority">0</hkparam>
+					<hkparam name="flags">FLAG_IS_GLOBAL_WILDCARD|FLAG_IS_LOCAL_WILDCARD|FLAG_DISABLE_CONDITION</hkparam>
+				</hkobject>
+				<hkobject>
+					<hkparam name="triggerInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="initiateInterval">
+						<hkobject>
+							<hkparam name="enterEventId">-1</hkparam>
+							<hkparam name="exitEventId">-1</hkparam>
+							<hkparam name="enterTime">0.000000</hkparam>
+							<hkparam name="exitTime">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="transition">#osaatt$370</hkparam>
+					<hkparam name="condition">null</hkparam>
+					<hkparam name="eventId">$eventID[osex_attire_St9Dally+10stockings_0]$</hkparam>
+					<hkparam name="toStateId">51</hkparam>
+					<hkparam name="fromNestedStateId">0</hkparam>
+					<hkparam name="toNestedStateId">0</hkparam>
+					<hkparam name="priority">0</hkparam>
+					<hkparam name="flags">FLAG_IS_GLOBAL_WILDCARD|FLAG_IS_LOCAL_WILDCARD|FLAG_DISABLE_CONDITION</hkparam>
+				</hkobject>
+			</hkparam>
+		</hkobject>
+

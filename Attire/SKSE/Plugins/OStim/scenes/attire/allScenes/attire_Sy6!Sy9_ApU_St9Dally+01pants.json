@@ -2,7 +2,7 @@
     "name": "Standing Dally | Sub Pants begone",
     "modpack": "Ceo",
     "length": 16,
-    "destination": "vanilla_Sy6!Sy9_Ap_St9Dally",
+    "destination": "OSA_OSexAttireVisitor",
     "speeds": [
         {
             "animation": "osex_attire_St9Dally+01intlow"
@@ -11,15 +11,24 @@
     "actors": [
         {
             "intendedSex": "male",
-            "scale": 1.03,
             "sosBend": 0,
-            "tags": [],
-            "feetOnGround": true
+            "scale": 1.03,
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true,
+            "lookDown": 60
         },
         {
             "intendedSex": "female",
-            "tags": [],
-            "feetOnGround": true
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true,
+            "lookDown": 30
         }
+    ],
+    "tags": [
+        "osa"
     ]
 }
