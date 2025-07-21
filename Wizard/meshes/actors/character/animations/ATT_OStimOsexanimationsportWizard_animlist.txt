@@ -1,3 +1,5 @@
+b -a,Tn osex_wizardsex_St9Dally+01WzHvT_1 ..\..\..\..\0SA\mod\0Sex\anim\wizardsex\osex_wizardsex_St9Dally+01WzHvT_1.hkx
+b -a,Tn osex_wizardsex_St9Dally+01WzHvT_0 ..\..\..\..\0SA\mod\0Sex\anim\wizardsex\osex_wizardsex_St9Dally+01WzHvT_0.hkx
 b -Tn osex_wizardsex_LoneAngel_1 ..\..\..\..\0SA\mod\0Sex\anim\wizardsex\osex_wizardsex_LoneAngel_1.hkx
 b -Tn osex_wizardsex_LoneAngel_0 ..\..\..\..\0SA\mod\0Sex\anim\wizardsex\osex_wizardsex_LoneAngel_0.hkx
 b -a,Tn osex_wizardsex_LoneAngel+00WzHvS_1 ..\..\..\..\0SA\mod\0Sex\anim\wizardsex\osex_wizardsex_LoneAngel+00WzHvS_1.hkx

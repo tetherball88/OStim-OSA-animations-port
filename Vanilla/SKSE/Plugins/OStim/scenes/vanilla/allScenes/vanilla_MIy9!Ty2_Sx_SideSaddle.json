@@ -1,0 +1,61 @@
+{
+    "name": "SideSaddle | Sex",
+    "modpack": "Ceo",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "osex_vanilla_SideSaddle_S1",
+            "playbackSpeed": 1,
+            "displaySpeed": 1
+        }
+    ],
+    "navigations": [
+        {
+            "destination": "vanilla_MIy9!KNy6_Sx_CowGRodeo",
+            "description": "Turn {1} towards you.",
+            "icon": "OStim/sexual/cowgirl_mf"
+        },
+        {
+            "destination": "vanilla_MIy9!Ty9_Sx_Bumper",
+            "description": "Turn {1} away.",
+            "icon": "OStim/sexual/reversecowgirl_mf"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": -1,
+            "scale": 1.03,
+            "tags": [
+                "lyingback",
+                "onbottom"
+            ],
+            "feetOnGround": true,
+            "lookDown": 80
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "squatting",
+                "ontop"
+            ],
+            "feetOnGround": true,
+            "lookDown": 100
+        }
+    ],
+    "actions": [
+        {
+            "type": "holdingbody",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "osa"
+    ]
+}

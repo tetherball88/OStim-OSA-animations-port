@@ -1221,8 +1221,6 @@
 				<hkcstring>OST_ExitAnim</hkcstring>
 				<hkcstring>osex_attire_KnTumDally+01intlow_1</hkcstring>
 				<hkcstring>osex_attire_KnTumDally+01intlow_0</hkcstring>
-				<hkcstring>osex_attire_St9Dally+01weapon_1</hkcstring>
-				<hkcstring>osex_attire_St9Dally+01weapon_0</hkcstring>
 				<hkcstring>osex_attire_St9Dally+01cape_1</hkcstring>
 				<hkcstring>osex_attire_St9Dally+01cape_0</hkcstring>
 				<hkcstring>osex_attire_St9Dally+01gloves_1</hkcstring>
@@ -1245,8 +1243,6 @@
 				<hkcstring>osex_attire_St9Dally+01inthigh_0</hkcstring>
 				<hkcstring>osex_attire_St9Dally+01stockings_1</hkcstring>
 				<hkcstring>osex_attire_St9Dally+01stockings_0</hkcstring>
-				<hkcstring>osex_attire_St9Dally+10weapon_1</hkcstring>
-				<hkcstring>osex_attire_St9Dally+10weapon_0</hkcstring>
 				<hkcstring>osex_attire_St9Dally+10helmet_1</hkcstring>
 				<hkcstring>osex_attire_St9Dally+10helmet_0</hkcstring>
 				<hkcstring>osex_attire_St9Dally+10cape_1</hkcstring>

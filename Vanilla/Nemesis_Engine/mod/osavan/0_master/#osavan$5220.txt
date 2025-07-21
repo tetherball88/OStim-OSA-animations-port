@@ -2,7 +2,7 @@
 			<hkparam name="variableBindingSet">#osavan$5221</hkparam>
 			<hkparam name="userData">0</hkparam>
 			<hkparam name="name">OStimOsexanimationsportVanilla_AnimClip869</hkparam>
-			<hkparam name="animationName">Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_KnCowG+10HJO_1.hkx</hkparam>
+			<hkparam name="animationName">Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_KfCowG+10OffX_0.hkx</hkparam>
 			<hkparam name="triggers">null</hkparam>
 			<hkparam name="cropStartAmountLocalTime">0.000000</hkparam>
 			<hkparam name="cropEndAmountLocalTime">0.000000</hkparam>

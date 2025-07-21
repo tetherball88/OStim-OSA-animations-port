@@ -1,7 +1,7 @@
 		<hkobject name="#0029" class="hkbCharacterStringData" signature="0x655b42bc">
 			<hkparam name="deformableSkinNames" numelements="0"></hkparam>
 			<hkparam name="rigidSkinNames" numelements="0"></hkparam>
-			<hkparam name="animationNames" numelements="2733">
+			<hkparam name="animationNames" numelements="2796">
 				<hkcstring>Animations\1HM_1stP_Run.hkx</hkcstring>
 				<hkcstring>Animations\1hm_1stP_Walk.hkx</hkcstring>
 				<hkcstring>Animations\1HM_AttackForwardSprint.hkx</hkcstring>
@@ -1731,6 +1731,8 @@
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_DeLiPistonSxHT_S3_0.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_DeLiPistonSxHT_S4_1.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_DeLiPistonSxHT_S4_0.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_DeLiPistonSxHT+01Tax_1.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_DeLiPistonSxHT+01Tax_0.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_DoggyLo_1.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_DoggyLo_0.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_DoggyLo+01CuLi_1.hkx</hkcstring>
@@ -1843,6 +1845,8 @@
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_KfLeanB45+01SexSpankL_0.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_KfLeanB45+01SexSpankR_1.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_KfLeanB45+01SexSpankR_0.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_KfBoke_1.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_KfBoke_0.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_KfBoke+01Es45_1.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_KfBoke+01Es45_0.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_KfBoke+01SexSpankL_1.hkx</hkcstring>
@@ -1851,8 +1855,14 @@
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_KfBoke+01SexSpankR_0.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_KfBoke+01Pr_1.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_KfBoke+01Pr_0.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_KfBokePr_1.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_KfBokePr_0.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_KfBokePr+01Px_1.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_KfBokePr+01Px_0.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_KfBokePR+01SexSpankL_1.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_KfBokePR+01SexSpankL_0.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_KfBokePR+01SexSpankR_1.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_KfBokePR+01SexSpankR_0.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_KnAdore_1.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_KnAdore_0.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_KnAdore+00St_1.hkx</hkcstring>
@@ -2280,10 +2290,15 @@
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_Wuvvy+10Ov2HJO_1.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_Wuvvy+10Ov2HJO_0.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_WuvvyOv2HJO_S1_1.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_WuvvyOv2HJO_s1_0.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_WuvvyOv2HJO_S2_1.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_WuvvyOv2HJO_s2_0.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_WuvvyOv2HJO_S3_1.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_WuvvyOv2HJO_s3_0.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_WuvvyOv2HJO_S4_1.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_WuvvyOv2HJO_s4_0.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_WuvvyOv2HJO_S5_1.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_WuvvyOv2HJO_s5_0.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_WuvvyOv2HJO+10CX_1.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_WuvvyOv2HJO+10CX_0.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_St6RevCud_1.hkx</hkcstring>
@@ -2354,6 +2369,8 @@
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_StOvBo2SxHT_S3_0.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_StOvBo2SxHT_S4_1.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_StOvBo2SxHT_S4_0.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_StOvBo2SxHT+01BaSxPM_1.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_StOvBo2SxHT+01BaSxPM_0.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_Noble_1.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_Noble_0.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_Noble+01Dnf_1.hkx</hkcstring>
@@ -2452,6 +2469,8 @@
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_Industry_0.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_Industry+10OffX_1.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_Industry+10OffX_0.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_Rocket+01bo90_1.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_Rocket+01bo90_0.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_Rocket_S1_1.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_Rocket_S1_0.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_Rocket_S2_1.hkx</hkcstring>
@@ -2494,6 +2513,8 @@
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_Bumper8B_S4_0.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_Bumper8B_S5_1.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_Bumper8B_S5_0.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_SideSaddle_S1_1.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_SideSaddle_S1_0.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_PompAp_1.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_PompAp_0.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_PompAp+11YdU6_1.hkx</hkcstring>
@@ -2588,6 +2609,8 @@
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_Beholder+00Kn2_0.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_Beholder+01Ho_1.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_Beholder+01Ho_0.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_Beholder+11KnX_1.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_Beholder+11KnX_0.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_Drape_1.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_Drape_0.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_Drape+01Lego_1.hkx</hkcstring>
@@ -2616,8 +2639,12 @@
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_SpoonPo+01SxPm_0.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_SpoonPo+01CXHo_1.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_SpoonPo+01CXHo_0.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_SpoonSxPM+01Po_1.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_SpoonSxPM+01Po_0.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_SpoonSxPM+01Lu_1.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_SpoonSxPM+01Lu_0.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_SpoonSxPM+01TU6_1.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_SpoonSxPM+01TU6_0.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_SpoonSxPM+01Ty9_1.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_SpoonSxPM+01Ty9_0.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_SpoonSxPM_S1_1.hkx</hkcstring>
@@ -2634,6 +2661,42 @@
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_SpoonLu2SxPm+01Ld_0.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_SpoonLu2SxPm+01Lu_1.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_SpoonLu2SxPm+01Lu_0.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_SpoonLu2SxPm_S1_1.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_SpoonLu2SxPm_S1_0.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_SpoonLu2SxPm_S2_1.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_SpoonLu2SxPm_S2_0.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_SpoonLu2SxPm_S3_1.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_SpoonLu2SxPm_S3_0.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_SpoonLu2SxPm_S4_1.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_SpoonLu2SxPm_S4_0.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_SpoonLu2SxPm_S5_1.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_SpoonLu2SxPm_S5_0.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_SpoonLu4SxPm+01Ld_1.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_SpoonLu4SxPm+01Ld_0.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_SpoonLu4SxPm+01Lu_1.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_SpoonLu4SxPm+01Lu_0.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_SpoonLu4SxPm_S1_1.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_SpoonLu4SxPm_S1_0.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_SpoonLu4SxPm_S2_1.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_SpoonLu4SxPm_S2_0.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_SpoonLu4SxPm_S3_1.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_SpoonLu4SxPm_S3_0.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_SpoonLu4SxPm_S4_1.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_SpoonLu4SxPm_S4_0.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_SpoonLu4SxPm_S5_1.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_SpoonLu4SxPm_S5_0.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_SpoonLux6SxPm+01Ld_1.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_SpoonLux6SxPm+01Ld_0.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_SpoonLux6SxPm_S1_1.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_SpoonLux6SxPm_S1_0.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_SpoonLux6SxPm_S2_1.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_SpoonLux6SxPm_S2_0.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_SpoonLux6SxPm_S3_1.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_SpoonLux6SxPm_S3_0.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_SpoonLux6SxPm_S4_1.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_SpoonLux6SxPm_S4_0.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_SpoonLux6SxPm_S5_1.hkx</hkcstring>
+				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_SpoonLux6SxPm_S5_0.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_SpoonEmb_1.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_SpoonEmb_0.hkx</hkcstring>
 				<hkcstring>Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_SpoonEmb+01Km_1.hkx</hkcstring>

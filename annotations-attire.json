@@ -1,0 +1,73 @@
+{
+    "osex_attire_St9Dally+01boots_1.hkx": [
+        "7.000000 OStimUndressPartial.0x80"
+    ],
+    "osex_attire_St9Dally+01cape_1.hkx": [
+        "11.000000 OStimUndressPartial.0x10000"
+    ],
+    "osex_attire_St9Dally+01cuirass_1.hkx": [
+        "7.000000 OStimUndressPartial.0x4"
+    ],
+    "osex_attire_St9Dally+01gloves_1.hkx": [
+        "9.000000 OStimUndressPartial.0x8"
+    ],
+    "osex_attire_St9Dally+01inthigh_1.hkx": [
+        "7.000000 OStimUndressPartial.0x8000000"
+    ],
+    "osex_attire_St9Dally+01intlow_1.hkx": [
+        "4.500000 OStimUndressPartial.0x10000",
+        "6.750000 OStimUndressPartial.0x20000"
+    ],
+    "osex_attire_St9Dally+01miscarms_1.hkx": [
+        "5.250000 OStimUndressPartial.0x40000000"
+    ],
+    "osex_attire_St9Dally+01misclow_1.hkx": [
+        "6.000000 OStimUndressPartial.0x1000000"
+    ],
+    "osex_attire_St9Dally+01miscmid_1.hkx": [
+        "6.000000 OStimUndressPartial.0x100000"
+    ],
+    "osex_attire_St9Dally+01miscup_1.hkx": [
+        "6.000000 OStimUndressPartial.0x80000"
+    ],
+    "osex_attire_St9Dally+01stockings_1.hkx": [
+        "12.000000 OStimUndressPartial.0x2000000"
+    ],
+    "osex_attire_St9Dally+10helmet_0.hkx": [
+        "4.000000 OStimUndressPartial.0x1"
+    ],
+    "osex_attire_St9Dally+10boots_0.hkx": [
+        "4.000000 OStimUndressPartial.0x80"
+    ],
+    "osex_attire_St9Dally+10cape_0.hkx": [
+        "8.000000 OStimUndressPartial.0x10000"
+    ],
+    "osex_attire_St9Dally+10cuirass_0.hkx": [
+        "10.250000 OStimUndressPartial.0x4"
+    ],
+    "osex_attire_St9Dally+10gloves_0.hkx": [
+        "8.000000 OStimUndressPartial.0x8"
+    ],
+    "osex_attire_St9Dally+10inthigh_0.hkx": [
+        "8.000000 OStimUndressPartial.0x8000000"
+    ],
+    "osex_attire_St9Dally+10intlow_0.hkx": [
+        "10.000000 OStimUndressPartial.0x10000",
+        "9.000000 OStimUndressPartial.0x20000"
+    ],
+    "osex_attire_St9Dally+10miscarms_0.hkx": [
+        "8.000000 OStimUndressPartial.0x40000000"
+    ],
+    "osex_attire_St9Dally+10misclow_0.hkx": [
+        "8.000000 OStimUndressPartial.0x1000000"
+    ],
+    "osex_attire_St9Dally+10miscmid_0.hkx": [
+        "8.000000 OStimUndressPartial.0x100000"
+    ],
+    "osex_attire_St9Dally+10miscup_0.hkx": [
+        "6.000000 OStimUndressPartial.0x80000"
+    ],
+    "osex_attire_St9Dally+10stockings_0.hkx": [
+        "8.000000 OStimUndressPartial.0x2000000"
+    ]
+}

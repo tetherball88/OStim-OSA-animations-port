@@ -22,14 +22,16 @@
             "tags": [
                 "lyingback"
             ],
-            "feetOnGround": false
+            "feetOnGround": false,
+            "lookUp": 50
         },
         {
             "intendedSex": "female",
             "tags": [
                 "standing"
             ],
-            "feetOnGround": true
+            "feetOnGround": true,
+            "lookDown": 100
         }
     ],
     "actions": [],

@@ -6,7 +6,7 @@
 			<hkparam name="transitions">#osawiz$221</hkparam>
 			<hkparam name="generator">#osawiz$1</hkparam>
 			<hkparam name="name">OStimOsexanimationsportWizard_State</hkparam>
-			<hkparam name="stateId">7204814</hkparam>
+			<hkparam name="stateId">3076868</hkparam>
 			<hkparam name="probability">1.000000</hkparam>
 			<hkparam name="enable">true</hkparam>
 		</hkobject>

@@ -2,7 +2,7 @@
 			<hkparam name="variableBindingSet">#osavan$4855</hkparam>
 			<hkparam name="userData">0</hkparam>
 			<hkparam name="name">OStimOsexanimationsportVanilla_AnimClip808</hkparam>
-			<hkparam name="animationName">Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_Rocket8B_S3_0.hkx</hkparam>
+			<hkparam name="animationName">Animations\OpenSex\..\..\..\..\0SA\mod\0Sex\anim\vanilla\osex_vanilla_Industry+10OffX_1.hkx</hkparam>
 			<hkparam name="triggers">null</hkparam>
 			<hkparam name="cropStartAmountLocalTime">0.000000</hkparam>
 			<hkparam name="cropEndAmountLocalTime">0.000000</hkparam>
@@ -11,7 +11,7 @@
 			<hkparam name="enforcedDuration">0.000000</hkparam>
 			<hkparam name="userControlledTimeFraction">0.000000</hkparam>
 			<hkparam name="animationBindingIndex">-1</hkparam>
-			<hkparam name="mode">MODE_LOOPING</hkparam>
+			<hkparam name="mode">MODE_SINGLE_PLAY</hkparam>
 			<hkparam name="flags">0</hkparam>
 		</hkobject>
 

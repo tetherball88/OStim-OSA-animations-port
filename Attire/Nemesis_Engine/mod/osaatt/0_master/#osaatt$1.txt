@@ -19,9 +19,9 @@
 			<hkparam name="maxSimultaneousTransitions">32</hkparam>
 			<hkparam name="startStateMode">START_STATE_MODE_DEFAULT</hkparam>
 			<hkparam name="selfTransitionMode">SELF_TRANSITION_MODE_NO_TRANSITION</hkparam>
-			<hkparam name="states" numelements="52">
-				#osaatt$4 #osaatt$10 #osaatt$16 #osaatt$22 #osaatt$28 #osaatt$34 #osaatt$40 #osaatt$46 #osaatt$52 #osaatt$58 #osaatt$64 #osaatt$70 #osaatt$76 #osaatt$82 #osaatt$88 #osaatt$94 #osaatt$100 #osaatt$106 #osaatt$112 #osaatt$118 #osaatt$124 #osaatt$130 #osaatt$136 #osaatt$142 #osaatt$148 #osaatt$154 #osaatt$160 #osaatt$166 #osaatt$172 #osaatt$178 #osaatt$184 #osaatt$190 #osaatt$196 #osaatt$202 #osaatt$208 #osaatt$214 #osaatt$220 #osaatt$226 #osaatt$232 #osaatt$238 #osaatt$244 #osaatt$250 #osaatt$256 #osaatt$262 #osaatt$268 #osaatt$274 #osaatt$280 #osaatt$286 #osaatt$292 #osaatt$298 #osaatt$304 #osaatt$310
+			<hkparam name="states" numelements="48">
+				#osaatt$4 #osaatt$10 #osaatt$16 #osaatt$22 #osaatt$28 #osaatt$34 #osaatt$40 #osaatt$46 #osaatt$52 #osaatt$58 #osaatt$64 #osaatt$70 #osaatt$76 #osaatt$82 #osaatt$88 #osaatt$94 #osaatt$100 #osaatt$106 #osaatt$112 #osaatt$118 #osaatt$124 #osaatt$130 #osaatt$136 #osaatt$142 #osaatt$148 #osaatt$154 #osaatt$160 #osaatt$166 #osaatt$172 #osaatt$178 #osaatt$184 #osaatt$190 #osaatt$196 #osaatt$202 #osaatt$208 #osaatt$214 #osaatt$220 #osaatt$226 #osaatt$232 #osaatt$238 #osaatt$244 #osaatt$250 #osaatt$256 #osaatt$262 #osaatt$268 #osaatt$274 #osaatt$280 #osaatt$286
 			</hkparam>
-			<hkparam name="wildcardTransitions">#osaatt$316</hkparam>
+			<hkparam name="wildcardTransitions">#osaatt$292</hkparam>
 		</hkobject>
 

@@ -16,7 +16,7 @@
         {
             "destination": "attire_Sy6!Sy9_ApU_St9Dally+10helmet",
             "description": "{1} takes off {0}'s helmet.",
-            "icon": "OStim/clothes/top"
+            "icon": "OStim/clothes/helmet"
         },
         {
             "destination": "attire_Sy6!Sy9_ApU_St9Dally+10cuirass",

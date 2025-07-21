@@ -6,7 +6,7 @@
 			<hkparam name="transitions">#osabgi$125</hkparam>
 			<hkparam name="generator">#osabgi$1</hkparam>
 			<hkparam name="name">OStimOsexanimationsportBadGirls_State</hkparam>
-			<hkparam name="stateId">53158</hkparam>
+			<hkparam name="stateId">4224523</hkparam>
 			<hkparam name="probability">1.000000</hkparam>
 			<hkparam name="enable">true</hkparam>
 		</hkobject>
