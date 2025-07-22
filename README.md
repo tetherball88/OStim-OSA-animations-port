@@ -5,12 +5,12 @@
 1. **Download the repository as a ZIP** and drag & drop it into your MO2 downloads.
 2. **Install via FOMOD** and select the modules you need. Each mod points to the original pack with animation `.hkx` files.
 3. **Keep default folder names for requirements:**
-   - `OSex`
-   - `OSexPack Dual Wield`
-   - `OSexPack Bad Girls of Skyrim`
-   - `OSexPack Bad Boys of Skyrim`
-   - `OSexPack Wizard Sex`
-   - `OSexAttire AE`
+   - `OSex`(https://www.nexusmods.com/skyrimspecialedition/mods/17209)
+   - `OSexPack Dual Wield`(https://www.nexusmods.com/skyrimspecialedition/mods/63073)
+   - `OSexPack Bad Girls of Skyrim`(https://www.nexusmods.com/skyrimspecialedition/mods/63069)
+   - `OSexPack Bad Boys of Skyrim`(https://www.nexusmods.com/skyrimspecialedition/mods/63070)
+   - `OSexPack Wizard Sex`(https://www.nexusmods.com/skyrimspecialedition/mods/63089)
+   - `OSexAttire AE`(https://mega.nz/file/FklVwSaD#VUFozsvMY6vBD5ah8VlbMi8UDhlNJYsrp7pERvJ4WvM)
 4. **After installing this port mod:**
    - Open the folder and double-click `removeBehaviorFiles.bat`.
    - If you kept the default mod names, this will automatically remove the behavior folders from the original packs.
